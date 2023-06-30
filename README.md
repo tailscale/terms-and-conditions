@@ -24,7 +24,7 @@ To be notified of upcoming changes to Tailscale's terms and conditions, [subscri
 
 ## Contributing
 
-We do not accept public contributions or issues on this repository. 
+We do not accept public contributions or issues on this repository.
 
 We may consider public comment on proposed changes.
 

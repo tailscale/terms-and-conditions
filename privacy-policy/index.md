@@ -6,121 +6,529 @@ description: >
   Tailscale values and respects your privacy. We've prepared this privacy policy to explain the manner in which we collect, use and disclose personal information through your use of Tailscale. Please contact us if you have any questions.
 ---
 
-Effective Date: March 14, 2022
+**Tailscale Privacy Policy**
 
-Tailscale Inc. (“Tailscale”) values and respects your privacy. We have prepared this privacy policy to explain the manner in which we collect, use and disclose personal information through your use of the Tailscale mesh VPN (the “Tailscale Service”), our website located at [https://tailscale.com](https://tailscale.com), and through our other interactions with you.
+Effective Date: 2023-01-12
 
-### Table of Contents
+Tailscale, Inc. ("Tailscale", "we", "our" or "us") allows customers and
+individuals to directly connect servers, computers, mobile devices, and
+cloud instances in a simple mesh VPN network, in which every connection
+is encrypted. 
 
-1. [Information we maintain on behalf of our Customers](#info)
-1. [How we collect and use personal information](#collect)
-1. [How we share personal information](#share)
-1. [Information about our website and applications](#about)
-1. [Safeguards and retention](#safeguards)
-1. [Access to information](#access)
-1. [Updates to this privacy policy](#updates)
-1. [Contact us](#contact)
+Tailscale is committed to transparency in our processing of
+information. This Privacy Policy describes how we collect, use, disclose
+and protect information from and about you through our
+website [www.tailscale.com](http://www.tailscale.com) and any other
+website or mobile application that links to this Privacy Policy (the
+"Site"), mesh VPN services (the "Tailscale Solution"), and any other
+interactions (e.g., customer support, events, our social media pages,
+and other communications) that you may have with us (all of these
+offerings collectively referred to herein as the "Services").
 
-### Information we maintain on behalf of our Customers<a name="info"></a>
+**PLEASE READ THIS PRIVACY POLICY CAREFULLY TO UNDERSTAND HOW WE HANDLE
+YOUR INFORMATION. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO
+NOT USE THE SERVICES.**
 
-The Tailscale Service allows our Customers to directly connect servers, computers, mobile devices, and cloud instances in a simple mesh network, in which every connection is encrypted. To provide this product to our Customers, we collect, use, and disclose personal information of individuals, including employees of our Customers. The personal information we collect, use, and disclose includes business contact information such as names, job titles, and company email addresses, as well as information about individual devices (such as device hardware and operating system) and aggregated usage statistics (such as amount of data transmitted in a period of time).
+**Contents**
 
-We collect and use information only on behalf of our Customers, and do not use such information for any other purpose except as set out in this privacy policy or as required or permitted by applicable laws.
+[1. SCOPE OF THIS PRIVACY POLICY](#scope-of-this-privacy-policy)
 
-We rely on our Customers to comply with laws applicable to them (including privacy laws) when using the Tailscale Service to collect, use, or disclose personal information of individuals, including, where applicable, by obtaining appropriate consent to collect, use, and disclose personal information.
+[2. THE INFORMATION WE COLLECT](#the-information-we-collect)
 
-### How we collect and use personal information<a name="collect"></a>
+[3. HOW WE USE YOUR INFORMATION](#how-we-use-your-information)
 
-**To create and administer your account:** You do not have to create a Tailscale account to visit our website or download our client applications. However, you will be required to create an account in order to use the Tailscale Service. To create and administer your account, we will collect information such as your email address, as well as your first and last name. We will ask you to authenticate, using your email address, with your domain’s corresponding OAuth2 or SAML provider. We will never ask you for your password in any unsolicited communication (such as letters, phone calls or email messages). If you become aware of any unauthorized access to or use of your account, you are required to notify us immediately.
+[4. LEGAL BASES FOR USE OF YOUR
+INFORMATION](#legal-bases-for-use-of-your-information)
 
-We may offer Customers or their permitted users (such as employees or contractors) the opportunity to engage with or log into the Tailscale Service using third-party social networking sites or other third-party applications. When you log into our product through these third-party sites, we may collect certain information associated with your account on the third party’s site (e.g., name, username, email address, profile picture, gender) in order to create and manage your account, or as part of the operation of the third party’s website, plug-in or application.
+[5. HOW WE DISCLOSE YOUR INFORMATION](#how-we-disclose-your-information)
 
-**To provide the Tailscale Service:** We collect information about our Customers’ use of the Tailscale Service, including information about each device used (such as the type of device hardware, hostname, all IP addresses, internal and private network routing information, operating system version, cryptographic public key, user agent (where applicable), the version of the Tailscale software installed, aggregate usage information (such as timestamps and connection logs between devices, as well as the sum of data transferred between devices by a given user), language settings, and the date and time the app accesses our servers). We use this information to provide, monitor, and manage the quality of our services, as well as to provide technical assistance. In some cases, The Tailscale Service uses this information to assist in establishing connections between pairs of devices. However, because transmissions through the Tailscale Service are encrypted, we do not collect, use, or disclose, and do not have access to, the personal information transmitted by our Customers through the network (with the exception of log files you may choose to send to Tailscale). Therefore, while we may collect information about the amount of data transferred by a user, we are not able to access or view the content of that data.
+[6. RETENTION OF YOUR INFORMATION](#retention-of-your-information)
 
-**To book a demo:** If you apply for a free consultation, demo, event, webinar, or other offer, we may collect your name, job title, and business contact information (including company email and phone number), and certain information about your company and devices. We use this information to contact you and otherwise facilitate or provide you with your consultation or demo.
+[7. YOUR RIGHTS AND YOUR CHOICES](#your-rights-and-your-choices)
 
-**To send marketing communications:** If you sign-up to receive email marketing communications such as newsletters, we collect your email address as well as other information on an optional basis to help us tailor our communications to you. You can unsubscribe at any time by clicking the “unsubscribe” link included at the bottom of each email. Alternatively, you can opt-out of receiving email marketing communications by contacting us at the contact information provided in the “Contact us” section below. Please note that you may continue to receive transactional or account-related communications from us.
+[8. THIRD PARTY LINKS AND FEATURES](#third-party-links-and-features)
 
-If you choose to provide us with your email, we may also submit your email to third-party social media platforms such as Facebook, Twitter, Google or LinkedIn for the purpose of displaying targeted advertisements to you on these platforms. You can manage your privacy settings directly through your account on these third-party platforms, including by opting out of targeted advertising.
+[9. INTERNATIONAL USERS](#international-users)
 
-**To conduct surveys and customer research:** From time to time, we may offer you the opportunity to participate in one of our surveys. We use this information to help us understand our users and to enhance our website, client app, and the Tailscale Service.
+[10. HOW WE PROTECT YOUR INFORMATION](#how-we-protect-your-information)
 
-**To process your application for employment:** If you apply for a job with us, we may collect certain personal information about you (such as information that would be contained in a resume, cover letter, or other employment-related materials). We use this information for the purpose of processing and responding to your application.
+[11. PRIVACY INFORMATION FOR CERTAIN U.S. STATE
+RESIDENTS](#privacy-information-for-certain-us-state-residents)
 
-**To provide customer support:** When you contact us with a comment, question or complaint through email, or telephone, or online chat, you may be asked for information that identifies you, such as your name, email address, and a telephone number, along with additional information we need to help us promptly answer your question or respond to your comment. We may retain this information to assist you in the future and to improve our customer service and service offerings.
+[12. CHANGES TO OUR PRIVACY POLICY](#changes-to-our-privacy-policy)
 
-We may monitor and record our telephone conversations with you for training and quality assurance purposes. You will be provided with a notice at the beginning of any call that is being recorded. If you do not wish to have your call recorded, please let us know.
+[13. CONTACT US](#contact-us)
 
-### How we share personal information<a name="share"></a>
+## 1. SCOPE OF THIS PRIVACY POLICY {id="scope-of-this-privacy-policy"}
 
-We do not sell or disclose your personal information to third parties without your consent, except as set forth below or as required or permitted by law.
+Please note that this Privacy Policy applies where Tailscale is a "data
+controller" of your information. This includes when we collect
+information from and about visitors to our websites ("Site Visitors"),
+prospective users and customers ("Prospects"), as well as users of the
+Tailscale Solution ("Users"), collectively referred to herein as "you."
 
-**Service providers:** Your personal information will be transferred (or otherwise made available) to certain third parties that provide services on our behalf. We use service providers to provide services such as hosting the website, operating certain of its features, processing payments, providing authentication services, data analysis to better understand and improve product and website usage, and providing advertising and marketing services. Our service providers are only provided with the information they need to perform their designated functions and are not authorized to use or disclose personal information for their own marketing or other purposes. Our service providers may be located in the U.S., Canada or other foreign jurisdictions.
+In providing our Services, we may process certain information about
+Users on behalf of organizations that have contracted to use the
+Tailscale Solution under a Master Services Agreement or Terms of Service
+("Customers"). In such circumstances, our Customers are the data
+controllers and we are the "data processor" or "service provider,"
+depending on applicable law. This means that our Customers are
+responsible for processing information in accordance with their own
+privacy policies and practices, and otherwise complying with applicable
+data protection laws. When we act as a data processor, we will only
+process information about Users using our Customers' accounts according
+to the Customers' instructions and the applicable data processing
+agreement we have in place with our Customers, or as otherwise required
+by applicable law. In such circumstances, if you have any questions
+about the processing of your information, or would like to make any
+requests regarding your information, please contact the Customer for
+assistance.
 
-**Legal and compliance:** We and our Canadian, U.S. and other foreign service providers may provide your personal information in response to a search warrant to other legally valid inquiry or order, or to another organization for the purposes of investigating a breach of an agreement or contravention of law or detecting, suppressing or preventing fraud, or as otherwise may be required or permitted by applicable Canadian, U.S. or other law or legal process, which may include lawful access by U.S. or foreign courts, law enforcement or other government authorities. Your personal information may also be disclosed where necessary for the establishment, exercise or defence of legal claims and to investigate or prevent actual or suspected loss or harm to persons or property.
+## 2. THE INFORMATION WE COLLECT {id="the-information-we-collect"}
 
-**Sale of business:** We may transfer any information we have about you as an asset in connection with a proposed or completed merger, acquisition or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Tailscale Inc. or as part of a corporate reorganization or other change in corporate control.
+We collect, store and use certain information from or about you for the
+purposes described below.
 
-### Information about our website and applications<a name="about"></a>
+### INFORMATION YOU PROVIDE TO US
 
-**Visiting our website:** In general, you can visit our website without telling us who you are or submitting any personal information. However, we collect the IP (Internet protocol) addresses of all visitors to our website and other related information such as page requests, browser type, operating system, and average time spent on our website. We use this information to help us understand our website activity and to monitor and improve our website.
+We collect a variety of information that you provide directly to us. For
+example, we collect information from you through:
 
-**Cookies:** Our website uses a technology called "cookies". A cookie is a tiny element of data that our website sends to a user’s browser, which may then be stored on the user’s hard drive and later retrieved by our website so that, for instance, we can recognize the user’s computer or device when they return. You may set your browser to notify you when you receive a cookie or to not accept certain cookies. However, if you decide not to accept cookies from our website, you may not be able to take advantage of all of the website features.
+-   Your registration to use the Services
 
-**Website analytics:** The website also uses web analytics services such as Segment Analytics. Segment helps us analyze how visitors use the website. The information generated by your use of the website (including your IP address) will be used for the purpose of evaluating your use of the website, compiling reports on website activity, and providing other services relating to website activity and internet usage. You can prevent the storage and processing of data relating to your use of the website by using the Segment consent management tool by emailing us at the contact information below.
+-   Your use of the Services
 
-**App usage information & analytics:** As with many applications, certain limited data is required for our client software to function on your device. This data includes the type of device hardware, hostname, all IP addresses, internal and private network routing information, operating system version, cryptographic public key, user agent (where applicable), the version of the Tailscale software installed, aggregate usage information (such as timestamps and connection logs between devices, as well as the sum of data transferred between devices by a given user), language settings, and the date and time the app accesses our servers. To use the Tailscale Service on your device, we also require that you authenticate (using your email address) against a third-party identity provider; your email address will be associated by us with your device. We use this information to help us understand the activity on our client app, to monitor and improve our app, and to tailor your in-app experience. In addition, we may use third party service providers to collect analytical information about your use of our client app, such as the features used and time spent on the app, to help us tailor your in-app experience, improve the Tailscale Service and the quality of our app, and to better understand our users.
+-   Your participation in product demos and webinars
 
-**Interest-Based Advertising:** We work with third-parties such as ad networks, service providers, and other advertising companies that use their own tracking technologies (including cookies and pixel tags) on our website in order to provide you with tailored advertisements across the Internet. These companies may collect information about your activity on our website and third-party websites (such as web pages you visit and your interaction with our advertising and other communications) and use this information to make predictions about your preferences, develop personalized content and deliver ads that are more relevant to you on third party websites. This information may also be used to evaluate the effectiveness of our online advertising campaigns.
+-   Your communications with our support/sales teams
 
-**Opting-out of Interest-Based Advertising:** For more information about interest-based advertising and to understand your options, including how you can opt-out of receiving behavioral ads from third-party advertising companies participating in the Digital Advertising Alliance of Canada, please visit the Digital Advertising Alliance of Canada website at https://youradchoices.ca/choices.
+-   Requests or questions you submit to us via online forms, email, or
+    otherwise
 
-Please note that even if you opt-out of interest-based advertising by a third party, these tracking technologies may still collect data for other purposes, including analytics, and you will still see ads from us. However, the ads will not be targeted based on behavioral information about you and may therefore be less relevant to you and your interests.
+-   Your participation in surveys, research, sweepstakes, or contests
 
-To successfully opt out, you must have cookies enabled in your web browser (see your browser’s instructions for information on cookies and how to enable them). Your opt-out only applies to the web browser you use so you must opt-out of each web browser on each computer you use. Once you opt out, if you delete your browser’s saved cookies, you will need to opt-out again.
+-   When you communicate with our customer support teams via email,
+    phone, videoconferencing, or chat (e.g., you email, video chat, open
+    a support ticket, file a feature request, tweet at us, etc. for
+    customer support)
 
-**Third party links:** Our website may contain links to other websites that Tailscale does not own or operate. We provide links to third party websites as a convenience to the user. These links are not intended as an endorsement of or referral to the linked websites. The linked websites have separate and independent privacy policies, notices and terms of use. We do not have any control over such websites, and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose, secure and otherwise treat personal information. We encourage you to read the privacy policy of every website you visit.
+-   When you attend our conferences or events or interact with us at
+    other conferences or events
 
-### Safeguards and Retention<a name="safeguards"></a>
+-   When you sign up for our newsletters
 
-We have implemented reasonable administrative, technical and physical measures in an effort to safeguard the personal information in our custody and control against theft, loss and unauthorized access, use, modification and disclosure. We restrict access to personal information on a need-to-know basis to employees and authorized service providers who require access to fulfill their job requirements.
+-   When you use a blog or forum made available through the Services
+    (for example, if you comment on a post or submit a question)
 
-We have record retention processes designed to retain personal information for no longer than necessary for the purposes set out herein or as otherwise required to meet legal or business requirements. Thereafter, we either securely delete or de-identify any personal information. To request your personal information be deleted, contact <support@tailscale.com>.
+The types of data we collect directly from you include:
 
-### Access to Information<a name="access"></a>
+-   First and last name
 
-Subject to applicable law, you have the right to access, update and correct inaccuracies in your personal information in our custody or control. You may request access, updating and corrections of inaccuracies in your personal information in our custody or control by emailing or writing to us at the contact information set out below. We may request certain personal information for the purpose of verifying the identity of the individual seeking access to his or her personal information records.
+-   Email address or username
 
-Please note that information transmitted by our Customers through the Tailscale Service is encrypted, and not accessible by us (except for log files you may choose to send to us). If you wish to access personal information being processed by one of our Customers, please contact that Customer directly.
+-   Postal/billing address
 
-### Updates to this privacy policy<a name="updates"></a>
+-   Telephone number
 
-We may update this privacy policy periodically to reflect changes to our privacy practices. We encourage you to periodically review this page to ensure you are familiar with those changes. We will indicate at the top of this privacy policy when it was most recently updated.
+-   Log-in authentication information
 
-### Contact us<a name="contact"></a>
+-   Your company or organization name
 
-If you have any questions or comments about this privacy policy or the manner in which we or our service providers treat your personal information, or to request access to our collection of your personal information, please [contact us][1] at:
+-   Your title
 
-By email or phone:
+-   Any other information you choose to directly provide to us in
+    connection with your use of the Services
 
-> David Carney
->
-> privacy@tailscale.com
->
-> +1 (415) 886-9844
+### INFORMATION WE COLLECT THROUGH AUTOMATED MEANS
+
+**Tailscale Solution Information.** When you use the Tailscale Solution,
+we collect limited metadata regarding your device used to access the
+Tailscale Solution, such as: the device name; relevant operating system
+type; host name; IP address; cryptographic public key; user agent (where
+applicable); language settings; date and time of access to the Tailscale
+Solution; logs describing connections and containing statistics about
+data sent to an from other devices ("Inter-Node Traffic Logs"); and
+version of Tailscale Solution installed. This information is needed to
+provide the Tailscale Solution to you. **However, please note that
+Tailscale does not process, or have the ability to access, the content
+of User traffic data transmitted through the Tailscale Solution, which
+is fully end-to-end encrypted.**
+
+Customers have the option, in their discretion, to use certain features
+and functionalities through the Tailscale Solution that may generate
+additional logs and other data that is sent to Tailscale for
+processesing and storage on behalf of our Customers ("Customer Log
+Data"). The Customer, and not Tailscale, has control over the contents
+of Customer Log Data processed through the Tailscale Solution using such
+additional features and functionalities. Tailscale will process Customer
+Log Data in accordance with the applicable data processing agreement
+with the Customer and this Privacy Policy.
+
+As you use the Services, we also collect aggregated usage statistics
+(such as the amount of data transmitted through the Tailscale Solution
+over a period of time, and information about how you're using the
+Tailscale Solution). Please note that to the extent such aggregated
+information or the metadata discussed above that we collect through your
+use of the Tailscale Solution cannot be used to identify you or your
+device, we can use and disclose such information in our discretion as
+discussed in the "Aggregate/De-Identified" Information section below.
+
+**Site Information**. When you use our Site, we automatically collect
+certain information about your device and how you use the Site,
+including your IP address, browser type, browser language, operating
+system, the state or country from which you accessed the Services,
+software and hardware attributes (including device IDs), referring and
+exit pages and URLs, platform type, the number of clicks, files you
+download, domain names, landing pages, pages viewed and the order of
+those pages, the amount of time spent on particular pages, the date and
+time you used the Services, error logs, and other similar information.
+From your IP address, we may be able to infer your general location
+(e.g., city/state or postal code).
+
+To collect Site information, we and our service providers may use
+"cookies" or similar tools that track, measure, and analyze the
+behaviors and usage patterns of our Site Visitors. Cookies are small
+data files that can be stored on your browser and device so we can
+recognize you when you return. We use cookies for analytics purposes, to
+deliver certain features of the Site, to help us understand how users
+engage with the Site, and to improve your experience with the Site. You
+may set your web browser to notify you when you receive a cookie and to
+accept or refuse certain cookies. However, if you elect not to accept
+cookies, some functionality and areas of the Site may be restricted. To
+learn how to manage your cookies, please follow the instructions from
+your specific browser, or if accessing the Site via a mobile device,
+refer to the manufacturer's instructions.
+
+### INFORMATION WE COLLECT FROM OTHERS
+
+From time to time, we may collect information about Prospects from other
+sources, including partners, data enhancement services, conferences, and
+other industry events or other purposes that we explain to you at the
+time of collection, to the extent permitted by applicable law. We use
+this information to supplement the information that we collect directly
+from Prospects in order to better understand our Prospects' interests
+and to provide them with more relevant information, and to improve our
+analytics and advertising.
+
+We may offer you the opportunity to engage with or log into the Services
+using third-party social networking sites or other third-party
+applications. When you log into the Services through these third-party
+mechanisms, we may collect certain information associated with your
+account on the third party's site (e.g., name, username or email
+address, or profile picture), in accordance with your privacy settings
+on those sites, in order to create and manage your account, or as part
+of the operation of the third party's website, plug-in or application.
+The third-party's privacy policy, and not ours, will govern the
+information disclosed to us through the use of these log-in methods.
+
+When you "like" or "follow" us on Facebook, LinkedIn, Twitter or other
+social media sites, we may collect some information from you including
+your name, username, email address, and any comments or content you post
+relevant to us.
+
+## 3. HOW WE USE YOUR INFORMATION {id="how-we-use-your-information"}
+
+We use your information for various purposes depending on the types of
+information we have collected from and about you, to:
+
+-   **Provide the Tailscale service:** Provide you with access to and to
+    administer our Services
+
+-   **Provide customer support:** Respond to your requests for
+    information and provide you with more effective and efficient
+    customer support
+
+-   **Send marketing communications:** Contact you by email, postal
+    mail, or phone with news, updates, information, promotions, surveys
+    or contests relating to the Services or other services that may be
+    of interest to you, in accordance with applicable legal requirements
+    related to such communications
+
+-   Customize the content you see on our Site
+
+-   **Conduct customer research:** Engage in analysis and research
+    regarding use of the Services, and improve our Services
+
+-   Secure our Services and resolve technical issues being reported
+
+-   **Meet legal requirements:** Comply with any procedures, laws, and
+    regulations which apply to us where it is necessary for our
+    legitimate interests or the legitimate interests of others
+
+-   Establish, exercise, or defend our legal rights where it is
+    necessary for our legitimate interests or the legitimate interests
+    of others
+
+**Aggregate/De-Identified Information**. We may aggregate and/or
+de-identify any information collected through our Services so that such
+information can no longer be linked to you or your device
+("Aggregate/De-Identified Information"). We may use such information for
+any purpose, including without limitation for research, and may also
+disclose such data with any third parties, including our third-party
+partners.
+
+## 4. LEGAL BASES FOR USE OF YOUR INFORMATION {id="legal-bases-for-use-of-your-information"}
+
+The legal bases for using your information as set out in this Privacy
+Policy are as follows:
+
+-   Where we need to perform the contract we are about to enter into or
+    have entered into with you for the Services
+
+-   Where it is necessary for our legitimate interests (or those of a
+    third party) and your interests and fundamental rights do not
+    override those interests
+
+-   Where we need to comply with a legal or regulatory obligation
+
+-   Where we have your consent to process your information in a certain
+    way
+
+### SITE ANALYTICS AND ADVERTISING
+
+**ANALYTICS.** We may use third-party web analytics services (such as
+those of Segment Analytics) on our Site to collect and analyze usage
+information through cookies and similar tools; engage in auditing,
+research, or reporting; assist with fraud prevention; and provide
+certain features to you. To prevent Segment Analytics from using your
+information for analytics, you may use the Segment consent management
+tool by emailing us using the Contact Us information below. If you
+receive email from us, we may use certain analytics tools, such as clear
+GIFs to capture data such as when you open our message or click on any
+links or banners our email contains. This data allows us to gauge the
+effectiveness of our communications and marketing campaigns.
+
+**ONLINE ADVERTISING.** In using the Site, we allow select third party
+advertising technology partners to place cookies or other tracking
+technologies on the browser of your device to collect information about
+you as discussed above. These third parties (e.g., ad networks and ad
+servers such as Google) may use this information to serve relevant
+content and advertising to you as you browse the Internet, and access
+their own cookies or other tracking technologies on your browser to
+assist in this activity. If you are interested in more information about
+these online advertising activities, and how you can generally control
+cookies from being put on your computer to deliver tailored advertising,
+you may visit the [Digital Advertising Alliance of
+Canada](https://youradchoices.ca/choices), [Network Advertising
+Initiative's Consumer Opt-Out
+link](http://optout.networkadvertising.org/#!/),
+the [Digital Advertising Alliance's Consumer Opt-Out
+link](http://optout.aboutads.info/#!/), or [Your Online
+Choices](http://www.youronlinechoices.eu/) to opt-out of
+receiving tailored advertising from companies that participate in those
+programs.
+
+We do not control these opt-out links or whether any particular company
+chooses to participate in these opt-out programs. We are not responsible
+for any choices you make using these mechanisms or the continued
+availability or accuracy of these mechanisms. Please note that if you
+use these mechanisms, you may still see advertising on the Internet, but
+it will not be tailored to you based on your online behavior over time.
+
+Do Not Track ("DNT") is a privacy preference that users can set in
+certain web browsers. We are committed to providing you with meaningful
+choices about the information collected on our Services for third party
+purposes, and that is why we provide the variety of opt-out mechanisms
+listed above. However, we do not currently recognize or respond to
+browser-initiated DNT signals.
+
+## 5. HOW WE DISCLOSE YOUR INFORMATION {id="how-we-disclose-your-information"}
+
+We will disclose your information in the following ways:
+
+-   **Service Providers.** We provide access to or disclose your
+    information to select third parties who help us deliver our Services
+    or perform services on our behalf, including billing and credit card
+    verification, advertising and marketing, content and features,
+    analytics, research, customer support, data storage, security, web
+    hosting, fraud prevention, and legal services.
+
+-   **Affiliates and Subsidiaries.** We may disclose the information
+    we collect within the Tailscale family of companies.
+
+-   **Your Organization.** If you are a User using the Tailscale
+    Solution under an organization's account, we may provide your
+    information to the organization you are engaged or employed by in
+    order to fulfill and enforce our services agreement with your
+    organization, and to inform your organization regarding usage,
+    support, or training needs.
+
+-   **Protection of Tailscale and Others.** By using the Services, you
+    acknowledge and agree that we may access, retain, and disclose the
+    information we collect and maintain about you if required to do so
+    by applicable law or in a good faith belief that such access,
+    retention or disclosure is reasonably necessary to: (a) comply with
+    legal process (e.g. a subpoena or court order); (b) enforce any
+    contracts with you; (c) respond to claims that any content violates
+    the rights of third parties; and/or (d) protect the rights, property
+    or personal safety of Tailscale, its agents and affiliates, its
+    users and/or the public.
+
+-   **Business Transactions.** In accordance with applicable legal
+    obligations, your information may be provided to third parties in
+    connection with a merger or acquisition (including transfers made as
+    part of insolvency or bankruptcy proceedings) involving all or part
+    of Tailscale or our assets, or as part of a corporate reorganization
+    or stock sale or other change in corporate control or fundamental
+    business change, including for the purpose of determining whether to
+    proceed or continue with such transaction or business relationship.
+
+-   **Aggregate/De-Identified Information.** From time to time, we may
+    disclose Aggregate/De-identified Information about use of the
+    Services or our user base with partners and others, but such
+    information will not identify you personally.
+
+-   **Otherwise with Your Consent or at Your Direction.** In addition
+    to the disclosures described in this Privacy Policy, we may disclose
+    information about you with third parties whenever you consent to or
+    direct such disclosure.
+
+## 6. RETENTION OF YOUR INFORMATION {id="retention-of-your-information"}
+
+We keep your information for no longer than necessary for the purposes
+for which it is processed. The length of time for which we retain
+information depends on the purposes for which we collected and use it
+and/or as required to comply with applicable laws.
+
+## 7. YOUR RIGHTS AND YOUR CHOICES {id="your-rights-and-your-choices"}
+
+You have certain rights with respect to your information as further
+described in this section.
+
+### YOUR LEGAL RIGHTS
+
+If you would like further information in relation to your legal rights
+under applicable law or would like to exercise any of them, please
+contact us using the information in the "Contact Us" section below at
+any time. Your local laws (e.g., if you are a citizen or resident of the
+European Economic Area or California) may permit you to request that we:
+
+-   provide access to and/or a copy of certain information we hold about
+    you
+
+-   update information which is out of date or incorrect
+
+-   delete certain information that we are holding about you
+
+-   restrict the way that we process and disclose certain of your
+    information
+
+-   revoke your consent for the processing of your information
+
+-   provide you with information about the financial incentives that we
+    offer to you, if any.
+
+We will consider all requests and provide our response within the time
+period stated by applicable law and as otherwise required by applicable
+law. Please note, however, that certain information may be exempt from
+such requests in some circumstances, which may include if we need to
+keep processing your information for our legitimate interests or to
+comply with a legal obligation. We may request you provide us with
+information necessary to confirm your identity before responding to your
+request. To submit a request, please contact us using the information in
+the "Contact Us" section below.
+
+As explained at the beginning of this Privacy Policy, if you are using
+the Tailscale Solution as a user of a Customer account, and you would
+like to inquire about any of the rights discussed in this section,
+please contact the Customer for assistance.
+
+### MARKETING COMMUNICATIONS
+
+If, in accordance with applicable legal requirements, we send you
+marketing communications regarding our Services or the services of third
+parties that we believe will be interesting to you, you can ask us to
+stop sending such communications at any time by contacting us using the
+information in the "Contact Us" section below at any time. In our
+marketing email messages, you can also opt out by following the
+instructions located at the bottom of such emails. Please note that,
+regardless of your request, we may still use and disclose certain
+information as permitted by this Privacy Policy or as required by
+applicable law. For example, you may not opt out of certain
+transactional emails from us, such as those confirming your requests or
+providing you with updates regarding our legal terms.
+
+## 8. THIRD PARTY LINKS AND FEATURES {id="third-party-links-and-features"}
+
+The Services may contain links to third-party websites and features. If
+you choose to visit these sites and use their services, please note that
+we are not responsible for their content or privacy practices. The
+collection, use, and disclosure of your information will be subject to
+the privacy policies of the third-party websites, and not this Privacy
+Policy. We urge you to read the privacy policies of these third parties.
+
+## 9. INTERNATIONAL USERS {id="international-users"}
+
+Your information is maintained and processed by us and our third-party
+service providers in Canada, Germany, and the United States, and may
+also be maintained, processed, and stored in other jurisdictions that
+may have different data protection laws than those in your country of
+residence. In the event that your information is transferred in these
+ways, please note that we comply with applicable legal requirements
+governing the transfer of information across borders. By using the
+Services, you agree to and acknowledge these transfers.
+
+## 10. HOW WE PROTECT YOUR INFORMATION {id="how-we-protect-your-information"}
+
+Tailscale takes a variety of technical and organizational security
+measures to protect the information provided to us from loss, misuse,
+and unauthorized access, disclosure, alteration, or destruction.
+However, no Internet or email transmission is ever fully secure or error
+free. Please keep this in mind when disclosing any information to us
+online. For more information about our data security practices, please
+see <https://tailscale.com/security/>.
+
+If you become aware of or suspect any unauthorized use of your Tailscale
+account, please contact us immediately using the information in the
+"Contact Us" section below.
+
+## 11. PRIVACY INFORMATION FOR CERTAIN U.S. STATE RESIDENTS {id="privacy-information-for-certain-us-state-residents"}
+
+**Do Not Sell Rights.** Please note that certain U.S. state laws set
+forth obligations for businesses that "sell" personal information to
+third parties, as such term is defined under those laws. We do not
+engage in such activity.
+
+**California Notice.** If you are a California resident, California law
+requires us to provide you with specific information regarding how we
+collect, use, and disclose your "personal information" (as defined in
+the California Consumer Privacy Act ("CCPA")). Throughout this Privacy
+Policy, we discuss in detail the specific pieces of personal information
+we collect from and about you. Please see the "Information we Collect"
+and "How We Use Your Information" sections above for more information.
+
+The California "Shine the Light" law gives residents of California the
+right under certain circumstances to request information from us
+regarding the manner in which we disclose certain categories of personal
+information (as defined in the Shine the Light law) with third parties
+for their direct marketing purposes. We do not disclose your personal
+information with third parties for their own direct marketing purposes.
+
+## 12. CHANGES TO OUR PRIVACY POLICY {id="changes-to-our-privacy-policy"}
+
+We reserve the right to amend this Privacy Policy at any time to reflect
+changes in the law, our data collection and use practices, or advances
+in technology. We will make the revised Privacy Policy accessible on the
+Services, so you should review the Privacy Policy periodically. You can
+know if the Privacy Policy has changed since the last time you reviewed
+it by checking the "Effective Date" included at the beginning of the
+document. If we make a material change to the Privacy Policy, you will
+be provided with appropriate notice in accordance with legal
+requirements. By continuing to use the Services, you are confirming that
+you have read and understood the latest version of this Privacy Policy.
+
+## 13. CONTACT US {id="contact-us"}
+
+Tailscale welcomes your comments and questions regarding this Privacy
+Policy and the collection and use of your information. If you have
+questions or concerns, please email us at <privacy@tailscale.com> or:
+
+By phone: +1 (415) 886-9844
 
 By mail:
 
-> Tailscale Data Privacy Officer
->
-> Attention: David Carney, Tailscale Inc.
->
-> 125-720 King St. West
->
-> Suite 585
->
-> Toronto, ON M5V 3S5
->
-> Canada
-
-[1]: mailto:privacy@tailscale.com
+Tailscale Data Privacy Officer  
+125-720 King St. West  
+Suite 585  
+Toronto, ON M5V 3S5  
+Canada

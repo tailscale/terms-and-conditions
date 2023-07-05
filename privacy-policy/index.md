@@ -8,7 +8,7 @@ description: >
 
 **Tailscale Privacy Policy**
 
-Effective Date: 2023-01-12
+Effective Date: 2023-07-05
 
 Tailscale, Inc. ("Tailscale", "we", "our" or "us") allows customers and
 individuals to directly connect servers, computers, mobile devices, and
@@ -18,7 +18,7 @@ is encrypted. 
 Tailscale is committed to transparency in our processing of
 information. This Privacy Policy describes how we collect, use, disclose
 and protect information from and about you through our
-website [www.tailscale.com](http://www.tailscale.com) and any other
+website [www.tailscale.com](https://www.tailscale.com) and any other
 website or mobile application that links to this Privacy Policy (the
 "Site"), mesh VPN services (the "Tailscale Solution"), and any other
 interactions (e.g., customer support, events, our social media pages,
@@ -357,12 +357,61 @@ We will disclose your information in the following ways:
     acknowledge and agree that we may access, retain, and disclose the
     information we collect and maintain about you if required to do so
     by applicable law or in a good faith belief that such access,
-    retention or disclosure is reasonably necessary to: (a) comply with
-    legal process (e.g. a subpoena or court order); (b) enforce any
-    contracts with you; (c) respond to claims that any content violates
-    the rights of third parties; and/or (d) protect the rights, property
+    retention or disclosure is reasonably necessary to: (a) enforce any
+    contracts with you; (b) respond to claims that any content violates
+    the rights of third parties; (c) protect the rights, property
     or personal safety of Tailscale, its agents and affiliates, its
-    users and/or the public.
+    users and/or the public; and/or (d) comply with legal process (e.g. 
+    a subpoena or court order).
+
+    - **Canadian Law Enforcement Requests.**  We disclose your information
+    solely in accordance with our Terms of Service and applicable law, 
+    including the Canadian Criminal Code, R.S.C. 1985, c. C-46, to the 
+    extent it applies. Canadian law generally requires lawful authority 
+    by means of a warrant issued by a judge to compel the disclosure of 
+    User information.
+
+    - **U.S. Law Enforcement Requests.**  We disclose your information 
+    solely in accordance with our Terms of Service and applicable law, 
+    including the federal Stored Communications Act, 18 U.S.C. Sections 
+    2701-2712, to the extent it applies. In accordance with U.S. law:
+
+        1. A jurisdictionally valid subpoena, issued in connection with
+        an official criminal investigation, is required to compel the
+        disclosure of basic User records, which may include name, length
+        of service, credit card information (including billing address),
+        email address(es), and an IP address, if available.
+
+        1. A court order is required to compel the disclosure of certain
+        records or other information related to a user account (not
+        including contents of communications), which may include message
+        headers and IP addresses, in addition to the basic User records
+        identified above.
+
+        1. A search warrant properly issued under the procedures described
+        in the Federal Rules of Criminal Procedure or equivalent state
+        warrant procedures, based on a showing of probable cause, is
+        required to compel the disclosure of the stored contents of any
+        account, including the contents of communications (e.g., messages
+        and attachments). As noted above, Tailscale does not process, or
+        have the ability to access, the content of User traffic data
+        transmitted through the Tailscale Solution, which is fully
+        end-to-end encrypted.
+
+    - **International Law Enforcement Requests.** In the case of requests
+    from law enforcement outside of the Canada and the U.S., a Mutual Legal 
+    Assistance Treaty (MLAT) request or letter rogatory may be required
+    to compel the disclosure of User data.
+
+    - **User Notification.** Tailscale’s policy is to notify Users of law
+    enforcement requests for their information, which includes a copy of
+    the request, prior to disclosure, so that they may have an opportunity
+    to challenge such request unless: (a) we are prohibited from doing so
+    by law or court order; (b) there are exceptional circumstances, such as
+    an emergency involving the risk of bodily injury or death to a person
+    or group of people or potential harm to minors; or (c) prior notice
+    would be counterproductive (for example, if we believe that the account
+    in question has been hijacked).
 
 -   **Business Transactions.** In accordance with applicable legal
     obligations, your information may be provided to third parties in

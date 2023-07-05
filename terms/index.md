@@ -6,7 +6,7 @@ description: >
   These Tailscale Terms of Service (together with the Order Form, this "Agreement") govern Customer's access to and use of the Tailscale Solution. This Agreement forms a binding legal agreement between Tailscale Inc. and Customer.
 ---
 
-Effective date: 2023-01-12 
+Effective date: 2023-07-05 
 
 **IMPORTANT NOTICE: THESE TERMS OF SERVICE CONTAIN A BINDING ARBITRATION
 PROVISION AND WAIVER OF JURY TRIALS AND CLASS ACTIONS GOVERNING DISPUTES
@@ -498,16 +498,45 @@ Tailscale's privacy policy located at [https://tailscale.com/privacy-policy](htt
         Party in accordance with this Agreement so long as it retains
         such Confidential Information.
 
-10. **Customer Warranties; Disclaimer**
+10. **Trial Features**
+    From time to time, Tailscale may, in its sole discretion, invite 
+    a Customer to use, on a trial basis, pre-release or beta products 
+    or features that are in development and not yet available to all 
+    Customers (each, a "**Trial Feature**"). All Customers invited to use 
+    one or more Trial Features may use such Trial Features only for 
+    internal evaluation purposes in a production environment, and not 
+    for any commercial use. No fees shall be payable in connection 
+    with the use of such Trial Features. The Trial Features, and all 
+    associated conversations and materials relating thereto (including 
+    any feedback received from Customer regarding the Trial Features), 
+    will be considered Tailscale’s Confidential Information and subject 
+    to the confidentiality provisions in this Agreement. Customer agrees 
+    that it will not make any public statements or otherwise disclose 
+    its use of the Trial Features without Tailscale’s prior written 
+    consent. Further, Tailscale makes no representations or warranties 
+    regarding the Trial Features. Tailscale may discontinue a Customer’s 
+    access to any of the Trial Features at any time in its sole 
+    discretion, with or without notice to Customer. In such event, 
+    Customer shall immediately delete any data or other information it 
+    has in its possession related to the Trial Feature. Tailscale may 
+    decide not to release a final or commercial version of a Trial 
+    Feature in its sole discretion and, if it offers a Trial Feature 
+    commercially, may choose not to make it available to all Customers 
+    who had access to it as a Trial Feature. In addition to the foregoing, 
+    use of a Trial Feature may be subject to additional terms and 
+    conditions that Tailscale makes available to Customer prior to 
+    Customer’s use of such Trial Feature.
 
-    10.1.  *Customer Representations and Warranties*. Customer represents
+11. **Customer Warranties; Disclaimer**
+
+    11.1.  *Customer Representations and Warranties*. Customer represents
         and warrants that it has and shall maintain for the duration
         of the Agreement all right, license and consent required under
         applicable law to provide Tailscale with Customer Data for the
         provision of the Tailscale Solution pursuant to the Agreement
         and as described in the DPA.
 
-    10.2.  Customer further represents and warrants that (a) it is not
+    11.2.  Customer further represents and warrants that (a) it is not
         named on any Canadian, U.S., or other list of persons or
         entities prohibited from receiving Canadian or U.S. exports,
         or from transacting with any Canadian or U.S entity, (b) it is
@@ -516,7 +545,7 @@ Tailscale's privacy policy located at [https://tailscale.com/privacy-policy](htt
         other party's goods or services is prohibited under Canadian,
         U.S., or other applicable laws or regulations.
 
-    10.3.  *DISCLAIMER.*
+    11.3.  *DISCLAIMER.*
 
     \(a\) EXCEPT AS EXPRESSLY PROVIDED IN THE AGREEMENT, TAILSCALE DOES
 NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED OR ERROR FREE OR
@@ -548,7 +577,7 @@ CONNECTION WITH CUSTOMER'S USE OF THE SERVICE (OR ANY PART THEREOF) IS
 ACCURATE, OR CAN OR SHOULD BE RELIED UPON BY CUSTOMER FOR ANY PURPOSE
 WHATSOEVER.
 
-11. **Indemnification**
+12. **Indemnification**
 
     YOU AGREE TO INDEMNIFY, DEFEND (AT TAILSCALE'S OPTION), AND HOLD
 TAILSCALE AND ITS RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, MEMBERS,
@@ -565,7 +594,7 @@ AT OUR OWN EXPENSE, TO ASSUME THE EXCLUSIVE DEFENSE AND CONTROL OF SUCH
 DISPUTES, AND IN ANY EVENT YOU WILL COOPERATE WITH US IN ASSERTING ANY
 AVAILABLE DEFENSES.
 
-12. **Limitation of Liability**
+13. **Limitation of Liability**
 
     IN NO EVENT SHALL TAILSCALE OR ITS AFFILIATES OR ANY OF THEIR RESPECTIVE
 DIRECTORS, OFFICERS, EMPLOYEES, OR AGENTS BE LIABLE FOR INDIRECT,
@@ -587,9 +616,9 @@ damages. Accordingly, some of the above limitations may not apply to
 you. If you are located in the State of New Jersey, United States, the
 limitations above do apply to you.
 
-13. **Term and Termination**
+14. **Term and Termination**
 
-    13.1.  *Term.* The Agreement will commence on the Effective Date and
+    14.1.  *Term.* The Agreement will commence on the Effective Date and
         will continue in effect for the initial term set out in the
         Order Form (the "**Initial Term**") or until otherwise
         terminated in writing by the Parties as provided in this
@@ -602,7 +631,7 @@ limitations above do apply to you.
         Order Form (collectively, the Initial Term and Renewal Term,
         the "**Term**").
 
-    13.2.  *Termination for Convenience.* Tailscale may terminate the
+    14.2.  *Termination for Convenience.* Tailscale may terminate the
         Agreement with respect to the Tailscale Solution or any Order
         Form at any time and for any reason without liability or
         penalty by providing at least 30 days advance written notice
@@ -614,7 +643,7 @@ limitations above do apply to you.
         discretion, and such termination shall be effective upon
         notice.
 
-    13.3.  *Termination for Cause.* If you fail to comply with any
+    14.3.  *Termination for Cause.* If you fail to comply with any
         provision of the Agreement, Tailscale may terminate the
         Agreement immediately and retain any fees previously paid by
         you, if applicable. Upon any such termination, you must cease
@@ -622,22 +651,22 @@ limitations above do apply to you.
         happy with the Service your sole remedy is to cease using the
         Service.
 
-    13.4.  *Survival.* The following Sections, together with any other
+    14.4.  *Survival.* The following Sections, together with any other
         provision of the Agreement which expressly or by its nature
         survives termination or expiration, or which contemplates
         performance or observance subsequent to termination or
         expiration of the Agreement, will survive expiration or
         termination of the Agreement for any reason: Section 8 (Fees
-        and Payment), Section 9 (Confidential Information), Section 10
-        (Customer Warranties; Disclaimer), Section 11
-        (Indemnification), Section 12 (Limitation of Liability),
-        Section 13.4 (Survival), Section 14 (Notices), Section 15
-        (Binding Arbitration and Class Action Waiver) and Section 16
+        and Payment), Section 9 (Confidential Information), Section 11
+        (Customer Warranties; Disclaimer), Section 12
+        (Indemnification), Section 13 (Limitation of Liability),
+        Section 14.4 (Survival), Section 15 (Notices), Section 16
+        (Binding Arbitration and Class Action Waiver) and Section 17
         (General Information).
 
-14. **Notices**
+15. **Notices**
 
-    14.1.  *Notices.* Notices sent to either Party will be effective when
+    15.1.  *Notices.* Notices sent to either Party will be effective when
         delivered in writing and in person or by email, one day after
         being sent by overnight courier, or five days after being sent
         by first class mail postage prepaid to the official contact
@@ -664,12 +693,12 @@ giving notice thereof to you. You are solely responsible for keeping
 your contact information on file with Tailscale current at all times
 during the Term.
 
-15. **Binding Arbitration and Class Action Waiver**
+16. **Binding Arbitration and Class Action Waiver**
 
     PLEASE READ THIS SECTION CAREFULLY -- IT MAY SIGNIFICANTLY AFFECT YOUR
 LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
 
-    15.1.  *Initial Dispute Resolution.* Our Customer Support Department is
+    16.1.  *Initial Dispute Resolution.* Our Customer Support Department is
     available via the Site to address any concerns you may have
     regarding the Service. Our Customer Support Department can resolve
     most concerns quickly to your satisfaction. The Parties shall use
@@ -680,7 +709,7 @@ LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
     process could result in the award of fees against you in
     arbitration.
 
-    15.2.  *Binding Arbitration.* If the Parties do not reach an agreed upon
+    16.2.  *Binding Arbitration.* If the Parties do not reach an agreed upon
     solution within a period of 30 days from the time informal dispute
     resolution begins under the Initial Dispute Resolution provision,
     then either party may initiate binding arbitration as the sole
@@ -694,7 +723,7 @@ LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
     procedures governing or permitting class or representative
     actions.\
     \
-    Except as set forth in Section 15.5, the arbitrator, and not any
+    Except as set forth in Section 16.5, the arbitrator, and not any
     federal, state or local court or agency, shall have exclusive
     authority to resolve all disputes arising out of or relating to
     the interpretation, applicability, enforceability or formation of
@@ -746,7 +775,7 @@ LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
     does not increase the costs to you, and you waive any objection to
     such fee modification. The Parties also agree that a good-faith
     challenge by either party to the fees imposed by JAMS does not
-    constitute a default, waiver, or breach of this Section 15 while
+    constitute a default, waiver, or breach of this Section 16 while
     such challenge remains pending before JAMS, the arbitrator, and/or
     a court of competent jurisdiction.\
     \
@@ -756,7 +785,7 @@ LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
     arbitration could exceed the costs of litigation and the right to
     discovery may be more limited in arbitration than in court.
 
-    15.3.  *Location.* If you are a resident of the United States, arbitration
+    16.3.  *Location.* If you are a resident of the United States, arbitration
     will take place at any reasonable location within the United
     States convenient for you. For residents outside of the United
     States, arbitration shall be initiated in the County of New York,
@@ -767,7 +796,7 @@ LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
     confirm, modify, vacate or enter judgment on the award entered by
     the arbitrator.
 
-    15.4.  *Class Action Waiver.* The Parties further agree that any
+    16.4.  *Class Action Waiver.* The Parties further agree that any
     arbitration shall be conducted in their individual capacities only
     and not as a class action or other representative action, and the
     Parties expressly waive their right to file a class action or seek
@@ -782,7 +811,7 @@ LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
     adjudication of remedies not subject to arbitration shall be
     stayed pending the outcome of any arbitrable claims and remedies.
 
-    15.5.  *Exception - Litigation of Intellectual Property and Small Claims
+    16.5.  *Exception - Litigation of Intellectual Property and Small Claims
     Court Claims.* Notwithstanding the Parties\' decision to resolve
     all disputes through arbitration, either party may bring an action
     in state or federal court to protect its Intellectual Property
@@ -796,7 +825,7 @@ LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
     such relief shall not waive a party's right to arbitration under
     the Agreement.
 
-    15.6.  *30-Day Right to Opt Out.* You have the right to opt-out and not be
+    16.6.  *30-Day Right to Opt Out.* You have the right to opt-out and not be
     bound by the arbitration and class action waiver provisions set
     forth above by sending written notice of your decision to opt-out
     to the following address: Tailscale Inc., 125-720 King St. West
@@ -806,7 +835,7 @@ LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
     paragraphs. If you opt-out of these arbitration provisions,
     Tailscale also will not be bound by them.
 
-    15.7.  *Changes to this Section.* Tailscale will provide 30 days' notice of
+    16.7.  *Changes to this Section.* Tailscale will provide 30 days' notice of
     any changes to this section. Changes will become effective on the
     30th day. If you continue to use the Site or the Tailscale
     Solution after the 30th day, you agree that any unfiled claims of
@@ -824,18 +853,18 @@ LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
     governed by the laws of the State of New York without regard to
     conflict of law provisions.
 
-16. **General Information**
+17. **General Information**
 
-    16.1.  *Statute of Limitations.* You agree that regardless of any
+    17.1.  *Statute of Limitations.* You agree that regardless of any
         statute or law to the contrary, any claim or cause of action
         arising out of or related to the use of the Service or the
         Terms must be filed within one (1) year after such claim or
         cause of action arose or be forever barred.
 
-    16.2.  *Section Titles.* The section titles in the Terms are for
+    17.2.  *Section Titles.* The section titles in the Terms are for
         convenience only and have no legal or contractual effect.
 
-    16.3.  *Export Restrictions.* Customer agrees not to directly or
+    17.3.  *Export Restrictions.* Customer agrees not to directly or
         indirectly export, re-export or import all or any portion of
         the Service without first obtaining all required licenses,
         permits and permissions. Tailscale makes no representation or
@@ -844,7 +873,7 @@ LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
         applicable law, or that any such license or permit has been,
         will be, or can be obtained.
 
-    16.4.  *Construction*. Except as otherwise provided in the Agreement,
+    17.4.  *Construction*. Except as otherwise provided in the Agreement,
         the Parties' rights and remedies under the Agreement are
         cumulative and are in addition to, and not in substitution
         for, any other rights and remedies available at law or in
@@ -854,7 +883,7 @@ LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
         are for reference purposes only and have no substantive
         effect.
 
-    16.5.  *Force Majeure.* Neither Party will be liable for delays caused
+    17.5.  *Force Majeure.* Neither Party will be liable for delays caused
         by any event or circumstances beyond that Party's reasonable
         control, including acts of God, acts of government, flood,
         fire, earthquakes, civil unrest, acts of terror, strikes or
@@ -864,7 +893,7 @@ LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
         telecommunications or hosting infrastructure or third-party
         websites ("Force Majeure Event").
 
-    16.6.  *Assignment.* Tailscale may, upon giving written notice to you,
+    17.6.  *Assignment.* Tailscale may, upon giving written notice to you,
         assign its rights and obligations under the Agreement to any
         of its Affiliates or pursuant to a merger, amalgamation or
         other corporate reorganization or a sale of all or
@@ -881,23 +910,23 @@ LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
         binding upon the Parties and their respective successors and
         permitted assigns.
 
-    16.7.  *Severability*. Any provision of the Agreement found by a
+    17.7.  *Severability*. Any provision of the Agreement found by a
         tribunal or court of competent jurisdiction to be invalid,
         illegal or unenforceable will be severed from the Agreement
         and all other provisions of the Agreement will remain in full
         force and effect.
 
-    16.8.  *Waiver*. A waiver of any provision of the Agreement will be in
+    17.8.  *Waiver*. A waiver of any provision of the Agreement will be in
         writing and a waiver in one instance will not preclude
         enforcement of such provision on other occasions.
 
-    16.9.  *Independent Contractors.* Tailscale's relationship to you is
+    17.9.  *Independent Contractors.* Tailscale's relationship to you is
         that of an independent contractor, and neither Party is an
         agent or partner of the other. Neither Party will have, and
         neither Party will represent to any third party that it has,
         any authority to act on behalf of the other Party.
 
-    16.10. *Entire Agreement.* The Agreement constitute the entire
+    17.10. *Entire Agreement.* The Agreement constitute the entire
         agreement between the Parties with respect to the subject
         matter thereof and supersede all prior or contemporaneous
         agreements, representations or other communications between
@@ -909,18 +938,18 @@ LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
         Agreement (including without limitation any Order Form);
         and (iii) are void.
 
-    16.11. *No Third Party Beneficiaries.* Except as may otherwise be
+    17.11. *No Third Party Beneficiaries.* Except as may otherwise be
         explicitly set forth hereunder, no person or entity will be a
         third party beneficiary of this Agreement or have any right or
         cause of action hereunder.
 
-    16.12. *English Language.* It is the express wish of the Parties that
+    17.12. *English Language.* It is the express wish of the Parties that
         the Agreement and all related documents be drawn up in
         English. C'est la volonté expresse des Parties que la présente
         convention ainsi que les documents qui s'y rattachent soient
         rédigés en anglais.
 
-17. **Contact Us**
+18. **Contact Us**
 
     Customer may contact us in writing regarding any notices, questions,
 complaints or claims with respect to the Tailscale Solution at the

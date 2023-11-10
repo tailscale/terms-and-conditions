@@ -24,7 +24,9 @@ or "**us**"). Customers and Site Visitors may be referred to
 collectively in these Terms as "**you**" and "**your**" as applicable.
 The "**Parties**" refer to Tailscale and Customer and "**Party**" refers
 to each of Tailscale and Customer. The Site and the Tailscale Solution
-may jointly be referred to herein as the **"Service**".
+may jointly be referred to herein as the **"Service**". Our
+[Privacy Policy](https://tailscale.com/privacy-policy) is incorporated
+into and forms part of these Terms.
 
 By registering, creating an account, clicking an "I agree" or "I accept"
 button, using the Tailscale Solution or accessing the Site, you agree to
@@ -250,10 +252,7 @@ the date you agree to be bound by the Agreement.
 control of Personal Data in connection with the Tailscale Solution. In
 the event of a conflict between the terms and conditions of the DPA and
 the terms and conditions of the Agreement and/or any Order Form, the DPA
-shall govern and control. You understand that Personal Data, including
-the Personal Data of Permitted Users, will be treated in accordance with
-Tailscale's privacy policy located at [https://tailscale.com/privacy-policy](https://tailscale.com/privacy-policy)
-(the "**Privacy Policy**").
+shall govern and control.
 
 5.  **Customer User Accounts; Responsibility for Permitted Users**
 

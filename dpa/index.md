@@ -76,7 +76,8 @@ Customer and Tailscale agree as follows:
         requirement to provide some or all of such details under any
         Data Privacy Law.
 
-    b.  Tailscale will Process Personal Data solely: (1) to fulfill its
+    b.  Except as set forth in the last sentence of this subsection b,
+        Tailscale will Process Personal Data solely: (1) to fulfill its
         obligations to Customer under the Agreement, including this
         DPA; (2) on Customer's behalf; and (3) in compliance with
         applicable Data Protection Laws. Tailscale will not "sell"
@@ -86,7 +87,12 @@ Customer and Tailscale agree as follows:
         defined in applicable Data Protection Laws), or otherwise
         Process Personal Data for any purpose other than for the
         specific purposes set forth herein or outside of the direct
-        business relationship with Customer.
+        business relationship with Customer. Notwithstanding the
+        foregoing, to the extent any Usage Data (as defined in the
+        Agreement) is considered Personal Data, Tailscale is the
+        Controller (as such term is generally defined under Data 
+        Protection Laws) and shall Process such data in accordance
+        with the Agreement and applicable Data Protection Laws.
 
     c.  Tailscale will comply with any applicable restrictions under
         Data Protection Laws on combining Personal Data with personal
@@ -127,7 +133,8 @@ Customer and Tailscale agree as follows:
         obligations under this DPA, Tailscale will notify Customer
         that Tailscale can no longer comply with this DPA, without
         being required to identify the specific provision with which
-        it can no longer comply. 
+        it can no longer comply. In this case Customer can lawfully
+        terminate the Agreement.
 
     e.  Provide reasonable assistance to and cooperation with Customer
         for Customer's performance of a data protection impact
@@ -404,7 +411,7 @@ key, user agent (where applicable), language settings, date and time of
 access to the Tailscale VPN, logs describing connections and containing
 statistics about data sent to and from other devices ("Inter-Node
 Traffic Logs"), and version of Tailscale VPN installed. Tailscale does
-not Process in any way, or have the ability to access, the content of
+not have the ability to access, the content of
 Customer's traffic data transmitted through the Services, which is fully
 end-to-end encrypted.
 

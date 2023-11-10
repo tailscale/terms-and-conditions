@@ -123,7 +123,7 @@ the date you agree to be bound by the Agreement.
         Platform does not include the Tailscale Client Software.
 
     1.10. "**Tailscale Client Software**" means Tailscale's proprietary
-        software that is installed on Customer End Points.
+        software that is installed on Customer Endpoints.
 
     1.11. "**Tailscale Solution**" means the Tailscale Platform and the
         Tailscale Client Software.
@@ -839,7 +839,7 @@ LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
     governed by the laws of the State of New York without regard to
     conflict of law provisions.
 
-17. **General Information**
+17. **General**
 
     17.1.  *Statute of Limitations.* You agree that regardless of any
         statute or law to the contrary, any claim or cause of action

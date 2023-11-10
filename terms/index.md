@@ -341,9 +341,9 @@ shall govern and control.
         Tailscale Solution.
 
     8.3.  *Changes to the Fees.* Tailscale reserves the right to change
-        the Fees and institute new charges before a Renewal Term;
-        provided, that Tailscale has given at least 30 days' notice
-        thereof to Customer.
+        the Fees and institute new charges before a Renewal Term (as
+        defined below); provided, that Tailscale has given at least 30
+        days' notice thereof to Customer.
 
     8.4.  *Late Payment.* Without limiting Tailscale's other rights and
         remedies, if Customer does not pay any amount when due, then
@@ -610,12 +610,11 @@ limitations above do apply to you.
         terminated in writing by the Parties as provided in this
         Section. The Agreement with respect to the Tailscale Solution
         will automatically renew for successive renewal terms as set
-        out in an Order Form (each, a "**Renewal Term**"), unless
-        either Party provides the other Party with written notice of
-        its intention not to renew at least 30 days prior to the end
-        of the then current term or such other period as set out in an
-        Order Form (collectively, the Initial Term and Renewal Term,
-        the "**Term**").
+        out in an Order Form (each, a "**Renewal Term**"; collectively,
+        the Initial Term and Renewal Term, the "**Term**"). If there is
+        no Order Form the Agreement will continue on a month-to-month or
+        year-to-year basis, as dictated by the Customer's then-current
+        subscription, until terminated by either Party.
 
     14.2.  *Termination for Convenience.* Tailscale may terminate the
         Agreement with respect to the Tailscale Solution or any Order

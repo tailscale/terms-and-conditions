@@ -9,7 +9,7 @@ description: >
 
 **Tailscale Data Protection DPA for Customers**
 
-Effective date: 2023-07-05
+Effective date: 2023-12-01
 
 This Data Privacy Addendum ("**DPA**") forms part of the underlying
 agreement (either a Master Services Agreement or Terms of Service),

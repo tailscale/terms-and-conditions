@@ -6,7 +6,7 @@ description: >
   These Tailscale Terms of Service (together with the Order Form, this "Agreement") govern Customer's access to and use of the Tailscale Solution. This Agreement forms a binding legal agreement between Tailscale Inc. and Customer.
 ---
 
-Effective date: 2023-07-05 
+Effective date: 2023-12-01
 
 **IMPORTANT NOTICE: THESE TERMS OF SERVICE CONTAIN A BINDING ARBITRATION
 PROVISION AND WAIVER OF JURY TRIALS AND CLASS ACTIONS GOVERNING DISPUTES

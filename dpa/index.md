@@ -3,7 +3,7 @@ title: Data Privacy Addendum
 slug: dpa
 layout: legal
 description: >
-  This data privacy addendum forms part of the underlying agreement along with any associated contractural document.
+  This data privacy addendum forms part of the underlying agreement along with any associated contractual document.
 ---
 
 

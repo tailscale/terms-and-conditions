@@ -611,10 +611,7 @@ limitations above do apply to you.
         Section. The Agreement with respect to the Tailscale Solution
         will automatically renew for successive renewal terms as set
         out in an Order Form (each, a "**Renewal Term**"; collectively,
-        the Initial Term and Renewal Term, the "**Term**"). If there is
-        no Order Form the Agreement will continue on a month-to-month or
-        year-to-year basis, as dictated by the Customer's then-current
-        subscription, until terminated by either Party.
+        the Initial Term and Renewal Term, the "**Term**").
 
     14.2.  *Termination for Convenience.* Tailscale may terminate the
         Agreement with respect to the Tailscale Solution or any Order

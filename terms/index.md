@@ -616,7 +616,7 @@ limitations above do apply to you.
     14.2.  *Termination for Convenience.* Tailscale may terminate the
         Agreement with respect to the Tailscale Solution or any Order
         Form at any time and for any reason without liability or
-        penalty by providing at least 30 days advance written notice
+        penalty by providing advance written notice
         to Customer. In such event, Tailscale will refund to Customer,
         on a pro-rata basis, any unused subscription-based Fees
         prepaid under the Agreement for any period following the

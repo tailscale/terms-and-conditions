@@ -89,8 +89,8 @@ Customer and Tailscale agree as follows:
         specific purposes set forth herein or outside of the direct
         business relationship with Customer. Notwithstanding the
         foregoing, to the extent any Usage Data (as defined in the
-        Agreement) is considered Personal Data, Tailscale is the
-        Controller (as such term is generally defined under Data 
+        Agreement) is considered Personal Data, Tailscale is an
+        independent Data Controller (as such term is generally defined under Data 
         Protection Laws) and shall Process such data in accordance
         with the Agreement and applicable Data Protection Laws.
 

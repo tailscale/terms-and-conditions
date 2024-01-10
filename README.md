@@ -9,6 +9,7 @@ This repository includes:
 * [Privacy Policy](/privacy-policy/index.md), published at https://tailscale.com/privacy-policy/
 * [Data Privacy Addendum](/dpa/index.md), published at https://tailscale.com/dpa/
 * [Subprocessors List](/dpa-subprocessors/index.md), published at https://tailscale.com/dpa-subprocessors/
+* [Tailscale Funnel Acceptable Use Policy](/funnel-aup/index.md), published at https://tailscale.com/funnel-aup/
 
 ### Why did Tailscale publish these terms and conditions on GitHub?
 

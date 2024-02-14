@@ -10,7 +10,7 @@ description: >
 
 Effective date: 2024-02-19
 
-This Service Level Agreement (“**SLA**”) is included for all customers purchasing, accessing or using the Tailscale Solution pursuant to our Main Service Agreement or an Order Form with Tailscale. For purposes of this SLA, the “**Agreement**” refers to either the Terms of Service or the Main Service Agreement between you and Tailscale (as applicable to you). This SLA is incorporated by reference into the Agreement. Any capitalized terms that are not defined in this SLA have the meanings assigned to such terms in the Agreement.
+This Service Level Agreement (“**SLA**”) is included for all customers purchasing, accessing or using the Tailscale Solution pursuant to our Main Service Agreement or an Order Form with Tailscale. For purposes of this SLA, the “**Agreement**” refers to Main Service Agreement between you and Tailscale. This SLA is incorporated by reference into the Agreement. Any capitalized terms that are not defined in this SLA have the meanings assigned to such terms in the Agreement.
 
 1.  **Service Obligations**. Tailscale will use commercially reasonable efforts to make the Tailscale Solution available in accordance with the standards set forth below in Section 2 (Service Availability), Section 3 (Support Standards) and Section 5 (Exclusions). If we fall short of the standards described in this SLA and your use of the Tailscale Solution is impacted, we will provide Service Credits as set forth below in Section 4 (Service Credits). This Service Credit will be Customer’s sole and exclusive remedy for any failure to meet the targets set forth in this SLA.
    

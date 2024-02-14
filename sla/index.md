@@ -3,7 +3,7 @@ title: Service Level Agreement
 slug: sla
 layout: legal
 description: >
-  This Service Level Agreement (“**SLA**”) is included in all Enterprise, Premium and legacy Business plans.
+  This Service Level Agreement (“SLA”) is included in all Enterprise, Premium and legacy Business plans.
 ---
 
 **Tailscale Service Level Agreement**

@@ -6,6 +6,7 @@ This repository is the source of truth for the terms and conditions available at
 
 This repository includes:
 * [Terms of Service](/terms/index.md), published at https://tailscale.com/terms/
+* [Free Trial Offer Terms](/free-trial-offer-terms/index.md), published at https://tailscale.com/free-trial-offer-terms/
 * [Main Service Agreement](/msa/index.md), published at https://tailscale.com/msa/
 * [Privacy Policy](/privacy-policy/index.md), published at https://tailscale.com/privacy-policy/
 * [Service Level Agreement](/sla/index.md), published at https://tailscale.com/sla/

@@ -108,7 +108,7 @@ Some capitalized terms are defined in this Section 1 and others are defined cont
   
 ## 9. Publicity.
     
-  Tailscale may refer to you as one of Tailscale’s customers for marketing or promotional purposes. You grant us the right to use your name and logo solely for such purposes. We will adhere to any trademark guidelines that you provide to us, and any goodwill that arises from our use of your name or logo shall inure solely to your benefit. In addition, you agree to serve as a reference account for Tailscale. We will provide you with reasonable notice and obtain your consent before scheduling any reference calls. Neither party will issue a press release about Customer becoming a Tailscale customer or a case study about Customer’s experience with the Tailscale Solution without the prior written consent of the other party.
+  Tailscale may refer to you as one of Tailscale’s customers for marketing or promotional purposes. You grant us the right to use your name and logo solely for such purposes. We will adhere to any trademark guidelines that you provide to us, and any goodwill that arises from our use of your name or logo shall inure solely to your benefit. In addition, you agree to serve as a reference account for Tailscale. We will provide you with reasonable notice and obtain your consent before scheduling any reference calls. Neither party will issue a press release about Customer becoming a Tailscale customer or a case study about Customer’s experience with the Tailscale Solution without the prior written consent of the other party (not to be unreasonably withheld).
    
 ## 10. Disputes; Choice of Law.
   

@@ -5,14 +5,17 @@ This repository is the source of truth for the terms and conditions available at
 ### What terms and conditions are included?
 
 This repository includes:
-* [Terms of Service](/terms/index.md), published at https://tailscale.com/terms/
-* [Free Trial Offer Terms](/free-trial-offer-terms/index.md), published at https://tailscale.com/free-trial-offer-terms/
-* [Main Service Agreement](/msa/index.md), published at https://tailscale.com/msa/
-* [Privacy Policy](/privacy-policy/index.md), published at https://tailscale.com/privacy-policy/
-* [Service Level Agreement](/sla/index.md), published at https://tailscale.com/sla/
-* [Data Privacy Addendum](/dpa/index.md), published at https://tailscale.com/dpa/
-* [Subprocessors List](/dpa-subprocessors/index.md), published at https://tailscale.com/dpa-subprocessors/
-* [Tailscale Funnel Acceptable Use Policy](/funnel-aup/index.md), published at https://tailscale.com/funnel-aup/
+
+- [Terms of Service](/terms/index.md), published at https://tailscale.com/terms/
+- [Free Trial Offer Terms](/free-trial-offer-terms/index.md), published at https://tailscale.com/free-trial-offer-terms/
+- [Main Service Agreement](/msa/index.md), published at https://tailscale.com/msa/
+- [Privacy Policy](/privacy-policy/index.md), published at https://tailscale.com/privacy-policy/
+- [Service Level Agreement](/sla/index.md), published at https://tailscale.com/sla/
+- [Data Privacy Addendum](/dpa/index.md), published at https://tailscale.com/dpa/
+- [Subprocessors List](/dpa-subprocessors/index.md), published at https://tailscale.com/dpa-subprocessors/
+- [Tailscale Funnel Acceptable Use Policy](/funnel-aup/index.md), published at https://tailscale.com/funnel-aup/
+- [Reseller Addendum](/reseller-addendum/index.md), published at https://tailscale.com/reseller-addendum/
+- [Education and Not-for-Profit Discount Plan Supplement](/discount-terms/index.md), published at https://tailscale.com/discount-terms/
 
 ### Why did Tailscale publish these terms and conditions on GitHub?
 

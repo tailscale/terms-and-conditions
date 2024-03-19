@@ -6,7 +6,7 @@ description: >
   This Education and Not-for-Profit Discount Plan Supplement is part of the Agreement between you and Tailscale. (By the “Agreement here,” we mean either the Tailscale Terms of Service or the Main Service Agreement, as applicable to you). Some capitalized terms are defined contextually in this supplement. Any capitalized terms that are not defined in this supplement have the meanings assigned to such terms in the Agreement.
 ---
 
-Effective date: 2024-03-20
+Effective date: 2024-03-19
 
 This Education and Not-for-Profit Discount Plan Supplement is part of the Agreement between you and Tailscale. (By the “Agreement here,” we mean either the Tailscale Terms of Service or the Main Service Agreement, as applicable to you). Some capitalized terms are defined contextually in this supplement. Any capitalized terms that are not defined in this supplement have the meanings assigned to such terms in the Agreement.
 

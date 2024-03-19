@@ -6,7 +6,7 @@ description: >
   This Reseller Addendum applies to any access to the Tailscale Solution purchased by customers through an authorized reseller of the Tailscale Solution, a public or private offer on the AWS Marketplace, or similar (each a **“Reseller”**). This Reseller Addendum supplements and comprises part of the Agreement.
 ---
 
-Effective date: 2024-03-20
+Effective date: 2024-03-19
 
 This Reseller Addendum applies to any access to the Tailscale Solution purchased by customers through an authorized reseller of the Tailscale Solution, a public or private offer on the AWS Marketplace, or similar (each a **“Reseller”**). This Reseller Addendum supplements and comprises part of the Agreement.
 

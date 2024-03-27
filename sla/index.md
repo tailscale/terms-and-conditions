@@ -8,7 +8,7 @@ description: >
 
 **Tailscale Service Level Agreement**
 
-Effective date: 2024-02-19
+Effective date: 2024-03-27
 
 This Service Level Agreement (“**SLA**”) is included for all customers that purchase a Silver or Gold support package pursuant to an Order Form with Tailscale. For purposes of this SLA, the “**Agreement**” refers to either the Terms of Service or the Main Service Agreement between you and Tailscale (as applicable to you). This SLA is incorporated by reference into the Agreement. Any capitalized terms that are not defined in this SLA have the meanings assigned to such terms in the Agreement.
 

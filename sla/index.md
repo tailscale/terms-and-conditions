@@ -16,9 +16,9 @@ This Service Level Agreement (“**SLA**”) is included for all customers that 
    
 2.  **Service Availability**.
 
-    2.1  **Uptime**. For purposes of this SLA, “**Uptime**” is the percentage of total possible minutes that core systems of the Tailscale Solution – namely, the <tailscale.com> website and Documentation, admin console, API, coordination server, DERP relay servers, and package server– are operational and available each calendar month. Tailscale will make commercially reasonable efforts to maintain at least 99.00% Uptime.
+    2.1  **Uptime**. For purposes of this SLA, “**Uptime**” is the percentage of total possible minutes that core systems of the Tailscale Solution – namely, the <tailscale.com> website and Documentation, admin console, API, coordination server, DERP relay servers, and package server– are operational and available each calendar month. Tailscale will make commercially reasonable efforts to maintain at least 99.90% Uptime.
    
-         (Total minutes in a month - Downtime minutes) / total minutes in a month > 99.00%
+         (Total minutes in a month - Downtime minutes) / total minutes in a month > 99.90%
    
     2.2  **Downtime**. For purposes of this SLA and our Uptime commitment, “**Downtime**” is the number of minutes the Tailscale Solution is not operational or available. Downtime may encompass periods of time when the entire Tailscale Solution is not operational or completely unavailable (a “**Full Outage**”) and periods of time when only certain systems, features or functionality are not operational or unavailable (a “**Partial Outage**”). Downtime excludes routine maintenance (see 2.2.1) and emergency maintenance (see 2.2.2).
 
@@ -60,8 +60,8 @@ This Service Level Agreement (“**SLA**”) is included for all customers that 
   
     | Uptime (in a given month) | Service Credit (% of monthly fees) |
     | ---- | ---- |
-    | 99.00% or greater | No Service Credit |
-    | 90.00% - 98.99% | 5% |
+    | 99.90% or greater | No Service Credit |
+    | 90.00% - 99.89% | 5% |
     | Under 90.00% | 10% |
 
     Note that Downtime does not affect everyone at the same time or in the same way. For example, some customers may be eligible to receive Service Credits during an outage in their region, while other customers in other regions that have not been similarly affected will not.

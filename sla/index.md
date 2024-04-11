@@ -8,17 +8,17 @@ description: >
 
 **Tailscale Service Level Agreement**
 
-Effective date: 2024-03-27
+Last updated date: 2024-04-10
 
-This Service Level Agreement (“**SLA**”) is included for all customers that purchase a Silver or Gold support package pursuant to an Order Form with Tailscale. For purposes of this SLA, the “**Agreement**” refers to either the Terms of Service or the Main Service Agreement between you and Tailscale (as applicable to you). This SLA is incorporated by reference into the Agreement. Any capitalized terms that are not defined in this SLA have the meanings assigned to such terms in the Agreement.
+This Service Level Agreement (“**SLA**”) is included for all customers that purchase a Silver or Gold support package pursuant to an Order Form with Tailscale. Any capitalized terms that are not defined in this SLA have the meanings assigned to such terms in the Main Service Agreement between you and Tailscale.
 
 1.  **Service Obligations**. Tailscale will use commercially reasonable efforts to make the Tailscale Solution available in accordance with the standards set forth below in Section 2 (Service Availability), Section 3 (Support Standards) and Section 5 (Exclusions). If we fall short of the standards described in this SLA and your use of the Tailscale Solution is impacted, we will provide Service Credits as set forth below in Section 4 (Service Credits). This Service Credit will be Customer’s sole and exclusive remedy for any failure to meet the targets set forth in this SLA.
    
 2.  **Service Availability**.
 
-    2.1  **Uptime**. For purposes of this SLA, “**Uptime**” is the percentage of total possible minutes that core systems of the Tailscale Solution – namely, the <tailscale.com> website and Documentation, admin console, API, coordination server, DERP relay servers, and package server– are operational and available each calendar month. Tailscale will make commercially reasonable efforts to maintain at least 99.90% Uptime.
+    2.1  **Uptime**. For purposes of this SLA, “**Uptime**” is the percentage of total possible minutes that core systems of the Tailscale Solution – namely, the <tailscale.com> website and Documentation, admin console, API, coordination server, DERP relay servers, and package server– are operational and available each calendar month. Tailscale will make commercially reasonable efforts to maintain at least 99.9% Uptime.
    
-         (Total minutes in a month - Downtime minutes) / total minutes in a month > 99.90%
+         (Total minutes in a month - Downtime minutes) / total minutes in a month > 99.9%
    
     2.2  **Downtime**. For purposes of this SLA and our Uptime commitment, “**Downtime**” is the number of minutes the Tailscale Solution is not operational or available. Downtime may encompass periods of time when the entire Tailscale Solution is not operational or completely unavailable (a “**Full Outage**”) and periods of time when only certain systems, features or functionality are not operational or unavailable (a “**Partial Outage**”). Downtime excludes routine maintenance (see 2.2.1) and emergency maintenance (see 2.2.2).
 
@@ -37,12 +37,11 @@ This Service Level Agreement (“**SLA**”) is included for all customers that 
     |                | Silver | Gold | 
     |----------------|------------|---------|
     | Eligible Plans |<ul><li>Enterprise</li><li>Premium</li><li>Legacy Business</li></ul>|<ul><li>Enterprise</li></ul>|
-    | Channels       |<ul><li>Knowledge Base</li><li>Email</li><li>Contact Support form</li></ul>|<ul><li>Knowledge Base</li><li>Email</li><li>Contact Support form</li></ul>|
     | Support Hours  |<ul><li>Business hours</li></ul>|<ul><li>Business hours</li><li>Plus 24x7 support for Sev 1 and Sev 2 incidents*</li></ul>|
     | First Response SLA | See Table 2 | See Table 2 |
     | Other Perks    | <ul><li>Priority bug fixes</li></ul> | <ul><li>Priority bug fixes</li><li>Priority feature requests</li></ul>|
     
-    To receive 24x7 support for Severity 1 incidents, you must first identify no more than three (3) authorized Customer contacts, and the request must come from one of those contacts. If you contact us from an account or email address that is not one of your authorized support contacts, we may not be able to verify and identify your associated account and will only be able to share generalized information. We also recommend that your contacts login to your account and use our [Contact Support form](https://tailscale.com/contact/support/) in order to be identified and routed correctly when submitting support tickets.
+    *To receive 24x7 support for Severity 1 and Severity 2 incidents, you must first identify no more than three (3) authorized Customer contacts, and the request must come from one of those contacts. If you contact us from an account or email address that is not one of your authorized support contacts, we may not be able to verify and identify your associated account and will only be able to share generalized information. We also recommend that your contacts login to your account and use our [Contact Support form](https://tailscale.com/contact/support/) in order to be identified and routed correctly when submitting support tickets.
   
     <ins>Table 2: Severity Levels and First Response Times</ins>
 
@@ -60,7 +59,7 @@ This Service Level Agreement (“**SLA**”) is included for all customers that 
   
     | Uptime (in a given month) | Service Credit (% of monthly fees) |
     | ---- | ---- |
-    | 99.90% or greater | No Service Credit |
+    | 99.9% or greater | No Service Credit |
     | 90.00% - 99.89% | 5% |
     | Under 90.00% | 10% |
 
@@ -68,7 +67,7 @@ This Service Level Agreement (“**SLA**”) is included for all customers that 
   
     4.2  **Requesting Service Credits**. Customers must request Service Credits within thirty (30) days after the end of the impacted month by contacting Support. Tailscale will review all requests for Service Credits and, if Customer is eligible, will apply the Service Credits to Customer’s next invoice.
     
-    4.3	 **Limitations**. For Service Credits to apply, all outstanding invoices must be fully paid up. Service Credits are not transferable or refundable, and have no currency or exchange value. Service Credits are capped at a maximum of the applicable monthly Fees. Upon expiration or termination of your Agreement, any unused Service Credits that have accrued to your account will expire.
+    4.3	 **Limitations**. For Service Credits to apply, all outstanding undisputed invoices must be fully paid up. Service Credits are not transferable or refundable, and have no currency or exchange value. Service Credits are capped at a maximum of the applicable monthly Fees. Upon expiration or termination of the applicable Order Form or MSA, any unused Service Credits that have accrued to your account will expire.
 
 6.  **Exclusions**. This SLA only applies to the current version of production instances of the Tailscale Solution. This SLA does not apply to any of the following:
     * Versions of the Tailscale Solution that have been retired as being “**end of maintenance**” (EOM) or “**end of life**” (EOL) as determined by Tailscale in our sole discretion (provided Tailscale has notified customers that such versions have been designated EOM or EOL);
@@ -86,4 +85,4 @@ This Service Level Agreement (“**SLA**”) is included for all customers that 
     * Defects in the Tailscale Client Software due to device hardware malfunction, abuse or improper use; or
     * Any events beyond our reasonable control, including strikes or other labor problems, material shortages, epidemics, pandemics,  civil unrest, riots, insurrection, fires, flood, earthquakes, storms, explosions, cyber attacks, or acts of God, war, terror or government.
 
-    Finally, our ability to perform under this SLA is contingent upon Customer’s reasonable cooperation. If Customer has not provided all necessary information to Tailscale to resolve a reported issue, or Tailscale is otherwise denied or delayed access or information by Customer, then Tailscale will be excused, without liability, from performing under this SLA with respect to that issue. In such a case, Customer will not be entitled to any Service Credits, and any such failure to perform resulting from Customer’s failures will not relieve Customer from its payment obligations to Tailscale.
+    Finally, our ability to perform under this SLA may be contingent upon Customer’s reasonable cooperation. If Tailscale is denied or delayed access or information by Customer, as reasonably requested by Tailscale in connection with resolving reported issues, then Tailscale will be excused, without liability, from performing under this SLA with respect to that issue until such access or information is provided. In such a case, Customer will not be entitled to any Service Credits, nor will Customer be excused from its payment obligations to Tailscale under the MSA.

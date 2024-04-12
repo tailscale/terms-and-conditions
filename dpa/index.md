@@ -6,7 +6,7 @@ description: >
   This Data Processing Addendum forms part of the underlying agreement along with any associated contractual document.
 ---
 
-**Data Processing Addendum**
+Effective date: 2024-02-19
 
 This Data Processing Addendum (“**DPA**”) is entered into by and between Tailscale and Customer and sets forth the parties’ obligations with respect to the Processing of Personal Data (definitions below). For purposes of this DPA, the “**Agreement**” refers to either the Tailscale Terms of Service or the Main Service Agreement between you and Tailscale (as applicable to you). This DPA is incorporated by reference into the Agreement.
 

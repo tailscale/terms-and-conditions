@@ -1,61 +1,48 @@
 ---
-title: Tailscale Funnel Acceptable Use Policy
-slug: funnel-aup
+title: Tailscale Acceptable Use Policy
+slug:-aup
 layout: legal
 description: >
-  The acceptable use policy for Tailscale Funnel.
+  The acceptable use policy for Tailscale.
 ---
 
 ### Overview
 
-[Funnel][funnel] allows you to route traffic from the wider internet to one or more of your Tailscale nodes. In order for us to keep this feature neat, part of our responsibility in offering this, is to keep users safe from abuse and harm. By using this Service, you agree you must comply with our Acceptable Use Policies, which include some restrictions on content and conduct on Tailscale Funnel related to user safety, intellectual property, privacy, authenticity, and other limitations.
+This Acceptable Use Policy (“AUP”) is part of the Documentation applicable to all who use or access the Tailscale Solution. Any capitalized terms that are not defined in this AUP have the meaning ascribed to such terms elsewhere in the Terms of Service or Main Services Agreement (as applicable to you).
 
-Please review our [Terms of Service][terms] and [Privacy Policy][privacy-policy] for more information. If you suspect abuse of this Service, please use the link below to notify our team.
+If you suspect abuse of this AUP or the Tailscale Solution, please contact our support team at support@tailscale.com.
 
-- support@tailscale.com
+### Prohibitions
 
-### User Safety and Protection
-
-Below is a non-exhaustive list of content and activity not allowed using Tailscale Funnel:
+Customers are solely responsible for their Customer Data, and are prohibited from using the Tailscale Solution in an unlawful manner. Customers are also prohibited from using the Tailscale Solution for any malicious activities that diminish, disrupt, disturb, or threaten the security or stability of the Tailscale Solution, our websites, or the systems and operations of our customers. This includes without limitation the following:
 
 - Discriminatory or hate speech of any kind towards any individual or group;
 - Any sexual abuse or exploitation material;
 - Doxxing or any coordinated harassment towards any individual or group;
-- Illegal or illicit activity or the promotion thereof;
-- Incitement, promotion, or celebration of violence
-
-### Private Information
-
-Tailscale respects the privacy of users and non-users of our Service and does not allow the following:
-
-Any impersonation of an individual or entity;
-Posting personally identifiable information without owner consent;
-
-### Intellectual Property
-
-Tailscale obeys DMCA take-down requests:
-
-- Posting of intellectual property without owner consent;
+- Incitement, promotion, or celebration of violence; 
+- Any impersonation of an individual or entity;
 - Misrepresenting your identity as a person or entity through false association;
-
-### Spam and Inauthentic Activity
-
+- Posting personally identifiable information without owner consent;
 - Phishing or any activity that involves attempts at acquiring information for the purpose of stealing sensitive information;
 - Spam or other such automated activities that involve excessive, bulk activity;
+- Distributing or promoting malware or other computer code that is designed to cause a security breach;
+- Distributing or promoting spyware or other computer code that is designed to enable you or others to gather information about or monitor the online or other activities of another party or otherwise gain unauthorized access to another’s device(s); 
+- Any use in an attempt to gain unauthorized access to a user or server, database, accounts, network, or other services not intended to be public;
+- Interfering with, disrupting, or creating an undue burden on the Tailscale Solution or the networks, servers, systems or services connected to the Tailscale Solution. 
+- Fraudulent business activities; 
+- Terrorist or criminal activities; and
+- Any other illegal or illicit activities.
 
-### Service Access and Safety
+### No Obligation to Monitor
 
-Tailscale does not allow content or activity of the following:
-
-- Malware or any other malicious activity that diminishes the Tailscale service and site;
-- Any use in an attempt to gain unauthorized access to a user or server, database, accounts, network, or other services not intended to be public.
+We do not have any general obligation to monitor your use of the Tailscale Solution. We do not have, and do not undertake, any obligation to prescreen, monitor, edit, or remove any Customer Data, or to actively seek facts or circumstances indicating illegal activity. 
 
 ### Policy Enforcement
 
-Funnel routes internet traffic to Tailscale nodes. To maintain user safety, compliance with our Acceptable Use Policies is required for usage. These policies cover content, conduct, user safety, intellectual property, privacy, authenticity, and other limitations.
+In accordance with applicable law, we reserve the right (but undertake no obligation) to, in our sole discretion and without notice or liability to you, suspend or terminate access to and use of the Tailscale Solution by any person for violation of this AUP as determined by us in our sole discretion. You will provide reasonable cooperation in any investigation or action regarding suspected or alleged violations.
 
-Tailscale reserves the right to terminate or otherwise limit access to Tailscale Funnel and other features at our discretion and without notice should we find that this policy has been breached.
+Tailscale reserves the right to terminate or otherwise limit access to Tailscale and other features at our discretion and without notice should we find that this policy has been breached.
 
-[funnel]: https://tailscale.com/kb/1223/tailscale-funnel/
+]: https://tailscale.com/kb/1223/tailscale/
 [privacy-policy]: https://tailscale.com/privacy-policy
 [terms]: https://tailscale.com/terms

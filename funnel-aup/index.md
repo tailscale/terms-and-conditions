@@ -1,6 +1,6 @@
 ---
 title: Tailscale Acceptable Use Policy
-slug:-aup
+slug:tailscale-aup
 layout: legal
 description: >
   The acceptable use policy for Tailscale.

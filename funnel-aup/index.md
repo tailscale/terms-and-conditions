@@ -40,5 +40,3 @@ We do not have any general obligation to monitor your use of the Tailscale Solut
 ### Policy Enforcement
 
 In accordance with applicable law, we reserve the right (but undertake no obligation) to, in our sole discretion and without notice or liability to you, suspend or terminate access to and use of the Tailscale Solution by any person for violation of this AUP as determined by us in our sole discretion. You will provide reasonable cooperation in any investigation or action regarding suspected or alleged violations.
-
-Tailscale reserves the right to terminate or otherwise limit access to Tailscale and other features at our discretion and without notice should we find that this policy has been breached.

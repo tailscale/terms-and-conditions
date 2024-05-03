@@ -192,7 +192,7 @@ Either party may end the UK SCCs as set out in Section 19 of the UK SCCs.
 # SCHEDULE D
 ## SECURITY MEASURES
 
-The following provides an overview of some of Tailscale’s key Security Measures. More information is available at <[tailscale.com/security/](https://tailscale.com/security/)> or its successor webpages. The Tailscale Solution and security standards are subject to evolving risks, technical progress, and further development, and we reserve the right to implement alternative Security Measures or make future replacements or updates to our Security Measures as determined by us in our sole discretion. 
+The following provides an overview of some of Tailscale’s key Security Measures. More information is available at [tailscale.com/security/](https://tailscale.com/security/) or its successor webpages. The Tailscale Solution and security standards are subject to evolving risks, technical progress, and further development, and we reserve the right to implement alternative Security Measures or make future replacements or updates to our Security Measures as determined by us in our sole discretion. 
 
 |    |    |
 |----|----|

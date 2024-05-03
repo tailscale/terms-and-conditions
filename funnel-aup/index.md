@@ -8,7 +8,7 @@ description: >
 
 ### Overview
 
-This Acceptable Use Policy (“AUP”) is part of the Documentation applicable to all who use or access the Tailscale Solution. Any capitalized terms that are not defined in this AUP have the meaning ascribed to such terms elsewhere in the Terms of Service or Main Services Agreement (as applicable to you).
+This Acceptable Use Policy (“AUP”) is part of the Documentation applicable to all who use or access the Tailscale Solution. Any capitalized terms that are not defined in this AUP have the meaning ascribed to such terms elsewhere in the [Terms of Service](https://tailscale.com/terms) or [Main Services Agreement](https://tailscale.com/msa) (as applicable to you).
 
 If you suspect abuse of this AUP or the Tailscale Solution, please contact our support team at support@tailscale.com.
 

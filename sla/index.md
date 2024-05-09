@@ -47,8 +47,8 @@ This Service Level Agreement (“**SLA**”) is included for all customers that 
 
     | Severity Level | Description | Silver First Response | Gold First Response |
     | ---- | ---- | ---- | ---- |
-    | Sev 1<br><br>Critical | There is a Full Outage, a Personal Data Breach (defined in our DPA), or other major security breach.<br><br>Ex: Tailscale is not operational for your entire company.<br><br>Ex: A breach of our production database. | 4 business hours | 2 business hours|
-    | Sev 2<br><br>High     | There is a Partial Outage of a core service, feature or functionality, or an attempted security breach.<br><br>Ex: SCIM is not operational. | 1 business day | 4 business hours |
+    | Sev 1<br><br>Critical | There is a Full Outage, a Personal Data Breach (defined in our DPA), or other major security breach.<br><br>Ex: Tailscale is not operational for your entire company.<br><br>Ex: A breach of our production database. | 4 business hours | 2 hours|
+    | Sev 2<br><br>High     | There is a Partial Outage of a core service, feature or functionality, or an attempted security breach.<br><br>Ex: SCIM is not operational. | 1 business day | 4 hours |
     | Sev 3<br><br>Normal | There is a Partial Outage of a non-core or non-essential service, feature or functionality.<br><br>Ex: A user or subset of users are experiencing poor latency or disconnects when using Tailscale. | 2 business days | 1 business day |
     | Sev 4<br><br>Low | A non-material support item, and there is no Outage (Full or Partial).<br><br>Ex: configuration help requests; minor UX bugs. | 2 business days | 1 business day |
 

@@ -12,7 +12,7 @@ Some capitalized terms are defined contextually in the Special Terms. Any capita
 
 Please click on the following links to navigate to the Special Terms applicable to you.
 
-- [Purchases through Resellers](#purchase-through-resellers)
+- [Purchases through Resellers](#purchases-through-resellers)
 - [Plan Discounts](#plan-discounts)
 
 ## Purchases through Resellers

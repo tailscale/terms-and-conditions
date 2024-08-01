@@ -6,934 +6,214 @@ description: >
   These Tailscale Terms of Service (together with the Order Form, this "Agreement") govern Customer's access to and use of the Tailscale Solution. This Agreement forms a binding legal agreement between Tailscale Inc. and Customer.
 ---
 
-Effective date: 2023-12-11
-
-**IMPORTANT NOTICE: THESE TERMS OF SERVICE CONTAIN A BINDING ARBITRATION
-PROVISION AND WAIVER OF JURY TRIALS AND CLASS ACTIONS GOVERNING DISPUTES
-ARISING FROM USE OF THE SERVICES. IT AFFECTS YOUR LEGAL RIGHTS AS
-DETAILED IN THE MANDATORY ARBITRATION AND WAIVER OF CLASS ACTION SECTION
-BELOW. PLEASE READ CAREFULLY.**
-
-These Terms of Service ("**Terms**") govern access to and use of the
-Tailscale websites (collectively, the "**Site**") by site visitors
-("**Site Visitors**") and by any individual or entity creating an
-account ("**Customer**", "**you**" or "**your")** for the Tailscale
-Solution (as defined below) offered by, as applicable, Tailscale Inc. or
-a Tailscale Inc. Affiliate (together, "**Tailscale**", "**we**", "our",
-or "**us**"). Customers and Site Visitors may be referred to
-collectively in these Terms as "**you**" and "**your**" as applicable.
-The "**Parties**" refer to Tailscale and Customer and "**Party**" refers
-to each of Tailscale and Customer. The Site and the Tailscale Solution
-may jointly be referred to herein as the **"Service**". Our
-[Privacy Policy](https://tailscale.com/privacy-policy) is incorporated
-into and forms part of these Terms.
-
-By registering, creating an account, clicking an "I agree" or "I accept"
-button, using the Tailscale Solution or accessing the Site, you agree to
-be bound to these Terms together with all applicable exhibits, order
-forms, attachments, and addenda (the "**Agreement**"). If you order the
-Tailscale Solution through an on-line registration page or an order form
-(each an "**Order Form**"), the Order Form may contain additional terms
-and conditions. Unless expressly set forth otherwise, such additional
-terms and conditions are hereby incorporated into the Agreement in
-relation to your use of the Tailscale Solution.
-
-In the event of a conflict, an exhibit, attachment, Order Form, or
-addendum prevails over these Terms. In the event that Tailscale and
-Customer have entered into a Master Services Agreement ("**MSA**")
-governing the provision of the Tailscale Solution and covering the same
-subject matter as these Terms, these Terms will only apply to use of the
-Site or to the Tailscale Solution to the extent not governed by the MSA.
-
-We may revise these Terms or any additional terms and conditions that
-are relevant to the Site or Tailscale Solution from time to time. We
-will post the revised terms on the Service with a "last updated" date.
-IF YOU CONTINUE TO USE THE SERVICE AFTER THE REVISIONS TAKE EFFECT, YOU
-AGREE TO BE BOUND BY THE REVISED TERMS. You agree that we shall not be
-liable to you or to any third party for any modification of the Terms.
-
-**YOU REPRESENT AND WARRANT TO TAILSCALE THAT YOU HAVE THE CAPACITY TO
-ENTER INTO THIS LEGALLY BINDING AGREEMENT. IF YOU ARE USING THE SERVICE
-ON BEHALF OF ANOTHER PERSON, YOU HEREBY REPRESENT AND WARRANT TO
-TAILSCALE THAT YOU HAVE THE AUTHORITY TO BIND SUCH PERSON TO THE
-AGREEMENT.**
-
-The Agreement are entered into the earlier of (the "**Effective
-Date**"): (a) the date you first use any part of the Service; and (b)
-the date you agree to be bound by the Agreement.
-
-1.  **Definitions.**\
-    \
-    As used in the Agreement, the following capitalized words have the
-    meaning set out below:
-
-    1.1.  "**Affiliate**" means, with respect to a Party, any corporation
-        or other legal entity which is directly or indirectly
-        controlling or controlled by, or under common control with
-        that Party. As used in this definition, "control" means the
-        possession, directly or indirectly, of the power to direct or
-        cause the direction of the management and policies of a
-        corporation or legal entity.
-
-    1.2.  "**Customer Data**" means any data, information, content,
-        records, and files, including Personal Data, that is encrypted
-        and transmitted from one Customer Endpoint to one or more
-        other Customer Endpoint(s).
-
-    1.3.  "**Customer Endpoint**" means a device of Customer or a
-        Permitted User that has the Tailscale Client Software
-        installed upon it.
-
-    1.4.  **"Data Protection Laws"** has the meaning given such term 
-    in the DPA.
-
-    1.5.  **"DPA"** means the Data Protection Addendum available at
-        [https://tailscale.com/dpa](https://tailscale.com/dpa)
-
-    1.6.  "**Intellectual Property Rights**" means, but is not limited to,
-        rights in and to patents, patent disclosures, patent
-        applications (including utility models, continuations,
-        continuations-in-part, divisions, re-issues, re-examined
-        patents and patent applications, and extensions thereof),
-        patentable inventions, rights in design, copyrights (including
-        any such rights in typographical arrangements, websites or
-        software), whether registered or not and any applications to
-        register or rights to apply for registration of any of the
-        foregoing, trademarks, trading, business or domain names and
-        e-mail addresses, mask-works, trade secrets, rights in
-        inventions, know-how, moral rights, and other confidential
-        information, rights in databases and all other intellectual
-        property rights of a similar or corresponding character that
-        subsist now or in the future in any part of the world, whether
-        arising by operation of law, contract, license or otherwise.
-
-     1.7.  "**Permitted User**" means an employee, consultant, advisor or
-        other individual who is authorized by Customer to access and
-        use the Tailscale Solution.
-
-    1.8.  "**Personal Data**" has the definition given such term in the
-        DPA.
-
-    1.9.  "**Tailscale Platform"** means Tailscale's proprietary
-        Internet-accessible service that is hosted and maintained by
-        Tailscale and is comprised of hardware, software, information,
-        and hosted services, all as made available by Tailscale to
-        Customer hereunder, and including all upgrades, updates, and
-        modifications thereto, and all content therein. The Tailscale
-        Platform does not include the Tailscale Client Software.
-
-    1.10. "**Tailscale Client Software**" means Tailscale's proprietary
-        software that is installed on Customer Endpoints.
-
-    1.11. "**Tailscale Solution**" means the Tailscale Platform and the
-        Tailscale Client Software.
-
-2.  **Tailscale Solution**
-
-    2.1.  *License to the Tailscale Solution.* Subject to Customer's and
-        its Permitted Users' compliance with the terms and conditions
-        of the Agreement, Tailscale grants to Customer and its
-        Permitted Users a non-exclusive, non-transferable, and limited
-        license to use the Tailscale Solution during the Term,
-        including to install and operate the Tailscale Client Software
-        on Customer's devices, solely for the purposes set out in the
-        Agreement. Customer's use of the Tailscale Solution will be
-        subject to any limitations described in the Agreement, and in
-        any the documentation accompanying the Tailscale Solution.
-        This Agreement controls Customer\'s use of the Tailscale
-        Client Software notwithstanding any electronic software
-        license agreement that may be included as part of the
-        downloading, installation, or use of the Tailscale Client
-        Software. In addition, certain portions of the Tailscale
-        Client Software are licensed under open source licenses as set
-        forth in detail at https://github.com/tailscale/tailscale and
-        https://github.com/tailscale/tailscale-android. To the extent
-        Customer uses any such source code, the terms of those
-        licenses shall govern.
-
-    2.2.  *Restrictions on Use.* Customer acknowledges and agrees that it
-        is responsible for all use by Permitted Users of the Tailscale
-        Solution. Customer will ensure that all use by Permitted Users
-        of the Tailscale Solution is in compliance with the Agreement
-        and any guidelines and policies published by Tailscale and
-        made available to Customer from time to time. Without limiting
-        the generality of any of the foregoing, except as explicitly
-        permitted in the Agreement, Customer will not itself, and will
-        not permit others to: (a) copy the Tailscale Solution; (b)
-        disassemble, reverse engineer, modify, translate, alter or
-        decompile all or any portion of the Tailscale Solution or
-        otherwise discern the source code of the Tailscale
-        Solution; (c) adapt, modify, translate, or create derivative
-        works of the Tailscale Solution; (d) distribute, copy, rent,
-        lease, sublicense, assign, transmit, sell or otherwise
-        transfer the Tailscale Solution or any of Customer's rights
-        therein; or (e) use the Tailscale Solution to create, collect,
-        transmit, store, use, or process any data that violates any
-        applicable laws, or infringes, violates or otherwise
-        misappropriates the intellectual property or other rights of
-        any third party (including any moral right, privacy right or
-        right of publicity). Customer must erase or otherwise destroy
-        any portions of the Tailscale Solution installed or contained
-        on any media prior to disposing of such media, and in any
-        event upon termination or expiration of the Agreement.
-        Customer must not remove, alter, or obscure any such
-        proprietary notice or legend. Nothing in the Agreement will be
-        construed to grant Customer any right to obtain or use source
-        code except to the extent permitted by any open source license
-        which is licensed as part of the Tailscale Solution, and which
-        permits such use in accordance with its terms.
-
-    2.3.  *Suspension of Access; Scheduled Downtime; Modifications.*
-        Tailscale may from time to time and in its discretion, (i)
-        without limiting any of its other rights or remedies at law or
-        in equity under the Agreement, suspend Customer's access to or
-        use of the Tailscale Solution or any component thereof: (a)
-        for scheduled maintenance; (b) due to a Force Majeure
-        event, (c) if Customer or any Permitted User violates any
-        provision of the Agreement, including, for greater certainty,
-        any of the restrictions set out in Section 2.2 above; (d) to
-        address any emergency security concerns; or (e) if required to
-        do so by a governmental or regulatory authority or as a result
-        of a change in applicable law; and (ii) modify or delete
-        features and functions of the Tailscale Solution, and may
-        substitute old features or functions with new features and
-        functions, as may be necessary to meet applicable laws or
-        industry-standard requirements or demands or requirements of
-        third party service providers, or otherwise in its discretion.
-
-3.  **Ownership.**
-
-    3.1.  *Ownership of the Service*. As between you and Tailscale, the
-        Service and all Intellectual Property Rights therein or
-        relating thereto are and shall remain the exclusive property
-        of Tailscale. Nothing in the Agreement shall be interpreted to
-        provide you with any rights in the foregoing, except the
-        limited right to use the Service subject to the Agreement.
-
-    3.2.  *Customer Data*. Customer retains all right, title and interest
-        including all Intellectual Property Rights in and to any
-        Customer Data and Personal Data. Customer grants to Tailscale a
-        nonexclusive, worldwide, royalty-free, irrevocable, fully
-        paid-up right to transmit Customer Data to provide the Tailscale
-        Solution to Customer. 
-
-    3.3.  *Usage Data*. Notwithstanding anything to the contrary in this
-        Agreement, Tailscale may collect and use Usage Data to develop,
-        improve, support, and operate its products and services. Tailscale
-        may not share any Usage Data that includes Customer’s Confidential
-        Information with a third party except (a) in accordance with
-        Section 9 (Confidential Information) of these Terms, or (b) to the
-        extent the Usage Data is, in accordance with Data Protection Laws,
-        anonymized, de-identified, and/or aggregated such that it can no
-        longer directly or indirectly identify Customer or any particular
-        individual. 
-
-    3.4.  *Feedback*. You hereby assign to Tailscale all right, title and
-        interest in and to all feedback, suggestions, ideas, improvements
-        and other comments provided by you to Tailscale relating to the
-        Service (collectively, "Feedback"), and Tailscale will have the
-        unrestricted right to use and disclose Feedback, without duty or
-        obligation to you, and you acknowledge that any improvements,
-        modifications and changes arising from or in connection with your
-        contribution to the Service are the exclusive property of Tailscale's.
-
-    3.5.  *Retention of Rights*. Except for the limited rights or licenses
-        that Tailscale grants to you hereunder, Tailscale or its
-        licensors retain all rights, title and interest including all
-        Intellectual Property Rights in and to: (i) the Service;
-        and (ii) any modifications, improvements, customizations,
-        patches, bug fixes, updates, enhancements, aggregations,
-        compilations, derivative works, translations and adaptations
-        to the foregoing.
-        
-4.  **Privacy**
-
-    The DPA describes the Parties\' respective roles for the processing and
-control of Personal Data in connection with the Tailscale Solution. In
-the event of a conflict between the terms and conditions of the DPA and
-the terms and conditions of the Agreement and/or any Order Form, the DPA
-shall govern and control.
-
-5.  **Customer User Accounts; Responsibility for Permitted Users**
-
-    5.1.  *Customer User Accounts.* Upon Customer's request, Tailscale
-        will: (a) issue one or more accounts (each, a "**Customer User
-        Account**") to Customer for use by Customer and its Permitted
-        Users; and (b) designate one or more Customer User Accounts as
-        administrator accounts that provides Customer with the
-        capability to administer, maintain, and manage certain
-        features of the Tailscale Solution. Customer will ensure that
-        Permitted Users only use the Tailscale Solution through the
-        Customer User Account. Customer will not allow any Permitted
-        User to share the Customer User Account with any other person.
-        Customer will promptly notify Tailscale of any actual or
-        suspected unauthorized use of the Tailscale Solution.
-        Tailscale reserves the right to suspend, deactivate, or
-        replace the Customer User Account if it determines that the
-        Customer User Account may have been used for an unauthorized
-        purpose. Customer is responsible for ensuring that all
-        permitted Users are aware of and comply with the terms of the
-        Agreement. Any breach of the Agreement by such individuals
-        shall be deemed to be a breach by Customer.
-
-    5.2.  *Usage Limits.* An Order Form may set forth Permitted User
-        limits, and/or other usage limitations. Use of the Tailscale
-        Solution by Customer is restricted to such limitations as set
-        forth in the Order Form. Login credentials may be transferred
-        from one individual to another, but may shall not be shared
-        with another person or concurrently used by more than one
-        Permitted User.
-
-6.  **Updates to the Tailscale Client Software.**
-
-    Tailscale may, in its sole discretion, implement updates, upgrades,
-    bug fixes, patches and other error corrections to the Tailscale
-    Client Software (collectively, the "**Updates**"). All Updates will
-    be deemed to be Tailscale Client Software subject to the terms and
-    conditions of the Agreement. You are required to accept all Updates
-    made by or on behalf of Tailscale. If you do not wish to install the
-    Updates, you should not use the Tailscale Client Software following
-    such Updates. Tailscale may require that you accept and install
-    Updates as a condition to the licenses granted in the Agreement. The
-    Updates may be automatically installed without providing any
-    additional notice or receiving any additional consent. You hereby
-    consent to these automatic Updates.
-
-7.  **Third-Party Content, Websites or Services**
-
-    The Service may provide links or access to third party content,
-    websites, services or systems. Tailscale does not endorse any
-    third-party content, websites, services, or systems, or guarantee
-    their quality, accuracy, reliability, completeness, currency,
-    timeliness, non-infringement, merchantability, or fitness for any
-    purpose. Third-party content, websites, services, or systems are not
-    under the control of Tailscale, and if you choose to access any such
-    content, websites, services, or systems, you do so entirely at your
-    own risk. You acknowledge that you may be required by to accept
-    terms and conditions applicable to third party content, websites,
-    services, or systems, that such terms may supersede the terms in the
-    Agreement with respect to the use of such third party content,
-    websites, services or systems.
-
-8.  **Fees and Payment**
-
-    8.1.  *Fees.* Customer will pay to Tailscale the fees described in any
-        Order Form or otherwise disclosed through the Service (the
-        "**Fees**"). Unless otherwise set out in writing by Tailscale,
-        all Fees are identified in US dollars and are payable in
-        advance within thirty days of receipt of an invoice from
-        Tailscale. If Customer's use of the Tailscale Solution exceeds
-        the service capacity set forth in an Order Form or otherwise
-        requires the payment of additional fees pursuant to the terms
-        of the Agreement, Customer will be billed for such usage and
-        Customer will pay the additional fees in accordance with the
-        Agreement.
-
-    8.2.  *Free Trial.* Upon Customer's request, Tailscale may provide
-        Customer with a free trial of the Tailscale Solution for the
-        period set by Tailscale in writing. Near to or upon the
-        expiration date of the free trial, Tailscale will notify
-        Customer that the trial will be ending or has ended. Customer
-        will be given the option to upgrade to a paid subscription. If
-        Customer does not agree to continue use of the Tailscale
-        Solution through a paid subscription as described herein,
-        Tailscale will terminate Customer's right to access the
-        Tailscale Solution.
-
-    8.3.  *Changes to the Fees.* Tailscale reserves the right to change
-        the Fees and institute new charges before a Renewal Term (as
-        defined below); provided, that Tailscale has given at least 30
-        days' notice thereof to Customer.
-
-    8.4.  *Late Payment.* Without limiting Tailscale's other rights and
-        remedies, if Customer does not pay any amount when due, then
-        fifteen days after the day such payment was due (a) interest
-        shall accrue on such undisputed amounts at 1.5% per month (or
-        less, as per the maximum amount allowed by applicable
-        law); (b) to the extent applicable, Customer shall pay any
-        third party costs of collection (including, without
-        limitation, reasonable attorneys' and professionals' fees);
-        and (c) Tailscale may, upon notice, suspend Customer's access
-        to the Tailscale Solution until such undisputed amounts are
-        paid in full. To the extent Customer believes an amount
-        charged or invoiced is incorrect, Customer must contact
-        Tailscale within 30 days of receiving the relevant invoice or
-        Customer's right to dispute any charges will be deemed to be
-        waived.
-
-    8.5.  *Taxes.* The Fees set out in the Agreement do not include
-        applicable sales, use, gross receipts, value-added, GST or
-        HST, personal property or other taxes. Customer will be
-        responsible for and pay all applicable taxes, duties, tariffs,
-        assessments, export and import fees or similar charges
-        (including interest and penalties imposed thereon) on the
-        transactions contemplated in connection with the Agreement,
-        other than taxes based on the net income or profits of
-        Tailscale. Notwithstanding anything to the contrary in this
-        Agreement, if any amounts (including any Taxes) are required
-        to be withheld by Customer from any amount otherwise payable
-        by Customer to or for the benefit of Tailscale under this
-        Agreement, Customer will: (a) pay an additional amount such
-        that the net amount actually received by Tailscale will, after
-        all such withholdings (including any withholdings to be made
-        in respect of any additional amount payable pursuant to this
-        sentence), equal the full amount of the payment then due; (b)
-        pay, or cause to be paid, to the relevant taxation authority
-        the full amount of such withholdings (including the full
-        amount of any withholdings in respect of any additional
-        payment required to be paid pursuant to this sentence) in
-        accordance with applicable law; and (c) furnish Tailscale as
-        soon as practicable (and, in any event, within 30 days) with
-        an official receipt (or a certified copy thereof) or such
-        other documentation as is reasonably acceptable to Tailscale
-        evidencing payment of such withholdings to the relevant
-        taxation authority. In connection with this obligation,
-        Customers that are not Canadian companies but that are subject
-        to HST and/or GST must notify Tailscale in advance of making
-        any payments hereunder.
-
-    8.6.  *Suspension.* Any permitted suspension of the Tailscale Solution
-        by Tailscale pursuant to the Agreement will not excuse
-        Customer from its obligation to make payments under the
-        Agreement.
-
-9.  **Confidential Information**
-
-    9.1.  *Definitions.* For the purposes of the Agreement, a Party
-        receiving Confidential Information (as defined below) will be
-        the "**Recipient**", the Party disclosing such information
-        will be the "**Discloser**" and "**Confidential Information**"
-        means any and all information of Discloser or any of its
-        licensors that has or will come into the possession or
-        knowledge of the Recipient in connection with or as a result
-        of entering into the Agreement, including information
-        concerning the Discloser's past, present or future customers,
-        suppliers, technology or business, including, where the
-        Discloser is Customer, Customer Data, and, where the Discloser
-        is Tailscale, Tailscale Metadata or Tailscale Solution
-        security reports requested by Customer; provided that
-        Discloser's Confidential Information does not include, except
-        with respect to Personal Data: (i) information already known
-        or independently developed by Recipient without access to
-        Discloser's Confidential Information; (ii) information that is
-        publicly available through no wrongful act of Recipient;
-        or (iii) information received by Recipient from a third party
-        who was free to disclose it without confidentiality
-        obligations.
-
-    9.2.  *Confidentiality Covenants.* Recipient hereby agrees that it
-        will not, except to exercise its rights or perform its
-        obligations under the Agreement: (i) disclose Confidential
-        Information of the Discloser to any person, except to its own
-        personnel or Affiliates that have a "need to know" and that
-        have entered into written agreements no less protective of
-        such Confidential Information than this Section 9, and to such
-        other recipients as the Discloser may approve in writing; (ii)
-        use Confidential Information of the Discloser; or (iii) alter
-        or remove from any Confidential Information of the Discloser
-        any proprietary legend. Each Party will take industry standard
-        precautions to safeguard the other Party's Confidential
-        Information, which will in any event be at least as stringent
-        as the precautions that the Recipient takes to protect its own
-        Confidential Information of a similar type.
-
-    9.3.  *Exceptions to Confidentiality.* Notwithstanding Section 9.2,
-        Recipient may disclose Discloser's Confidential
-        Information: (i) to the extent that such disclosure is
-        required by applicable law or by the order of a court or
-        similar judicial or administrative body, provided that, except
-        to the extent prohibited by law, the Recipient promptly
-        notifies the Discloser in writing of such required disclosure
-        and cooperates with the Discloser to seek an appropriate
-        protective order; or (ii) to its legal counsel and other
-        professional advisors if and to the extent such persons need
-        to know such Confidential Information in order to provide
-        applicable professional advisory services in connection with
-        the Party's business; or (iii) in the case of Tailscale, to
-        potential assignees, acquirers or successors of Tailscale if
-        and to the extent such persons need to know such Confidential
-        Information in connection with a potential sale, merger,
-        amalgamation or other corporate transaction involving the
-        business or assets of Tailscale.
-
-    9.4.  *Injunctive Relief*. The Recipient acknowledges that disclosure
-        of any Confidential Information by it except as set forth in
-        Section 9.3 will give rise to irreparable injury to the
-        Discloser or the owner of such information, not adequately
-        compensated by damages. Accordingly, the Discloser will be
-        entitled to equitable relief, including injunctive relief and
-        specific performance against the breach or threatened breach
-        of the undertakings in this Section 9, in addition to any
-        other legal remedies which may be available.
-
-    9.5.  *Return or Destruction of Confidential Information*. Upon the
-        termination or expiration of this Agreement each Party will
-        promptly destroy (or, if requested by the other Party in
-        writing, return) all Confidential Information (excluding any
-        Personal Data, which will be governed by the DPA) of the other
-        Party in its possession or control within a reasonable amount
-        of time in accordance with the Recipient's data destruction
-        practices. Notwithstanding the foregoing, the Recipient may
-        retain copies of the Confidential Information of the Discloser
-        as required by applicable law, or to the extent such copies
-        are electronically stored in accordance with the Recipient's
-        standard backup procedures or record retention policies, so
-        long as such Confidential Information remains subject to the
-        confidentiality provisions set out in this Agreement. Each
-        Party will protect any Confidential Information of the other
-        Party in accordance with this Agreement so long as it retains
-        such Confidential Information.
-
-10. **Trial Features**
-    From time to time, Tailscale may, in its sole discretion, invite 
-    a Customer to use, on a trial basis, pre-release or beta products 
-    or features that are in development and not yet available to all 
-    Customers (each, a "**Trial Feature**"). All Customers invited to use 
-    one or more Trial Features may use such Trial Features only for 
-    internal evaluation purposes in a production environment, and not 
-    for any commercial use. No fees shall be payable in connection 
-    with the use of such Trial Features. The Trial Features, and all 
-    associated conversations and materials relating thereto (including 
-    any feedback received from Customer regarding the Trial Features), 
-    will be considered Tailscale’s Confidential Information and subject 
-    to the confidentiality provisions in this Agreement. Customer agrees 
-    that it will not make any public statements or otherwise disclose 
-    its use of the Trial Features without Tailscale’s prior written 
-    consent. Further, Tailscale makes no representations or warranties 
-    regarding the Trial Features. Tailscale may discontinue a Customer’s 
-    access to any of the Trial Features at any time in its sole 
-    discretion, with or without notice to Customer. In such event, 
-    Customer shall immediately delete any data or other information it 
-    has in its possession related to the Trial Feature. Tailscale may 
-    decide not to release a final or commercial version of a Trial 
-    Feature in its sole discretion and, if it offers a Trial Feature 
-    commercially, may choose not to make it available to all Customers 
-    who had access to it as a Trial Feature. In addition to the foregoing, 
-    use of a Trial Feature may be subject to additional terms and 
-    conditions that Tailscale makes available to Customer prior to 
-    Customer’s use of such Trial Feature.
-
-11. **Customer Warranties; Disclaimer**
-
-    11.1.  *Customer Representations and Warranties*. Customer represents
-        and warrants that it has and shall maintain for the duration
-        of the Agreement all right, license and consent required under
-        applicable law to provide Tailscale with Customer Data for the
-        provision of the Tailscale Solution pursuant to the Agreement
-        and as described in the DPA.
-
-    11.2.  Customer further represents and warrants that (a) it is not
-        named on any Canadian, U.S., or other list of persons or
-        entities prohibited from receiving Canadian or U.S. exports,
-        or from transacting with any Canadian or U.S entity, (b) it is
-        not a national of, or a company registered in, any
-        jurisdiction in which the provision of the provision of the
-        other party's goods or services is prohibited under Canadian,
-        U.S., or other applicable laws or regulations.
-
-    11.3.  *DISCLAIMER.*
-
-    \(a\) EXCEPT AS EXPRESSLY PROVIDED IN THE AGREEMENT, TAILSCALE DOES
-NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED OR ERROR FREE OR
-THAT ALL ERRORS CAN OR WILL BE CORRECTED; NOR DOES IT MAKE ANY
-WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM USE OF THE
-SERVICE. EXCEPT AS EXPRESSLY PROVIDED IN THE AGREEMENT, THE SERVICE
-(OR ANY PART THEREOF), AND ANY OTHER PRODUCTS AND SERVICES PROVIDED BY
-TAILSCALE TO YOU ARE PROVIDED "AS IS" AND "AS AVAILABLE" AND TAILSCALE
-DISCLAIMS ANY REPRESENTATION, CONDITION OR WARRANTY THAT ANY
-INFORMATION PROVIDED TO YOU IN CONNECTION WITH YOUR USE OF THE SERVICE
-(OR ANY PART THEREOF) IS ACCURATE, OR CAN OR SHOULD BE RELIED UPON BY
-YOU FOR ANY PURPOSE WHATSOEVER. TAILSCALE MAKES NO WARRANTIES UNDER
-THE AGREEMENT WITH RESPECT TO ANY THIRD-PARTY SOFTWARE, HARDWARE OR
-OTHER PRODUCTS EMBEDDED IN OR INCLUDED WITH THE SERVICE OR FURNISHED
-TO CUSTOMER BY TAILSCALE.
-
-    \(b\) TO THE EXTENT PERMITTED BY APPLICABLE LAW, TAILSCALE HEREBY
-DISCLAIMS ALL IMPLIED, COLLATERAL OR STATUTORY WARRANTIES,
-REPRESENTATIONS AND CONDITIONS, WHETHER WRITTEN OR ORAL, INCLUDING ANY
-IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, MERCHANTABLE
-QUALITY, COMPATIBILITY, TITLE, NON-INFRINGEMENT, SECURITY,
-RELIABILITY, COMPLETENESS, QUIET ENJOYMENT, ACCURACY, QUALITY,
-INTEGRATION OR FITNESS FOR A PARTICULAR PURPOSE OR USE, OR ANY
-WARRANTIES OR CONDITIONS ARISING OUT OF COURSE OF DEALING OR USAGE OF
-TRADE. WITHOUT LIMITING THE GENERALITY OF ANY OF THE FOREGOING,
-TAILSCALE EXPRESSLY DISCLAIMS ANY REPRESENTATION, CONDITION OR
-WARRANTY THAT ANY DATA OR INFORMATION PROVIDED TO CUSTOMER IN
-CONNECTION WITH CUSTOMER'S USE OF THE SERVICE (OR ANY PART THEREOF) IS
-ACCURATE, OR CAN OR SHOULD BE RELIED UPON BY CUSTOMER FOR ANY PURPOSE
-WHATSOEVER.
-
-12. **Indemnification**
-
-    YOU AGREE TO INDEMNIFY, DEFEND (AT TAILSCALE'S OPTION), AND HOLD
-TAILSCALE AND ITS RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, MEMBERS,
-SHAREHOLDERS, CONTRACTORS, OR REPRESENTATIVES (AND ALL SUCCESSORS AND
-ASSIGNS OF ANY OF THE FOREGOING), HARMLESS FROM AND AGAINST ANY CLAIM OR
-DEMAND, INCLUDING WITHOUT LIMITATION, REASONABLE ATTORNEYS' FEES AND
-DISBURSEMENTS, MADE BY ANY THIRD PARTY IN CONNECTION WITH OR ARISING OUT
-OF YOUR USE OF THE SERVICE, YOUR CONNECTION TO THE SERVICE, YOUR
-VIOLATION OF THE TERMS OR TAILSCALE'S PRIVACY POLICY, YOUR VIOLATION OF
-ANY APPLICABLE LAW, YOUR SUBMISSION, POSTING, OR TRANSMISSION OF USER
-CONTENT TO THE SERVICE, AND/OR YOUR VIOLATION OF ANY RIGHTS, INCLUDING
-PRIVACY RIGHTS, OF ANOTHER INDIVIDUAL OR ENTITY. WE RESERVE THE RIGHT,
-AT OUR OWN EXPENSE, TO ASSUME THE EXCLUSIVE DEFENSE AND CONTROL OF SUCH
-DISPUTES, AND IN ANY EVENT YOU WILL COOPERATE WITH US IN ASSERTING ANY
-AVAILABLE DEFENSES.
-
-13. **Limitation of Liability**
-
-    IN NO EVENT SHALL TAILSCALE OR ITS AFFILIATES OR ANY OF THEIR RESPECTIVE
-DIRECTORS, OFFICERS, EMPLOYEES, OR AGENTS BE LIABLE FOR INDIRECT,
-INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, OR ANY
-PENALTIES, CLAIMS FOR LOST DATA, REVENUE, PROFITS, COSTS OF PROCUREMENT
-OR SUBSTITUTE GOODS OR SERVICE OR BUSINESS OPPORTUNITIES, ARISING OUT OF
-THE AGREEMENT OR ANY ADDENDUM THERETO, UNDER ANY CAUSE OF ACTION OR
-THEORY OF LIABILITY, WHETHER IN CONTRACT OR IN TORT INCLUDING
-NEGLIGENCE, EVEN IF TAILSCALE HAD BEEN ADVISED OF SUCH DAMAGES. TO THE
-MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
-TAILSCALE'S MAXIMUM AND AGGREGATE LIABILITY HEREUNDER FOR ANY CAUSE OF
-ACTION OR THEORY OF LIABILITY EXCEED THE AMOUNTS PAID BY CUSTOMER TO
-TAILSCALE HEREUNDER DURING THE 6 MONTH PERIOD PRIOR TO THE DATE THE
-CAUSE OF ACTION AROSE.
-
-    Some jurisdictions do not allow the exclusion of certain warranties or
-the limitation or exclusion of liability for incidental or consequential
-damages. Accordingly, some of the above limitations may not apply to
-you. If you are located in the State of New Jersey, United States, the
-limitations above do apply to you.
-
-14. **Term and Termination**
-
-    14.1.  *Term.* The Agreement will commence on the Effective Date and
-        will continue in effect for the initial term set out in the
-        Order Form (the "**Initial Term**") or until otherwise
-        terminated in writing by the Parties as provided in this
-        Section. The Agreement with respect to the Tailscale Solution
-        will automatically renew for successive renewal terms as set
-        out in an Order Form (each, a "**Renewal Term**"; collectively,
-        the Initial Term and Renewal Term, the "**Term**").
-
-    14.2.  *Termination for Convenience.* Tailscale may terminate the
-        Agreement with respect to the Tailscale Solution or any Order
-        Form at any time and for any reason without liability or
-        penalty by providing advance written notice
-        to Customer. In such event, Tailscale will refund to Customer,
-        on a pro-rata basis, any unused subscription-based Fees
-        prepaid under the Agreement for any period following the
-        effective date of termination. Tailscale may terminate your
-        right to use the Site at any point and for any reason in its
-        discretion, and such termination shall be effective upon
-        notice.
-
-    14.3.  *Termination for Cause.* If you fail to comply with any
-        provision of the Agreement, Tailscale may terminate the
-        Agreement immediately and retain any fees previously paid by
-        you, if applicable. Upon any such termination, you must cease
-        any further use of the Service. If at any time you are not
-        happy with the Service your sole remedy is to cease using the
-        Service.
-
-    14.4.  *Survival.* The following Sections, together with any other
-        provision of the Agreement which expressly or by its nature
-        survives termination or expiration, or which contemplates
-        performance or observance subsequent to termination or
-        expiration of the Agreement, will survive expiration or
-        termination of the Agreement for any reason: Section 8 (Fees
-        and Payment), Section 9 (Confidential Information), Section 11
-        (Customer Warranties; Disclaimer), Section 12
-        (Indemnification), Section 13 (Limitation of Liability),
-        Section 14.4 (Survival), Section 15 (Notices), Section 16
-        (Binding Arbitration and Class Action Waiver) and Section 17
-        (General Information).
-
-15. **Notices**
-
-    15.1.  *Notices.* Notices sent to either Party will be effective when
-        delivered in writing and in person or by email, one day after
-        being sent by overnight courier, or five days after being sent
-        by first class mail postage prepaid to the official contact
-        designated by the Party to whom a notice is being given.
-        Notices will be sent: (i) if to Tailscale, to the following
-        address:
-
-    Tailscale Inc.\
-Attention: David Carney\
-125-720 King St. West\
-Suite 585\
-Toronto, ON\
-M5V 3S5
-
-    Email: info@tailscale.com
-
-    and (ii) if to you to the current postal or email address that
-Tailscale has on file for you or as Tailscale can otherwise
-communicate to you through the Service.
-
-    Tailscale may change its contact information by posting the new
-contact information on its Site, through the Tailscale Solution or by
-giving notice thereof to you. You are solely responsible for keeping
-your contact information on file with Tailscale current at all times
-during the Term.
-
-16. **Binding Arbitration and Class Action Waiver**
-
-    PLEASE READ THIS SECTION CAREFULLY -- IT MAY SIGNIFICANTLY AFFECT YOUR
-LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
-
-    16.1.  *Initial Dispute Resolution.* Our Customer Support Department is
-    available via the Site to address any concerns you may have
-    regarding the Service. Our Customer Support Department can resolve
-    most concerns quickly to your satisfaction. The Parties shall use
-    their best efforts through this Customer Service process to settle
-    any dispute, claim, question, or disagreement and engage in good
-    faith negotiations which shall be a condition to either party
-    initiating a lawsuit or arbitration. Failure to engage in this
-    process could result in the award of fees against you in
-    arbitration.
-
-    16.2.  *Binding Arbitration.* If the Parties do not reach an agreed upon
-    solution within a period of 30 days from the time informal dispute
-    resolution begins under the Initial Dispute Resolution provision,
-    then either party may initiate binding arbitration as the sole
-    means to resolve claims, subject to the terms set forth below.
-    Specifically, all claims arising out of or relating to the
-    Agreement (including their formation, performance and breach), the
-    Parties' relationship with each other and/or your use of the
-    Service shall be finally settled by binding arbitration
-    administered by JAMS in accordance with the provisions of its
-    Streamlined Arbitration and Procedures, excluding any rules or
-    procedures governing or permitting class or representative
-    actions.\
-    \
-    Except as set forth in Section 16.5, the arbitrator, and not any
-    federal, state or local court or agency, shall have exclusive
-    authority to resolve all disputes arising out of or relating to
-    the interpretation, applicability, enforceability or formation of
-    the Agreement, including, but not limited to any claim that all or
-    any part of the Agreement are void or voidable, whether a claim is
-    subject to arbitration, and any dispute regarding the payment of
-    JAMS administrative or arbitrator fees (including the timing of
-    such payments and remedies for nonpayment). The arbitrator shall
-    be empowered to grant whatever relief would be available in a
-    court under law or in equity. The Parties agree that the
-    arbitrator may allow the filing of dispositive motions if they are
-    likely to efficiently resolve or narrow issues in dispute. The
-    arbitrator's award shall be written, and binding on the Parties
-    and may be entered as a judgment in any court of competent
-    jurisdiction. No arbitration award or decision will have any
-    preclusive effect as to issues or claims in any dispute with
-    anyone who is not a named party to the arbitration.\
-    \
-    The Streamlined Arbitration Rules governing the arbitration may be
-    accessed at www.jamsadr.com or by calling JAMS at (800) 352-5267.
-    If you commence arbitration in accordance with the Agreement, you
-    will be required to pay US\$250 to initiate the arbitration. To
-    the extent the filing fee for the arbitration exceeds the cost of
-    filing a lawsuit, the arbitrator may require Tailscale to pay the
-    additional cost. You are responsible for your own attorneys' fees
-    unless the arbitration rules and/or applicable law provide
-    otherwise. If the arbitrator finds the arbitration to be
-    non-frivolous, Tailscale will pay all of the actual filing and
-    arbitrator fees for the arbitration, provided your claim does not
-    exceed US\$75,000. For claims above US\$75,000, fees and costs
-    will be determined in accordance with applicable JAMS rules. The
-    arbitration rules permit you to recover attorney's fees in certain
-    cases.\
-    \
-    Any arbitration demand or counterclaim asserted by either party
-    must contain sufficient information to provide fair notice to the
-    other party of the asserting party's identity, the claims being
-    asserted, and the factual allegations on which they are based. The
-    arbitrator and/or JAMS may require amendment of any demand or
-    counterclaim that does not satisfy these requirements. The
-    arbitrator has the right to impose sanctions in accordance with
-    JAMS Rule 24 for any claims the arbitrator determines to be
-    frivolous or improper (under the standard set forth in Federal
-    Rule of Civil Procedure 11).\
-    \
-    The Parties agree that JAMS has discretion to modify the amount or
-    timing of any administrative or arbitration fees due under JAMS's
-    Rules where it deems appropriate, provided that such modification
-    does not increase the costs to you, and you waive any objection to
-    such fee modification. The Parties also agree that a good-faith
-    challenge by either party to the fees imposed by JAMS does not
-    constitute a default, waiver, or breach of this Section 16 while
-    such challenge remains pending before JAMS, the arbitrator, and/or
-    a court of competent jurisdiction.\
-    \
-    The Parties understand that, absent this mandatory provision, they
-    would have the right to sue in court and have a jury trial. They
-    further understand that, in some instances, the costs of
-    arbitration could exceed the costs of litigation and the right to
-    discovery may be more limited in arbitration than in court.
-
-    16.3.  *Location.* If you are a resident of the United States, arbitration
-    will take place at any reasonable location within the United
-    States convenient for you. For residents outside of the United
-    States, arbitration shall be initiated in the County of New York,
-    State of New York, United States of America, and you and Tailscale
-    agree to submit to the personal jurisdiction of any federal or
-    state court in New York County, New York, in order to compel
-    arbitration, to stay proceedings pending arbitration, or to
-    confirm, modify, vacate or enter judgment on the award entered by
-    the arbitrator.
-
-    16.4.  *Class Action Waiver.* The Parties further agree that any
-    arbitration shall be conducted in their individual capacities only
-    and not as a class action or other representative action, and the
-    Parties expressly waive their right to file a class action or seek
-    relief on a class basis. YOU AND TAILSCALE AGREE THAT EACH MAY
-    BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL
-    CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED
-    CLASS OR REPRESENTATIVE PROCEEDING. If there is a final judicial
-    determination that applicable law precludes enforcement of this
-    Paragraph's limitations as to a particular remedy, then that
-    remedy (and only that remedy) must be severed from the arbitration
-    and may be sought in court. The Parties agree, however, that any
-    adjudication of remedies not subject to arbitration shall be
-    stayed pending the outcome of any arbitrable claims and remedies.
-
-    16.5.  *Exception - Litigation of Intellectual Property and Small Claims
-    Court Claims.* Notwithstanding the Parties\' decision to resolve
-    all disputes through arbitration, either party may bring an action
-    in state or federal court to protect its Intellectual Property
-    Rights (but not privacy or publicity rights). Either party may
-    also elect to have disputes or claims resolved in a small claims
-    court that are within the scope of that court's jurisdiction.
-    Either party may also seek a declaratory judgment or other
-    equitable relief in a court of competent jurisdiction regarding
-    whether a party's claims are time-barred or may be brought in
-    small claims court in your state and county of residence. Seeking
-    such relief shall not waive a party's right to arbitration under
-    the Agreement.
-
-    16.6.  *30-Day Right to Opt Out.* You have the right to opt-out and not be
-    bound by the arbitration and class action waiver provisions set
-    forth above by sending written notice of your decision to opt-out
-    to the following address: Tailscale Inc., 125-720 King St. West
-    Suite 585 Toronto, ON M5V 3S5. The notice must be sent within 30
-    days of your first use of the Service, otherwise you shall be
-    bound to arbitrate disputes in accordance with the terms of those
-    paragraphs. If you opt-out of these arbitration provisions,
-    Tailscale also will not be bound by them.
-
-    16.7.  *Changes to this Section.* Tailscale will provide 30 days' notice of
-    any changes to this section. Changes will become effective on the
-    30th day. If you continue to use the Site or the Tailscale
-    Solution after the 30th day, you agree that any unfiled claims of
-    which Tailscale does not have actual notice are subject to the
-    revised clause.\
-    \
-    For any dispute not subject to arbitration you and Tailscale agree
-    to submit to the personal and exclusive jurisdiction of and venue
-    in the federal and state courts located in New York, NY. You
-    further agree to accept service of process by mail, and hereby
-    waive any and all jurisdictional and venue defenses otherwise
-    available.\
-    \
-    The Terms and the relationship between you and Tailscale shall be
-    governed by the laws of the State of New York without regard to
-    conflict of law provisions.
-
-17. **General**
-
-    17.1.  *Statute of Limitations.* You agree that regardless of any
-        statute or law to the contrary, any claim or cause of action
-        arising out of or related to the use of the Service or the
-        Terms must be filed within one (1) year after such claim or
-        cause of action arose or be forever barred.
-
-    17.2.  *Section Titles.* The section titles in the Terms are for
-        convenience only and have no legal or contractual effect.
-
-    17.3.  *Export Restrictions.* Customer agrees not to directly or
-        indirectly export, re-export or import all or any portion of
-        the Service without first obtaining all required licenses,
-        permits and permissions. Tailscale makes no representation or
-        warranty that the Service may be exported without Customer
-        first obtaining appropriate licenses or permits under
-        applicable law, or that any such license or permit has been,
-        will be, or can be obtained.
-
-    17.4.  *Construction*. Except as otherwise provided in the Agreement,
-        the Parties' rights and remedies under the Agreement are
-        cumulative and are in addition to, and not in substitution
-        for, any other rights and remedies available at law or in
-        equity or otherwise. The terms "include" and "including" mean,
-        respectively, "include without limitation" and "including
-        without limitation." The headings of sections of the Agreement
-        are for reference purposes only and have no substantive
-        effect.
-
-    17.5.  *Force Majeure.* Neither Party will be liable for delays caused
-        by any event or circumstances beyond that Party's reasonable
-        control, including acts of God, acts of government, flood,
-        fire, earthquakes, civil unrest, acts of terror, strikes or
-        other labour problems (other than those involving that Party's
-        employees), Internet service failures or delays, or the
-        unavailability or modification by third parties of
-        telecommunications or hosting infrastructure or third-party
-        websites ("Force Majeure Event").
-
-    17.6.  *Assignment.* Tailscale may, upon giving written notice to you,
-        assign its rights and obligations under the Agreement to any
-        of its Affiliates or pursuant to a merger, amalgamation or
-        other corporate reorganization or a sale of all or
-        substantially all of its assets relating to that portion of
-        its business that delivers the Service. In this case, such
-        assignee will have and may exercise all the rights, and will
-        assume all of the obligations, of Tailscale under the
-        Agreement, except that the assignment will not release
-        Tailscale from liability for Tailscale's obligations under the
-        Agreement. Except for such permitted assignment, neither Party
-        may assign the Agreement or any rights or obligations under
-        the Agreement without the prior written consent of each of the
-        other Party. The Agreement enure to the benefit of and is
-        binding upon the Parties and their respective successors and
-        permitted assigns.
-
-    17.7.  *Severability*. Any provision of the Agreement found by a
-        tribunal or court of competent jurisdiction to be invalid,
-        illegal or unenforceable will be severed from the Agreement
-        and all other provisions of the Agreement will remain in full
-        force and effect.
-
-    17.8.  *Waiver*. A waiver of any provision of the Agreement will be in
-        writing and a waiver in one instance will not preclude
-        enforcement of such provision on other occasions.
-
-    17.9.  *Independent Contractors.* Tailscale's relationship to you is
-        that of an independent contractor, and neither Party is an
-        agent or partner of the other. Neither Party will have, and
-        neither Party will represent to any third party that it has,
-        any authority to act on behalf of the other Party.
-
-    17.10. *Entire Agreement.* The Agreement constitute the entire
-        agreement between the Parties with respect to the subject
-        matter thereof and supersede all prior or contemporaneous
-        agreements, representations or other communications between
-        the Parties, whether written or oral. Any terms and conditions
-        appearing on a purchase order or similar document issued by
-        Customer, or in Customer's procurement, invoicing, or vendor
-        onboarding portal: (i) do not apply to the Tailscale
-        Solution; (ii) do not override or form a part of this
-        Agreement (including without limitation any Order Form);
-        and (iii) are void.
-
-    17.11. *No Third Party Beneficiaries.* Except as may otherwise be
-        explicitly set forth hereunder, no person or entity will be a
-        third party beneficiary of this Agreement or have any right or
-        cause of action hereunder.
-
-    17.12. *English Language.* It is the express wish of the Parties that
-        the Agreement and all related documents be drawn up in
-        English. C'est la volonté expresse des Parties que la présente
-        convention ainsi que les documents qui s'y rattachent soient
-        rédigés en anglais.
-
-18. **Contact Us**
-
-    Customer may contact us in writing regarding any notices, questions,
-complaints or claims with respect to the Tailscale Solution at the
-address set forth above or by calling +1 (415) 886-9844 or emailing
-info@tailscale.com.
+Last updated: August 1, 2024
+
+These are the standard Terms of Service (the “**Terms**”) applicable to all customers that purchase the Tailscale Solution through the Tailscale Platform (both as defined below) or other online purchasing mechanism and not pursuant to an Order Form (collectively “**Self-Serve customers**”), and all customers that use Tailscale Solution under a free trial or free Plan (defined below) (collectively “**Free customers**”). 
+
+Please read these Terms carefully as they affect your legal rights. By creating or administering a Tailscale account and accessing or using the Tailscale Solution, you agree to be bound by these Terms, which, together with the [Data Processing Addendum](http://tailscale.com/dpa) and [Special Terms](https://docs.google.com/document/u/0/d/1tz1v7u2YJBEiyA7uOILWPDj\_-CjQ5JZVkb7TCRVroRE/edit) (in each case only if and as applicable to you) comprise the “**Agreement**” between you and Tailscale. **If you do not agree to these Terms, do not use the Tailscale Solution.** If you are entering into the Agreement on behalf of a company, organization, or similar entity, you are agreeing to the Agreement for that entity and representing to Tailscale that you have the authority to bind such entity to the Agreement.
+
+**Important notice for Free customers and customers using the Tailscale Solution for personal or household purposes: these Terms contain provisions requiring that you agree to the use of arbitration to resolve any disputes arising under the Agreement rather than a jury trial or any other court proceedings, and to waive your participation in class action of any kind against Tailscale. Some jurisdictions, including the Province of Quebec, do not allow binding arbitration or the disclaimer of class action rights. Accordingly, some of the foregoing terms may not apply to you or be enforceable with respect to you.**
+
+1.  **Definitions.**
+
+    Some capitalized terms are defined in this Section 1 and others are defined contextually elsewhere in the Agreement.  For purposes of the Agreement, “**Tailscale**,” “**we**,” “**our**” or “**us**” means Tailscale Inc. and “**Customer**”, “**you**” or “**your**” means you, the individual or entity that is purchasing, accessing or using the Tailscale Solution, and can mean either Self-Service customers or Free customers as the context dictates. If you are purchasing or using the Tailscale Solution on behalf of your company or using a company domain, all references to “you” reference such company. Each of Tailscale and you may also be referred to in the Agreement as a “party” or collectively as the “parties.”
+
+    1.1	“**Affiliate**” means any entity which directly or indirectly controls, is controlled by, or is under common control with a party. 
+
+    1.2	“**Customer Data**” means any data, information, records, files, communications and other content that is transmitted from one Customer Endpoint to one or more other Customer Endpoint(s) using the Tailscale Solution and can only be encrypted/decrypted by the Customer.
+
+    1.3	“**Customer Endpoint**” means a device of Customer or a Permitted User that has the Tailscale Client Software installed upon it.
+
+    1.4	“**Documentation**” means the online documentation, guidelines and policies provided by Tailscale in relation to the Tailscale Solution, including our service descriptions, [Service Level Agreement](http://tailscale.com/sla) (“**SLA**”), acceptable use policies, technical documentation, user guides and support documentation, and any Updates thereto.
+
+    1.5	“**Integrations**” means any software application, functionality, website, product or service that will connect to or integrate with the Tailscale Solution or embed certain functionality into a third party platform or service, including via an API or SDK. You and your Permitted Users choose which Integrations to activate with respect to your use of the Tailscale Solution.
+
+    1.6	“**Order Form**” means an ordering document regarding the Tailscale Solution to be provided under our Main Service Agreement that is entered into between Tailscale or any of its Affiliates and a customer, or between Tailscale or any of its Affiliates and any of such customer’s Affiliates.
+
+    1.7	“**Permitted User**” means an individual human who is authorized by Customer to access and use the Tailscale Solution.
+
+    1.8	“**Plan**“ means a subscription package for the Tailscale Solution. We offer several Plans for both personal and business use at different price points, including free Plans, each with a slightly different mix of available features, functionality, limits, support and configuration options. For more information on our available Plans, please visit our [Pricing page](http://tailscale.com/pricing). We reserve the right to modify our Plans and any applicable service fees at any time.
+
+    1.9	“**Tailscale Client Software**” means Tailscale’s proprietary software that is installed on Customer Endpoints and any Updates thereto.
+
+    1.10	“**Tailscale Platform**” means Tailscale’s proprietary Internet-accessible software and service that is hosted and maintained by Tailscale.
+
+    1.11	“**Tailscale Solution**” means the totality of Tailscale’s proprietary service that includes the Tailscale Platform and Tailscale Client Software, as well as any other software, information or services related thereto provided by Tailscale to Customer.
+
+    1.12	“**Updates**” means any version updates, bug fixes, patches, error corrections, and other similar software or content updates to the Tailscale Client Software or Documentation.
+
+2. **Service Terms.**
+
+2.1	*Provision and Access.* In accordance with the terms and conditions of the Agreement, Tailscale shall grant you and your Permitted Users access to and use of the Tailscale Solution as detailed in Documentation solely for your own personal use or internal business purposes (as applicable depending on your Plan). This includes a limited, revocable, worldwide, non-exclusive, non-transferable, license to download and use the Tailscale Client Software on Customer Endpoints solely in connection with your use of the Tailscale Solution. You agree that your purchase of the Tailscale Solution is not contingent on the delivery of any future features or functionality, or dependent on any oral or written public comments made by us regarding future functionality or features. 
+
+2.2	*Ownership.* As between the Customer and Tailscale, the Tailscale Solution and Documentation, and all intellectual property rights therein or relating thereto, are and shall remain the exclusive property of Tailscale. Nothing in the Agreement shall be interpreted to provide Customer with any rights in the foregoing, except the limited right to use the Tailscale Solution subject to the Agreement. You may not, directly or indirectly, do or attempt any of the following: (i) misappropriate or otherwise commercially exploit any part of the Tailscale Solution; (ii) modify, disassemble, decompile, reverse engineer, copy, reproduce, or create derivative works from the Tailscale Solution; (iii) damage, tamper with or circumvent any part of the Tailscale Solution; (iv) breach or circumvent any security measure for the Tailscale Solution; (v) access or use the Tailscale Solution to compete with Tailscale or build a competitive product, service or solution; or (vi) access or use the Tailscale Solution for illegal or illicit purposes. 
+
+2.3	*Customer Data.* Customer retains all right, title and interest including all intellectual property rights in and to Customer Data. You grant us a limited, nonexclusive, revocable, worldwide, royalty-free right to transmit Customer Data solely to enable us to provide the Tailscale Solution to you during the Term. Subject to the limited license granted herein, Tailscale acquires no right, title or interest in or to any Customer Data. For the avoidance of doubt, you and your Permitted Users choose what Customer Data to transmit using the Tailscale Solution; Tailscale does not have access to, use of or control over Customer Data, and only you can encrypt/decrypt Customer Data. Tailscale will not make any change to the Tailscale Solution that would enable it to decrypt Customer Data. Tailscale has no general obligation to monitor, and does not monitor, your Customer Data. You are solely responsible for the content of your Customer Data, and represent and warrant that your Customer Data does not violate applicable laws. 
+
+2.4	*Customer Responsibilities.* You will use the Tailscale Solution in accordance with our Documentation and applicable laws. You are solely responsible for: all actions taken through your account by you or your Permitted Users; timely accepting, installing and using Updates; and acquiring, maintaining and securing your own hardware, software, networks and computer systems, which are not included in the Tailscale Solution. You are also responsible for the activity of your Permitted Users and the confidentiality of your and their login credentials. Customer will promptly notify Tailscale of any actual or suspected unauthorized use of the Tailscale Solution. We reserve the right to suspend, deactivate, or replace a Permitted User account if we determine that such account may have been used to violate any applicable law or not in accordance with the Agreement or Documentation. Any breach of the Agreement by your Permitted Users shall be deemed to be a breach by Customer.
+
+2.5	*Third Party Services.* The Tailscale Solution may contain, enable or link to third party websites, applications, services or content, including via Integrations (collectively **“Third Party Services”**). We do not own or operate the Third Party Services and cannot guarantee their continued availability or compatibility. We have not reviewed, and cannot review, all of the material made available through Third Party Services. We do not warrant or support the Third Party Services. The availability of such links through the Services does not represent, warrant or imply that we endorse any Third Party Services or any content, materials, opinions, goods or services available on or through them. Our Documentation does not apply to Third Party Services. Your decision to visit or link to a Third Party Service, or to activate an Integration, is your decision and your responsibility. We are not responsible for any security breach of Customer Data or any data or information that is transmitted to, or accessed by, a Third Party Service. If you choose to use an Integration with the Tailscale Solution, you grant us permission to transmit data to the Integration and/or to allow the Integration to access data as necessary for the interoperation of that Integration with the Tailscale Solution.
+
+3. **Payment.**
+
+This Section 3 only applies to Self-Serve customers.
+
+3.1	*Fees.* In consideration of the rights granted to Customer and the performance of Tailscale’s obligations under these Terms, you agree to pay Tailscale the fees and rates associated with your Plan and any add-on services that you choose to purchase (the “**Fees**”). The Fees for your chosen Plan and payment period (typically monthly or annually) will be specified at the time of purchase when you “check-out” on the Tailscale Platform. Unless explicitly indicated otherwise in these Terms, our Documentation or at the time of “check-out”, all payments will be made by credit card. Payments are non-cancelable, non-transferable, non-refundable, and not subject to acceptance, except as expressly stated elsewhere in these Terms. Any permitted suspension of the Tailscale Solution by Tailscale pursuant to these Terms will not excuse you from your obligation to make payments under these Terms. 
+
+3.2	*Renewals.* Your Tailscale account will remain open under your chosen Plan and payment period, and your payment method will continue to be charged applicable Fees, unless and until you change your Plan or close your account. You may change your Plan at any time by following the instructions in our applicable Documentation. If you choose to change your Plan before the close of a payment period, the Fees due at the next payment period will be prorated accordingly, you will remain responsible for any unpaid Fees under the prior Plan, and our services under the prior Plan will be deemed fully performed and delivered. Notwithstanding anything to the contrary, renewal of any free, complimentary, promotional or one-time priced services will renew at our applicable list price in effect at the time of the applicable renewal.
+
+3.3	*Taxes.* The Fees set out in these Terms do not include applicable sales, use, gross receipts, value-added, GST or HST, personal property or other taxes (collectively “**Taxes**”). Customer will be responsible for and pay all applicable Taxes, duties, tariffs, assessments, export and import fees or similar charges (including interest and penalties imposed thereon) on the transactions contemplated in connection with these Terms, other than Taxes based on the net income or profits of Tailscale. If Customer is a tax-exempt entity or claims exemption from any Taxes hereunder, Customer will provide a certificate of exemption upon agreement to these Terms and, after receipt of valid evidence of exemption, Tailscale will not charge Customer any Taxes from which Customer is exempt.   
+
+3.4	*Invoices.* Unless set forth otherwise in our Documentation or your invoice, Tailscale will invoice you as of the first day of each payment period for the Fees and Taxes due for the prior payment period. Unless set forth otherwise in your invoice, all invoices are issued in United States dollars, and each invoice is due and payable thirty (30) days from the invoice date according to the payment instructions provided on the invoice. You agree that we may invoice you for any unpaid Fees at any time during the payment period. You may add a purchase order number to an invoice, if necessary for your internal payment processing requirements. If Customer disputes any amount set forth in any invoice, you must notify Tailscale within fifteen (15) days of the invoice date or you will be deemed to have waived your right to dispute such amount. The parties agree to work in good faith to resolve any payment dispute.
+
+3.5 *Delinquent Accounts.* In the event of late payments or non-payments of undisputed amounts (collectively, “**Delinquent Accounts**”), Tailscale reserves the right to suspend Customer’s access to and use of the Tailscale Solution and/or charge interest on such past-due amounts until those amounts are paid in full, to be decided by us in our sole discretion. If, after working in good faith with the Customer, Tailscale is not successful in resolving the Delinquent Account, any interest will accrue on past due amounts at the rate of one and one half percent (1.5%) per month, but in no event greater than the highest rate of interest allowed by law, calculated from the date such amount was due until the date that payment is received by Tailscale. Customer will reimburse Tailscale for the reasonable costs of collection, including reasonable fees and expenses of attorneys.
+
+4. **Term; Termination.**
+
+4.1	*Term.* These Terms will remain in effect from the day you open your Tailscale account until the earlier of (i) you closing your account or (ii) termination of these Terms by one of the parties as provided herein. The full duration of these Terms is the “**Term**.” 
+
+4.2	*Closing your account.* You may close your account at any time by following the instructions in our Documentation. Any outstanding invoices will become immediately due and payable in accordance with the payment terms set forth in these Terms or on the applicable invoice. Any prepaid fees are non-refundable. 
+
+4.3	*Termination for cause.* Either party may terminate these Terms immediately upon written notice if the other party materially breaches the Agreement and fails to correct the breach within thirty (30) days following written notice specifying the breach. In addition, if a party becomes or is declared insolvent or bankrupt, is the subject of any proceedings relating to its liquidation, insolvency, or for the appointment of a receiver, or makes an assignment for the benefit of any creditor, then the other party may terminate these Terms immediately upon written notice. If Customer terminates for cause under this Section 4.3, Tailscale will refund to you on a pro rata basis any prepaid Fees after the effective date of termination. If Tailscale terminates for cause, Customer will remain liable to pay all Fees outstanding as of the effective date of termination, including any unpaid Fees covering the remainder of the payment period had these Terms not been terminated. 
+
+4.4	*Termination by Tailscale.* We reserve the right to terminate these Terms and close your account upon notice to you in the event that we determine we are required to do so by law, in which case we will refund to you any prepaid Fees covering the remainder of your payment period as of the effective date of such termination. 
+
+4.5	*Effect of termination.* Upon termination of these Terms, Customer’s right to access and use the Tailscale Solution will immediately end, and Customer and its Permitted Users will immediately cease all use of the Tailscale Solution. We will have no further obligation to maintain or provide you with access to the Tailscale Solution, including for transition purposes, and may thereafter, unless legally prohibited, delete any associated data in our systems or otherwise in our possession or under our control pursuant to our standard data retention policies and procedures. The parties also will cease any and all use of Confidential Information belonging to the other party, and return or destroy any such Confidential Information upon request. In no event will any termination or expiration relieve you of your obligation to pay any fees payable to us for the period prior to the effective date of termination. Expiration or termination of these Terms will not limit either party from pursuing any other remedies available to it, including injunctive relief, nor will any such expiration or termination relieve either party’s obligation to pay all amounts and Fees that have accrued or are otherwise owed by such party under these Terms up to the effective date of termination.
+
+4.6	*Survival.* The rights and obligations of Tailscale and Customer contained in the following sections will survive expiration or termination of these Terms:  Sections 3 (Payment), 4.5 (Effect of termination), 4.6 (Survival), 6 (Confidentiality), 7.3 (Warranty disclaimer), 11 (Indemnification), 12 (Limitations of liability), and 14 (Miscellaneous).
+
+5. **Data Protection.**
+
+5.1	*Applicable terms.* For business entities or individuals using the Tailscale Solution for business purposes, the Tailscale [Data Processing Addendum](http://tailscale.com/dpa) (“**DPA**”) is incorporated by reference for compliance with global laws and regulations related to the processing of Personal Data (defined in the DPA) in connection with the Tailscale Solution and the Agreement. If you are an individual using the Tailscale Solution for personal or household purposes, then our [Privacy Policy](https://tailscale.com/privacy-policy) applies.
+
+5.2	*Security.* Tailscale has adopted and will maintain administrative, technical, physical, and organizational security measures that are at least as robust as those described in our DPA as of the effective date of these Terms. Tailscale will not knowingly introduce into the Tailscale Solution any viruses, worms, time bombs, Trojan horses or other malicious code that might harm, or any “copyleft” open source license that would require the open licensing of, any Customer systems.
+
+5.3	*Usage Data.* Customer acknowledges that Tailscale securely processes information, data and metadata resulting from the ordinary course operation and use of the Tailscale Solution for limited internal business purposes related to the ongoing operation, development and protection of the Tailscale Solution, including security and fraud prevention, product analytics, research, debugging and improvement, and billing and customer account management (collectively “**Usage Data**”). Tailscale processes Usage data for such purposes as an independent data controller or business in accordance with applicable Data Privacy Laws (defined in the DPA). Customer acknowledges and agrees that Tailscale may process Usage Data for such purposes, and that such purposes are compatible with, reasonably necessary, and proportionate to providing the Tailscale Solution to Customer. To the extent Usage Data includes any identifying information, Tailscale will de-identify and/or aggregate the Usage Data whenever possible. For the avoidance of doubt, Usage Data does not include Customer Data.
+
+5.4	*Acknowledgement.* You acknowledge that: (a) Tailscale is not a “Business Associate” as defined in HIPAA and the Tailscale Solution is not HIPAA compliant; (b) Tailscale is not a “bank service provider” as defined in the Bank Service Company Act; and (c) Tailscale does not act as a “school official” as defined under FERPA, and customers are solely responsible for using the Tailscale Solution only for non-FERPA covered purposes. As a reminder, you and your Permitted Users choose what Customer Data to transmit using the Tailscale Solution; Tailscale does not have access to, use of or control over Customer Data. If you choose to transmit any sensitive information (including information associated with (a)-(c) above, any special categories of data as enumerated in GDPR Article 9(1), and any tax identification numbers, Social Security numbers, driver’s license numbers, or other similar government identification numbers), you are solely responsible for ensuring that suitable safeguards are in place prior to transmitting or processing such information using the Tailscale Solution.
+
+6. **Confidentiality.**
+
+The provisions of this clause shall supersede any non-disclosure agreement by and between the Parties entered prior to this Agreement with respect to the subject matter hereto.
+
+6.1	*Definition. “Confidential Information”* means all information disclosed by a party to the other party, whether orally or in writing, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure. Tailscale Confidential Information includes: the software for the Tailscale Solution, whether in source or executable code; Research (as defined in Section 8.2) materials and information; nonpublic business, product, marketing, pricing and sales information; audit materials and reports; internal policies, procedures and controls; and the results of any performance tests of the Tailscale Solution. Confidential Information does not include any information that: (i) is or becomes generally known to the public through no breach of any obligation owed to the disclosing party; (ii) was known to the receiving party prior to its disclosure by the disclosing party without breach of any obligation owed to the disclosing party; (iii) is received from a third party without knowledge of any breach of any obligation owed to the disclosing party; or (iv) is independently developed by the receiving party. For the avoidance of doubt, the parties acknowledge that Personal Data (defined in the DPA) is not considered Confidential Information and the terms of the DPA or our Privacy Policy (as  applicable to you), not this Section 6, shall govern the parties’ obligations with respect to Personal Data.
+
+6.2	*Protection of Confidential Information.* As between the parties, each party retains all ownership rights in and to its Confidential Information. The receiving party will: (a) use the same degree of care that it uses to protect the confidentiality of its own Confidential Information of like kind (but not less than reasonable care); (b) not use or disclose any Confidential Information of the disclosing party for any purpose outside the scope of the Agreement; and (c) limit access to Confidential Information of the disclosing party, except as otherwise authorized by the disclosing party in writing, to only those employees, agents and contractors (including its Affiliates, legal counsel, auditors and accountants) who (i) need that access for purposes consistent with the Agreement and (ii) are bound to obligations of confidentiality that are not materially less protective of the Confidential Information than those contained in this MSA. Upon the expiration or termination of this MSA, the receiving party shall have no further rights to the disclosing party’s Confidential Information and shall promptly destroy all materials (whether maintained electronically or otherwise) containing such information, together with all copies thereof in whatever form; provided however that the receiving party may retain copies for archival purposes as required by applicable law or to the extent such copies are electronically stored in accordance with the receiving party’s document retention or back-up policies or procedures. The receiving party’s obligations relating to protection of Confidential Information under this MSA shall continue for three (3) years following the expiration or termination of this Agreement, except that in the case of Confidential Information that is a trade secret under applicable law, the obligations of confidentiality shall continue for so long as such Confidential Information remains a trade secret. 
+
+6.3	*Compelled disclosures.* Notwithstanding the foregoing, Confidential Information may be disclosed to the extent required by any competent court or governmental agency. Before disclosing such information, the receiving party must (if permitted by law) provide the disclosing party with sufficient advance notice of the request for the information to enable the disclosing party to exercise, at its own cost, any rights it may have to challenge or limit the request to receive such Confidential Information.‍ If the receiving party is compelled by law to disclose the disclosing party’s Confidential Information as part of a civil proceeding to which the disclosing party is a party, and the disclosing party is not contesting the disclosure, the disclosing party will reimburse the receiving party for its reasonable cost of compiling and providing secure access to that Confidential Information.
+
+6.4	*Availability of injunctive relief.* The parties acknowledge that disclosure of any Confidential Information in violation of this Section 6 will give rise to irreparable injury to the owner of such information that is not adequately compensated by damages. Accordingly, each party will be entitled to seek equitable relief, including injunctive relief and specific performance against the breach or threatened breach of the undertakings in this Section 6, in addition to any other legal remedies which may be available.
+
+7. **Warranties & Disclaimers.**
+
+7.1	*Mutual warranties.* Each party represents and warrants that: (a) it is duly authorized to enter into these Terms; (b) it is duly organized and validly existing under the laws of its relevant jurisdiction; (c) it has the full right, power and authority to enter into this MSA and perform its obligations hereunder; (d) this MSA is a valid and binding obligation of such party; and (e) it will comply with all applicable laws and regulations with respect to its activities related to the Tailscale Solution and the Agreement.
+
+7.2	*Limited warranty.* Tailscale represents and warrants that: (a) the Tailscale Solution will operate in material and substantial conformity with the Documentation; and (b) Tailscale will not materially decrease the overall functionality of the Tailscale Solution; ((a)-(b) collectively the “**Limited Warranty**”)). If Customer notifies Tailscale of a breach of the Limited Warranty, Tailscale will correct the nonconformity. The foregoing constitutes Customer’s sole and exclusive remedy for any breach of the Limited Warranty. The Limited Warranty will not apply to any Third Party Service, if caused by any events, systems or circumstances outside our reasonable control, or if caused by Customer’s use of the Tailscale Solution in an unlawful manner or not in accordance with the Agreement or our Documentation.
+
+7.3	*Warranty disclaimer.* **Except as expressly provided for in these Terms and the SLA (if and as applicable to you), and to the maximum extent permitted by law, the Tailscale Solution is provided warranty free, on an "as is" and "as available" basis. We make no further representations, warranties or conditions of any kind, whether express, implied, collateral or statutory, including any warranties of merchantability, merchantable quality, compatibility, title, security, reliability, non-infringement, accuracy, quality, completeness, quiet enjoyment, integration or fitness for a particular purpose or use. We further disclaim any and all warranties or conditions arising out of course of dealing or usage of trade.** Some jurisdictions, including the Province of Quebec, do not allow the limitation or exclusion of certain warranties, or the exclusion or limitation of certain damages. If you reside in one of those jurisdictions, the above limitations or exclusions may not apply to you.
+
+8. **Feedback; Research.**
+
+8.1	*Feedback.* If you or any of your Permitted Users voluntarily send us feedback, suggestions or recommendations about the Tailscale Solution (“**Feedback**”), we may freely use Feedback without duty or obligation to you. We are not obligated to use Feedback, but if we do then it becomes part of the Tailscale Solution and our property. Unless in the context of Research, all Feedback will be treated as non-confidential and non-proprietary and we will not be liable for any use or disclosure of any Feedback, nor will the submitter be entitled to any compensation for our use of their Feedback.
+
+8.2	*Research.* From time to time you or certain of your Permitted Users may be invited to participate in studies, focus groups, workshops, beta testing, or other research or testing of features, products or services related to the Tailscale Solution, some of which may not yet be ready for general release (**“Research”**). Participation is completely voluntary. We are not forming a partnership, joint venture, agency, or employment relationship with you or your Permitted Users just by virtue of participating in Research. We are under no obligation to generally release the feature or functionality subject to Research, or to provide any special maintenance, technical support, or other service or support for Research. **All materials associated with Research are provided on an "as is" and "as available" basis, without any warranties of any kind, express or implied.**
+
+9. **Publicity.**
+
+Tailscale may refer to you as one of Tailscale’s customers for marketing or promotional purposes. You grant us the right to use your name and logo solely for such purposes. We will adhere to any trademark guidelines that you provide to us, and any goodwill that arises from our use of your name or logo shall inure solely to your benefit. Neither party will issue a press release about Customer becoming a Tailscale customer or a case study about Customer’s experience with the Tailscale Solution without the prior written consent of the other party.
+
+10. **Disputes; Choice of Law.**
+
+10.1 *Choice of law.* If you are an individual using the Tailscale Solution for personal or household purposes and a resident of Quebec, the Agreement will be governed by and interpreted in accordance with the laws of the Province of Quebec and the laws of Canada applicable therein, and the parties will each attorn to the jurisdiction of the courts of Quebec. Otherwise, to the extent permitted by applicable law, the Agreement will be governed by and interpreted in accordance with the internal laws of the State of New York, USA, without regard to conflicts of laws principles. The United Nations Convention on Contracts for the International Sale of Goods will not apply to the Agreement. 
+
+10.2 **Free customers and customers using the Tailscale Solution for personal or household purposes. All Free customers and customers using the Tailscale Solution for personal or household purposes are subject to the terms of [Schedule A](#schedule-a) attached to these Terms, including, with limited exceptions, the binding arbitration requirements and class action waiver described in Schedule A. Please read Schedule A carefully – it may significantly affect your legal rights, including your right to file a lawsuit in court. Some jurisdictions, including the Province of Quebec, do not allow binding arbitration or the disclaimer of class action rights. Accordingly, some of the terms in Schedule A may not apply to you or be enforceable with respect to you.**
+
+10.3 *Self-Serve customers using the Tailscale Solution for business purposes.* Schedule A will not apply to Self-Serve customers using the Tailscale Solution for business purposes. In the event of any controversy or claim arising out of or relating to the Agreement, or its breach or interpretation, to the extent permitted by applicable law, Tailscale and all Self-Serve customers using the Tailscale Solution for business purposes will submit to the exclusive jurisdiction of and venue in state or federal courts located in New York County, New York, USA. Each party waives all defenses of lack of personal jurisdiction and inconvenient forum. Notwithstanding the foregoing, this choice of jurisdiction does not prevent either party from: (i) electing to have any claims resolved in small claims court for disputes and actions within the scope of such court’s jurisdiction, regardless of what forum the filing party initially chose; (ii) seeking injunctive relief with respect to a violation of its intellectual property rights in any appropriate jurisdiction (“intellectual property rights” in this context means patents, copyrights, moral rights, trademarks, and trade secrets and other confidential or proprietary information, but not privacy or publicity rights) or for defamation; or (iii) seeking a declaratory judgment, injunction, or other equitable relief in a court of competent jurisdiction regarding whether a party’s claims are time-barred or may be brought in small claims court. The parties hereby waive their right to jury trial with respect to all claims and issues arising under, in connection with, touching upon or relating to the Agreement.
+
+10.4 *Statute of limitations.* Regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to the use of the Tailscale Solution or the Agreement must be filed within one (1) year after such claim or cause of action arose or be forever barred.
+
+11. **Indemnification.**
+
+11.1 *Indemnification by Tailscale.* Tailscale will defend Customer and its Affiliates, and each of their respective officers, directors, employees, agents, successors and assigns, against any claim, demand, suit or proceeding made or brought against Customer by a third party (other than a Customer Affiliate) alleging that the Tailscale Solution infringes or misappropriates such third party’s intellectual property rights (a **“Claim Against Customer”**), and will indemnify Customer from any damages, attorney fees and costs finally awarded against Customer as a result of, or for amounts paid by Customer under a settlement approved by Tailscale in writing of, a Claim Against Customer. In the event that our right to provide the Tailscale Solution is threatened or enjoined, we may in our sole discretion either obtain the right to continue providing the Tailscale Solution, or replace or modify the Tailscale Solution so that it becomes non-infringing, or, if such remedies are not reasonably available, terminate these Terms upon thirty (30) days written notice without liability to you and refund any prepaid Fees covering the Tailscale Solution on a pro-rata basis following the effective date of such termination. The above defense and indemnification obligations will not apply to the extent the Claim Against Customer arises from: (i) Customer’s use of the Tailscale Solution in an unlawful manner; (ii) Customer’s failure to timely install or use Updates when the Tailscale Solution would not infringe had such Updates been so installed or used; (iii) Customer Data; (iv) Customer’s instructions, specifications or requirements to Tailscale; (v) Customer’s combination of the Tailscale Solution with any other software, system, equipment, component, process or material not provided by Tailscale; or (vi) Customer’s use of the Tailscale Solution not in accordance with the Agreement or Documentation.
+
+11.2 *Indemnification by Customer.* Customer will defend Tailscale and its Affiliates, and each of their officers, directors, employees, agents, successors and assigns, against any claim, demand, suit or proceeding made or brought against Tailscale by a third party (other than a Tailscale Affiliate) arising from: (a) Customer’s use of the Tailscale Solution in violation of our [Acceptable Use Policy](https://tailscale.com/tailscale-aup); (b) Customer’s combination of the Tailscale Solution with any other software, system, equipment, component, process or material not provided by Tailscale; or (c) Customer Data; ((a)-(c) each a **“Claim Against Tailscale”**); and will indemnify Tailscale from any damages, attorney fees and costs finally awarded against Tailscale as a result of, or for any amounts paid by Tailscale under a settlement approved by Customer in writing of, a Claim Against Tailscale. The above defense and indemnification obligations will not apply to the extent the Claim Against Tailscale arises from Tailscale’s material breach of the Agreement.
+
+11.3 *Indemnification procedures.* Each party’s respective defense and indemnification obligations are contingent upon: (a) the indemnified party providing the defending party with prompt written notice of an eligible claim (no more than thirty (30) days after receipt of notice of the claim), as well as reasonable cooperation, assistance and information in the defense and settlement of any claim; and (b) the defending party having sole authority to defend or settle such claim (provided that the defending party will not enter into a settlement that is not confidential, requires an admission of fault, or imposes non-monetary relief without the indemnified party’s prior written consent, which shall not be unreasonably withheld). The indemnified party will have the right to participate in the defense with counsel of its own choosing at its own expense, provided that such representation does not interfere with the defending party’s right to control the defense.
+
+11.4 *Exclusive remedy.* This Section 11 states the indemnifying party’s sole liability to, and the indemnified party’s exclusive remedy against, the other party for any third party claim described in this section notwithstanding anything to the contrary in these Terms.
+
+12. **Limitation of Liability.**
+
+12.1 **Except for the Excluded Liabilities (defined below), notwithstanding anything in the Agreement to the contrary and to the maximum extent permitted by law, in no event shall either party be liable to the other party for any indirect, incidental, special, exemplary, consequential, or punitive damages, whether or not such party has been advised of the possibility of such damages, and whether any claim for recovery is based on theories of contract, warranty, tort (including negligence and strict liability), or otherwise. Some jurisdictions, including the Province of Quebec, do not allow the exclusion or limitation of certain damages. If you reside in one of those jurisdictions, the above limitations or exclusions may not apply to you.**
+
+12.2 **Except for the Excluded Liabilities, notwithstanding anything in the Agreement to the contrary and to the maximum extent permitted by law, in no event shall either party’s aggregate liability to the other in connection with this Agreement or Customer’s access to and use of the Tailscale Solution exceed the greater of: (i) $100; or (ii) the total fees paid or payable by Customer to Tailscale under which the claim arose in the twelve (12) month period preceding the claim or action; regardless of the form or theory of the claim or action.‍ For greater certainty, the existence of one or more claims under the Agreement will not increase this maximum liability amount.**
+
+12.3 For purposes of this Section 12, the “Excluded Liabilities'' are any liabilities arising from: (a) indemnification obligations under Section 11 (Indemnification); (b) breach of Section 6 (Confidentiality); (c) breach of Section 2.2 (Ownership); or (d) Customer’s obligation to pay all outstanding Fees.
+
+13. **Trade Compliance.**
+
+In connection with these Terms, each party agrees to comply with: all relevant export and import laws; and all laws relating to embargoes or sanctions, including the lists maintained by the United Nations Security Council, the Canadian Government, the United States Government, the European Union or its member states, or other applicable government authority (collectively “**Sanctions**”). By accessing and using the Tailscale Solution, you represent, warrant, and covenant that you and your Permitted Users are not: a party on any Sanctions list; owned or controlled by any such party; or located in (or a national of) a country or jurisdiction on any Sanctions list. Any attempt to access or use the Tailscale Solution in breach of the foregoing is considered a material breach of these Terms. We reserve full rights to change or limit access to the Tailscale Solution as necessary to ensure compliance with applicable laws and regulations.
+
+14. **Miscellaneous.**
+
+14.1 *Evaluation Periods.* Tailscale may, in its sole discretion, make the Tailscale Solution or certain features or functionality available to you free of charge solely for evaluation purposes for a limited period of time as set forth in an Order Form (the “**Evaluation Period**”). Such Order Form may contain other requirements or limitations related to the Evaluation Period, such as the number of Permitted Users that may access the Tailscale Solution. During the Evaluation Period you agree that you will use the Tailscale Solution solely for internal evaluation purposes and not for commercial use. Notwithstanding anything in these Terms to the contrary, the parties expressly agree that, during and with respect to the Evaluation Period: (a) Tailscale reserves the right to terminate your access to the Tailscale Solution at any time for any reason; (b) the representations and warranties regarding the Tailscale Solution set forth herein, including the Limited Warranty, are not applicable; and (c) Tailscale’s aggregate liability to you shall not exceed $100.
+
+14.2 *Modifications.* From time to time, Tailscale may revise these Terms or the other documents comprising the Agreement. Unless otherwise specified by Tailscale, changes become effective for Customer on the date we publish the updated terms or as set forth in any notice we may provide about the changes. We will use reasonable efforts to notify you of material changes through communications via Customer’s account, email or other means, and Customer may be required to click to accept or otherwise agree to the updated terms. If you do not agree to the updated terms, you may close your account as set forth in Section 4.2 above. Continued use of the Tailscale Solution after the updated terms go into effect will constitute Customer’s acceptance of such updated version. 
+
+14.3 *Assignment.* Neither party may assign or transfer these Terms, in whole or in part, without the prior written consent of the other party (not to be unreasonably withheld) except in the event of either: (1) the direct or indirect acquisition of either (a) the majority of voting stock of such party or (b) all or substantially all of the assets of such party, by another entity in a single transaction or a series of transactions; or (2) the merger of such party with another entity. Any attempted assignment or transfer in violation of this Section 14.3 will be null and void. Subject to the foregoing restrictions, these Terms will inure to the benefit of the successors and permitted assigns of the parties.
+
+14.4 *Notice.* Unless otherwise specified: notice to Tailscale must be in writing and sent by email to legal@tailscale.com; and notice to Customer will be in writing and sent to the admin email address associated with Customer’s account. You are solely responsible for keeping your contact information on file with Tailscale current at all times during the Term. Notice will be deemed given and received on the business day following the day of actual delivery of the email, unless there is a specific notification that it was not received on the day of actual delivery thereof (ex a bounce back). Nothing herein shall constitute a waiver of formal requirements for service of process for initiating litigation or arbitration.
+
+14.5 *Force Majeure.* Tailscale will not be liable for any failure or delay in the performance of our obligations on account of any events beyond our reasonable control that make it impossible or commercially impracticable for us to perform our obligations hereunder, including strikes or other labor problems, material shortages, epidemics, pandemics, civil unrest, riots, insurrection, fires, flood, earthquakes, storms, explosions, cyber attacks, or acts of God, war, terror or government.
+
+14.6 *No third party beneficiaries.* The Agreement is intended for the sole and exclusive benefit of the parties; there are no third party beneficiaries, and only the parties may enforce the Agreement. 
+
+14.7 *Relationship of the parties.* Nothing in the Agreement will be deemed to create an agency, partnership, joint venture, employer-employee or franchisor-franchisee relationship of any kind between the parties. Neither party will have the power to bind the other or to incur obligations on the other’s behalf without such other party’s prior written consent. 
+
+14.8 *Waiver and severability.* The waiver by either party of any default or breach of the Agreement will not constitute a waiver of any other or subsequent default or breach. The Agreement operates to the fullest extent permissible by law. In the event any provision of the Agreement is held to be invalid or unenforceable, the remaining provisions of the Agreement will remain in full force and effect. 
+
+14.9 *Titles and headings.* The section titles and headings are for convenience only and have no legal or contractual effect. The word “will” shall be construed to have the same meaning as “shall.” The words “include,” “includes,” and “including” will be deemed to be followed by “without limitation.” The word “or” will not be exclusive. The phrase “to the extent” will be construed to mean the degree to which a subject or other matter extends, and such a phrase will not simply mean “if.” Where a word is defined herein, references to the singular will include references to the plural and vice versa. All references to “days” will be deemed to refer to calendar days unless otherwise specifically provided. All references to “$” and “dollars” will be deemed to refer to United States currency unless otherwise specifically provided​​. 
+
+14.10 *Customer Affiliates.* Permitted Users of Customer Affiliates may use the Tailscale Solution as Permitted Users of Customer. In such a case, Customer shall remain fully responsible for such Affiliates’ acts and omissions under the Agreement. 
+
+14.11 *Entire agreement.* This Agreement constitutes the complete and exclusive agreement between the parties concerning its subject matter and supersedes all prior or contemporaneous agreements, written or oral, concerning its subject matter. Notwithstanding any language to the contrary, no terms or conditions stated in any software, onboarding, support, marketing or other materials, will be incorporated into or form any part of the Agreement, and all such supposed terms or conditions shall be null and void.
+
+14.12 *Order of precedence.* To the extent of any conflict or inconsistency between the documents comprising the Agreement, the following order of precedence will apply: (1) any applicable Special Terms; (2) the DPA and SLA (if and as applicable to you); and (3) these Terms. Any terms and conditions stated on a purchase order or similar document issued by Customer for payment purposes shall be null and void.
+
+14.13 *English language.* It is the express wish of the parties that the Agreement and all related documents be drawn up in English. C’est la volonté expresse des parties que la présente convention ainsi que les documents qui s’y rattachent soient rédigés en anglais.
+
+14.14 *Execution.* The parties will be bound by signatures made by electronic means, including without limitation clicking a button or similar, and which may be transmitted to the other party by email and/or any electronic method and will have the same binding effect as any original ink signature.
+
+# Schedule A
+
+## Dispute Resolution, Binding Arbitration, and Class Action Waiver
+
+**This Schedule A applies to Free customers and customers using the Tailscale Solution for personal or household purposes. Please read this Schedule A carefully – it may significantly affect your legal rights, including your right to file a lawsuit in court. Some jurisdictions, including the Province of Quebec, do not allow binding arbitration or the disclaimer of class action rights. Accordingly, some of the following terms may not apply to you or be enforceable with respect to you.**
+
+1. *Initial Dispute Resolution.* Our Support team is available to address any concerns you may have regarding the Tailscale Solution. Our Support team can resolve most concerns quickly to your satisfaction. The parties shall use their best efforts to settle any dispute, claim, question, or disagreement and engage in good faith negotiations which shall be a condition to either party initiating a lawsuit or arbitration. Failure to engage in this process could result in the award of fees against you in arbitration.
+
+2. *Binding Arbitration.* If the Parties do not reach an agreed upon solution within a period of 30 days from the time informal dispute resolution begins under the Initial Dispute Resolution provision, then either party may initiate binding arbitration as the sole means to resolve claims, subject to the terms set forth below. Specifically, all claims arising out of or relating to the Agreement (including their formation, performance and breach), the parties’ relationship with each other and/or your use of the Tailscale Solution shall be finally settled by binding arbitration administered by JAMS in accordance with the provisions of its Streamlined Arbitration and Procedures, excluding any rules or procedures governing or permitting class or representative actions.
+
+Except as set forth in Section 5 below, the arbitrator, and not any federal, state or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability or formation of the Agreement, including, but not limited to any claim that all or any part of the Agreement are void or voidable, whether a claim is subject to arbitration, and any dispute regarding the payment of JAMS administrative or arbitrator fees (including the timing of such payments and remedies for nonpayment). The arbitrator shall be empowered to grant whatever relief would be available in a court under law or in equity. The parties agree that the arbitrator may allow the filing of dispositive motions if they are likely to efficiently resolve or narrow issues in dispute. The arbitrator’s award shall be written, and binding on the parties and may be entered as a judgment in any court of competent jurisdiction. No arbitration award or decision will have any preclusive effect as to issues or claims in any dispute with anyone who is not a named party to the arbitration.
+
+The Streamlined Arbitration Rules governing the arbitration may be accessed at [www.jamsadr.com](https://www.jamsadr.com/) or by calling JAMS at (800) 352-5267. If you commence arbitration in accordance with the Agreement, you will be required to pay US$250 to initiate the arbitration. To the extent the filing fee for the arbitration exceeds the cost of filing a lawsuit, the arbitrator may require Tailscale to pay the additional cost. You are responsible for your own attorneys’ fees unless the arbitration rules and/or applicable law provide otherwise. If the arbitrator finds the arbitration to be non-frivolous, Tailscale will pay all of the actual filing and arbitrator fees for the arbitration, provided your claim does not exceed US$75,000. For claims above US$75,000, fees and costs will be determined in accordance with applicable JAMS rules. The arbitration rules permit you to recover attorney’s fees in certain cases.
+
+Any arbitration demand or counterclaim asserted by either party must contain sufficient information to provide fair notice to the other party of the asserting party’s identity, the claims being asserted, and the factual allegations on which they are based. The arbitrator and/or JAMS may require amendment of any demand or counterclaim that does not satisfy these requirements. The arbitrator has the right to impose sanctions in accordance with JAMS Rule 24 for any claims the arbitrator determines to be frivolous or improper (under the standard set forth in Federal Rule of Civil Procedure 11).
+
+The parties agree that JAMS has discretion to modify the amount or timing of any administrative or arbitration fees due under JAMS’s Rules where it deems appropriate, provided that such modification does not increase the costs to you, and you waive any objection to such fee modification. The parties also agree that a good-faith challenge by either party to the fees imposed by JAMS does not constitute a default, waiver, or breach of this Section 2 while such challenge remains pending before JAMS, the arbitrator, and/or a court of competent jurisdiction.
+
+The parties understand that, absent this mandatory provision, they would have the right to sue in court and have a jury trial. They further understand that, in some instances, the costs of arbitration could exceed the costs of litigation and the right to discovery may be more limited in arbitration than in court.
+
+3. *Location.* If you are a resident of the United States, arbitration will take place at any reasonable location within the United States convenient for you. For residents outside of the United States, arbitration shall be initiated in the County of New York, State of New York, United States of America, and you and Tailscale agree to submit to the personal jurisdiction of any federal or state court in New York County, New York, in order to compel arbitration, to stay proceedings pending arbitration, or to confirm, modify, vacate or enter judgment on the award entered by the arbitrator.
+
+4. *Class Action Waiver.* The parties further agree that any arbitration shall be conducted in their individual capacities only and not as a class action or other representative action, and the parties expressly waive their right to file a class action or seek relief on a class basis. **You and Tailscale agree that each may bring claims against the other only in your or its individual capacity, and not as a plaintiff or class member in any purported class or representative proceeding.** If there is a final judicial determination that applicable law precludes enforcement of this paragraph’s limitations as to a particular remedy, then that remedy (and only that remedy) must be severed from the arbitration and may be sought in court. The parties agree, however, that any adjudication of remedies not subject to arbitration shall be stayed pending the outcome of any arbitrable claims and remedies. 
+
+5. *Exception \- Litigation of Intellectual Property and Small Claims Court Claims.* Notwithstanding the parties' decision to resolve all disputes through arbitration, either party may bring an action in state or federal court to protect its intellectual property rights (but not privacy or publicity rights). Either party may also elect to have disputes or claims resolved in a small claims court that are within the scope of that court’s jurisdiction. Either party may also seek a declaratory judgment or other equitable relief in a court of competent jurisdiction regarding whether a party’s claims are time-barred or may be brought in small claims court in your state and county of residence. Seeking such relief shall not waive a party’s right to arbitration under the Agreement.
+
+6. *30-Day Right to Opt Out.* You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth above by sending written notice of your decision to opt-out to the address provided for notices below. The notice must be sent within 30 days of the effective date of the Agreement, otherwise you shall be bound to arbitrate disputes in accordance with the terms of those paragraphs. If you opt-out of these arbitration provisions, Tailscale also will not be bound by them.
+
+7. *Changes to this Schedule.* Tailscale will provide 30 days’ notice of any changes to this Schedule A. Changes will become effective on the 30th day. If you continue to use our websites or the Tailscale Solution after the 30th day, you agree that any unfiled claims of which Tailscale does not have actual notice are subject to the revised clause.
+
+8. *Other disputes.* For any dispute not subject to arbitration you and Tailscale agree to submit to the personal and exclusive jurisdiction of and venue in the federal and state courts located in New York, NY. You further agree to accept service of process by mail, and hereby waive any and all jurisdictional and venue defenses otherwise available.
+
+Notwithstanding the foregoing, if you are a Free customer, an individual using the Tailscale Solution for personal or household purposes, and a resident of the Province of Quebec, any claim or dispute relating to the Tailscale Solution or these Terms that is not resolved under the arbitration requirements of this Schedule A, not subject to the exceptions to arbitration set out in Section 5 above, and not resolved through the informal dispute resolution procedure set out in Section 1 above will be resolved by a court of competent jurisdiction located in the Province of Quebec. 

@@ -24,7 +24,7 @@ Please read these Terms carefully as they affect your legal rights. By creating 
 
     1.3	“**Customer Endpoint**” means a device of Customer or a Permitted User that has the Tailscale Client Software installed upon it.
 
-    1.4	“**Documentation**” means the online documentation, guidelines and policies provided by Tailscale in relation to the Tailscale Solution, including our service descriptions, [Service Level Agreement](http://tailscale.com/sla) (“**SLA**”), acceptable use policies, technical documentation, user guides and support documentation, and any Updates thereto.
+    1.4	“**Documentation**” means the online documentation, guidelines and policies provided by Tailscale in relation to the Tailscale Solution, including our service descriptions, [Service Level Agreement](https://tailscale.com/sla) (“**SLA**”), acceptable use policies, technical documentation, user guides and support documentation, and any Updates thereto.
 
     1.5	“**Integrations**” means any software application, functionality, website, product or service that will connect to or integrate with the Tailscale Solution or embed certain functionality into a third party platform or service, including via an API or SDK. You and your Permitted Users choose which Integrations to activate with respect to your use of the Tailscale Solution.
 
@@ -32,7 +32,7 @@ Please read these Terms carefully as they affect your legal rights. By creating 
 
     1.7	“**Permitted User**” means an individual human who is authorized by Customer to access and use the Tailscale Solution.
 
-    1.8	“**Plan**“ means a subscription package for the Tailscale Solution. We offer several Plans for both personal and business use at different price points, including free Plans, each with a slightly different mix of available features, functionality, limits, support and configuration options. For more information on our available Plans, please visit our [Pricing page](http://tailscale.com/pricing). We reserve the right to modify our Plans and any applicable service fees at any time.
+    1.8	“**Plan**“ means a subscription package for the Tailscale Solution. We offer several Plans for both personal and business use at different price points, including free Plans, each with a slightly different mix of available features, functionality, limits, support and configuration options. For more information on our available Plans, please visit our [Pricing page](https://tailscale.com/pricing). We reserve the right to modify our Plans and any applicable service fees at any time.
 
     1.9	“**Tailscale Client Software**” means Tailscale’s proprietary software that is installed on Customer Endpoints and any Updates thereto.
 
@@ -84,7 +84,7 @@ This Section 3 only applies to Self-Serve customers.
 
 5. **Data Protection.**
 
-5.1	*Applicable terms.* For business entities or individuals using the Tailscale Solution for business purposes, the Tailscale [Data Processing Addendum](http://tailscale.com/dpa) (“**DPA**”) is incorporated by reference for compliance with global laws and regulations related to the processing of Personal Data (defined in the DPA) in connection with the Tailscale Solution and the Agreement. If you are an individual using the Tailscale Solution for personal or household purposes, then our [Privacy Policy](https://tailscale.com/privacy-policy) applies.
+5.1	*Applicable terms.* For business entities or individuals using the Tailscale Solution for business purposes, the Tailscale [Data Processing Addendum](https://tailscale.com/dpa) (“**DPA**”) is incorporated by reference for compliance with global laws and regulations related to the processing of Personal Data (defined in the DPA) in connection with the Tailscale Solution and the Agreement. If you are an individual using the Tailscale Solution for personal or household purposes, then our [Privacy Policy](https://tailscale.com/privacy-policy) applies.
 
 5.2	*Security.* Tailscale has adopted and will maintain administrative, technical, physical, and organizational security measures that are at least as robust as those described in our DPA as of the effective date of these Terms. Tailscale will not knowingly introduce into the Tailscale Solution any viruses, worms, time bombs, Trojan horses or other malicious code that might harm, or any “copyleft” open source license that would require the open licensing of, any Customer systems.
 

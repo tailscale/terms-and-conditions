@@ -10,7 +10,7 @@ description: >
 
 Last Updated: August 1, 2024
 
-This Main Service Agreement (“**MSA**”) between Tailscale Inc. (“**Tailscale**,” “**we**,” “**our**” or “**us**”) and the customer identified in the relevant Order Form (defined below) (“**Customer**,” “**you**” or “**your**”) permits such Customer to purchase the Tailscale Solution (defined below) pursuant to Order Forms referencing this MSA. This MSA together with the [Data Processing Addendum](tailscale.com/dpa) and all applicable Order Forms and [Special Terms](tailscale.com/special-terms) collectively comprise the “**Agreement**” between you and Tailscale. This MSA shall govern your purchases of the Tailscale Solution from the effective date unless otherwise agreed in the Order Form. Each of Tailscale and you may also be referred to in the Agreement as a “**party**” or collectively as the “**parties.**”
+This Main Service Agreement (“**MSA**”) between Tailscale Inc. (“**Tailscale**,” “**we**,” “**our**” or “**us**”) and the customer identified in the relevant Order Form (defined below) (“**Customer**,” “**you**” or “**your**”) permits such Customer to purchase the Tailscale Solution (defined below) pursuant to Order Forms referencing this MSA. This MSA together with the [Data Processing Addendum](https://tailscale.com/dpa) and all applicable Order Forms and [Special Terms](https://tailscale.com/special-terms) collectively comprise the “**Agreement**” between you and Tailscale. This MSA shall govern your purchases of the Tailscale Solution from the effective date unless otherwise agreed in the Order Form. Each of Tailscale and you may also be referred to in the Agreement as a “**party**” or collectively as the “**parties.**”
 
 ## 1. Definitions.
 

@@ -13,7 +13,7 @@ This repository includes:
 - [Service Level Agreement](/sla/index.md), published at https://tailscale.com/sla/
 - [Data Privacy Addendum](/dpa/index.md), published at https://tailscale.com/dpa/
 - [Subprocessors List](/dpa-subprocessors/index.md), published at https://tailscale.com/dpa-subprocessors/
-- [Tailscale Funnel Acceptable Use Policy](/funnel-aup/index.md), published at https://tailscale.com/funnel-aup/
+- [Tailscale Acceptable Use Policy](/tailscale-aup/index.md), published at https://tailscale.com/tailscale-aup/
 - [Reseller Addendum](/reseller-addendum/index.md), published at https://tailscale.com/reseller-addendum/
 - [Education and Not-for-Profit Discount Plan Supplement](/discount-terms/index.md), published at https://tailscale.com/discount-terms/
 

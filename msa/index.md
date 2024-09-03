@@ -8,9 +8,9 @@ description: >
 
 # Tailscale Main Service Agreement
 
-Last Updated: August 1, 2024
+Last Updated: September 3, 2024
 
-This Main Service Agreement (“**MSA**”) between Tailscale Inc. (“**Tailscale**,” “**we**,” “**our**” or “**us**”) and the customer identified in the relevant Order Form (defined below) (“**Customer**,” “**you**” or “**your**”) permits such Customer to purchase the Tailscale Solution (defined below) pursuant to Order Forms referencing this MSA. This MSA together with the [Data Processing Addendum](https://tailscale.com/dpa) and all applicable Order Forms and [Special Terms](https://tailscale.com/special-terms) collectively comprise the “**Agreement**” between you and Tailscale. This MSA shall govern your purchases of the Tailscale Solution from the effective date unless otherwise agreed in the Order Form. Each of Tailscale and you may also be referred to in the Agreement as a “**party**” or collectively as the “**parties.**”
+This Main Service Agreement (“**MSA**”) between the Tailscale entity identified in [Schedule A](#schedule-a-tailscale-entity) (“**Tailscale**,” “**we**,” “**our**” or “**us**”) and the customer identified in the relevant Order Form (defined below) (“**Customer**,” “**you**” or “**your**”) permits such Customer to purchase the Tailscale Solution (defined below) pursuant to Order Forms referencing this MSA. This MSA together with the [Data Processing Addendum](https://tailscale.com/dpa) and all applicable Order Forms and [Special Terms](https://tailscale.com/special-terms) collectively comprise the “**Agreement**” between you and Tailscale. This MSA shall govern your purchases of the Tailscale Solution from the effective date unless otherwise agreed in the Order Form. Each of Tailscale and you may also be referred to in the Agreement as a “**party**” or collectively as the “**parties.**”
 
 ## 1. Definitions.
 
@@ -58,7 +58,7 @@ Some capitalized terms are defined in this Section 1 and others are defined cont
 
   3.3	*Taxes*. The Fees set out in this MSA do not include applicable sales, use, gross receipts, value-added, GST or HST, personal property or other taxes (collectively “**Taxes**”). Customer will be responsible for and pay all applicable Taxes, duties, tariffs, assessments, export and import fees or similar charges (including interest and penalties imposed thereon) on the transactions contemplated in connection with this MSA, other than Taxes based on the net income or profits of Tailscale. If Customer is a tax-exempt entity or claims exemption from any Taxes hereunder, Customer will provide a certificate of exemption upon agreement to this MSA and, after receipt of valid evidence of exemption, Tailscale will not charge Customer any Taxes from which Customer is exempt. 
 
-  3.4	*Invoices*. Tailscale will invoice you as of the first day of each payment period for the Fees and Taxes due for that payment period, as set forth in the applicable Order Form. Unless set forth otherwise in your Order Form, all invoices are issued in United States dollars, all payment periods are on an annual basis, and each invoice is due and payable thirty (30) days from the invoice date according to the payment instructions provided on the invoice. You may add a purchase order number to an invoice, if necessary for your internal payment processing requirements. If Customer disputes any amount set forth in any invoice, you must notify Tailscale within fifteen (15) days of the invoice date or you will be deemed to have waived your right to dispute such amount. The parties agree to work in good faith to resolve any payment dispute.
+  3.4	*Invoices*. Tailscale will invoice you as of the first day of each payment period for the Fees and Taxes due for that payment period, as set forth in the applicable Order Form. Invoices may be issued by a Tailscale Affiliate. Unless set forth otherwise in your Order Form, all invoices are issued in United States dollars, all payment periods are on an annual basis, and each invoice is due and payable thirty (30) days from the invoice date according to the payment instructions provided on the invoice. You may add a purchase order number to an invoice, if necessary for your internal payment processing requirements. If Customer disputes any amount set forth in any invoice, you must notify Tailscale within fifteen (15) days of the invoice date or you will be deemed to have waived your right to dispute such amount. The parties agree to work in good faith to resolve any payment dispute.
 
   3.5	*Delinquent Accounts*. In the event of late payments or non-payments of undisputed amounts (collectively, “**Delinquent Accounts**”), Tailscale reserves the right to suspend Customer’s access to and use of the Tailscale Solution and/or charge interest on such past-due amounts until those amounts are paid in full, to be decided by us in our sole discretion. If, after working in good faith with the Customer, Tailscale is not successful in resolving the Delinquent Account, any interest will accrue on past due amounts at the rate of one and one half percent (1.5%) per month, but in no event greater than the highest rate of interest allowed by law, calculated from the date such amount was due until the date that payment is received by Tailscale. Customer will reimburse Tailscale for the reasonable costs of collection, including reasonable fees and expenses of attorneys. 
     
@@ -114,7 +114,7 @@ Some capitalized terms are defined in this Section 1 and others are defined cont
    
 ## 10. Disputes; Choice of Law.
   
-  To the extent permitted by applicable law, the Agreement will be governed by and interpreted in accordance with the internal laws of the jurisdictions specified in [Schedule A](#schedule-a-choice-of-law), without regard to conflicts of laws principles. In the event of any controversy or claim arising out of or relating to the Agreement, or its breach or interpretation, the parties will submit to the exclusive jurisdiction of and venue in the applicable courts or arbitration bodies specified in [Schedule A](#schedule-a-choice-of-law). Each party waives all defenses of lack of personal jurisdiction and inconvenient forum. Notwithstanding the foregoing, this choice of jurisdiction does not prevent either party from seeking injunctive relief with respect to a violation of intellectual property rights in any appropriate jurisdiction. The United Nations Convention on Contracts for the International Sale of Goods will not apply to the Agreement. **The parties hereby waive their right to jury trial with respect to all claims and issues arising under, in connection with, touching upon or relating to the Agreement.**
+  To the extent permitted by applicable law, the Agreement will be governed by and interpreted in accordance with the internal laws of the jurisdictions specified in [Schedule B](#schedule-b-choice-of-law), without regard to conflicts of laws principles. In the event of any controversy or claim arising out of or relating to the Agreement, or its breach or interpretation, the parties will submit to the exclusive jurisdiction of and venue in the applicable courts or arbitration bodies specified in [Schedule B](#schedule-b-choice-of-law). Each party waives all defenses of lack of personal jurisdiction and inconvenient forum. Notwithstanding the foregoing, this choice of jurisdiction does not prevent either party from seeking injunctive relief with respect to a violation of intellectual property rights in any appropriate jurisdiction. The United Nations Convention on Contracts for the International Sale of Goods will not apply to the Agreement. **The parties hereby waive their right to jury trial with respect to all claims and issues arising under, in connection with, touching upon or relating to the Agreement.**
     
 ## 11. Indemnification.
     
@@ -173,7 +173,14 @@ Some capitalized terms are defined in this Section 1 and others are defined cont
 
 ___
 
-# SCHEDULE A: Choice of Law
+# SCHEDULE A: Tailscale Entity
+
+|  |  |
+| --- | --- |
+| Existing customer accounts as of September 2, 2024 | Tailscale Inc., a Canadian business corporation |
+| New customer accounts, or accounts with Plan upgrades or changes, on or after September 3, 2024 | Tailscale US Inc., a Delaware corporation |
+
+# SCHEDULE B: Choice of Law
 
 | If the Customer’s address in the Order Form is in: | The governing law is that of: | The courts or arbitration bodies having exclusive jurisdiction are: |
 |:----|:----|:----|

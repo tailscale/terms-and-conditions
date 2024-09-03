@@ -188,6 +188,8 @@ In connection with these Terms, each party agrees to comply with: all relevant e
 
 ## Tailscale Entity
 
+|  |  |
+| --- | --- |
 | Existing customer accounts as of September 2, 2024 | Tailscale Inc., a Canadian business corporation |
 | New customer accounts, or accounts with Plan upgrades or changes, on or after September 3, 2024 | Tailscale US Inc., a Delaware corporation |
 

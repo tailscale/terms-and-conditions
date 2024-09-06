@@ -6,7 +6,7 @@ description: >
   This page provides information about our EU Digital Services Act (DSA) notice.
 ---
 
-Last Updated: August 28, 2024
+Last Updated: September 3, 2024
 
 The following information is provided pursuant to the EU Digital Services Act (Regulation (EU) 2022/2065) requirements for ‘mere conduit’ ‘intermediary services.’
 

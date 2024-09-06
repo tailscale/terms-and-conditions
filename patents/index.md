@@ -8,7 +8,7 @@ description: >
 
 # Tailscale Patent List
 
-Last updated: 2024-08-22
+Last updated: September 3, 2024
 
 Tailscale products and services may be covered by one or more of the following patents owned by Tailscale Inc. and/or its affiliates or licensors.
 

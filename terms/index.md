@@ -191,7 +191,7 @@ Please read these Terms carefully as they affect your legal rights. By creating 
 |  |  |
 | --- | --- |
 | Existing customer accounts as of September 2, 2024 | Tailscale Inc., a Canadian business corporation |
-| New customer accounts, or accounts with Plan upgrades or changes, on or after September 3, 2024 | Tailscale US Inc., a Delaware corporation |
+| New customer accounts on or after September 3, 2024 | Tailscale US Inc., a Delaware corporation |
 
 # Schedule B
 

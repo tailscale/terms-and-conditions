@@ -11,6 +11,7 @@ description: >
 | --- | --- | --- | --- |
 | AWS | Cloud hosting provider | Client device and node information; Configuration information | United States, European Economic Area |
 | DigitalOcean | Cloud hosting provider for DERP servers | Client device and node information; Configuration information | United States, European Economic Area |
+| Hetzner | Cloud hosting provider for DERP servers | Client device and node information; Configuration information | United States, European Economic Area |
 | Snowflake | Cloud-based data warehouse | Client device and node information; Configuration information | United States |
 | Vultr | Cloud hosting provider for DERP servers | Client device and node information; Configuration information | United States, European Economic Area |
 | NetActuate | Cloud hosting provider for DERP servers | Client device and node information; Configuration information | United States |

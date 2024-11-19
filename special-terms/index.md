@@ -14,6 +14,7 @@ Please click on the following links to navigate to the Special Terms applicable 
 
 - [Purchases through Resellers](#purchases-through-resellers)
 - [Plan Discounts](#plan-discounts)
+- [Mullvad VPN Services](#mullvad-vpn-service)
 
 ## Purchases through Resellers
 
@@ -27,28 +28,36 @@ These terms apply to any access to the Tailscale Solution purchased by customers
 
 ## Plan Discounts
 
-Effective date: 2024-03-19
+Effective date: 2024-11-29
 
-These terms apply to all customers claiming eligibility for one of our discount programs applicable to not-for-profit and educational organizations and educational institutions.
+These terms apply to all customers claiming eligibility for one of our discount programs applicable to not-for-profit organizations, educational organizations, and educational institutions.
 
-### Plan Discount Eligibility
+1.	**Plan Discount Eligibility.** Eligibility for a Plan discount is determined by Tailscale in our sole discretion. Applicants may be required to provide proof of eligibility.
 
-Our Plan discount programs have the following eligibility criteria:
 
-- **Not-for-Profit Discount:** Not-for-profit entities or organizations that are designated as a 501(c)(3) tax-exempt organization in the United States (or international equivalent).
-- **Education Discount:** Students and educators at accredited colleges, university, or other secondary schools or educational institutions, including without limitation community colleges, trade schools, professional schools, and post graduate programs. Limited to uses in an academic setting or for academic purposes that are authorized by your school (such as, for example, teaching work, or a student organization). Education technology companies are not eligible. Schools and programs for students who are under 18 years of age are not eligible.
+  1.1	**Not-for-Profit Discount:** Not-for-profit entities or organizations that are designated as  a 501(c)(3) tax-exempt organization in the United States (or international equivalent).
 
-Eligibility for a Plan discount is determined by Tailscale in our sole discretion. Applicants may be required to provide proof of eligibility.
 
-### Representations, Warranties and Covenants
+  1.2	**Education Discount:** Students and educators at accredited colleges, university, or other secondary schools or educational institutions, including without limitation community colleges, trade schools, professional schools, and post graduate programs. Limited to uses in an academic setting or for academic purposes that are authorized by your school (such as, for example, teaching work, or a student organization). Education technology companies are not eligible. Schools and programs for students who are under 18 years of age are not eligible. 
 
-In addition to the representations, warranties and covenants in the Terms or MSA (as applicable to you), you further represent, warrant and covenant that:
 
-- You meet the eligibility criteria associated with your Plan discount, and are able to provide proof if asked; and
-- You will promptly notify Tailscale of any material changes to your status that may impact your eligibility for a Plan discount.
+2.	**Representations, Warranties and Covenants.** In addition to the representations, warranties and covenants in the Terms or MSA (as applicable to you), you further represent, warrant and covenant that: (a) you meet the eligibility criteria associated with your Plan discount, and are able to provide proof if asked; and (b) you will promptly notify Tailscale of any material changes to your status that may impact your eligibility for a Plan discount. 
 
-As a reminder, for education organizations based in the United States, Tailscale does not act as a “school official” as defined under the Family Educational Rights and Privacy Act (FERPA) and similar state and federal laws, and you are solely responsible for using the Tailscale Solution only for non-FERPA covered purposes.
 
-### Miscellaneous Terms
+3.	**Disclaimer.** As a reminder, for education organizations based in the United States, Tailscale does not act as a “school official” as defined under the Family Educational Rights and Privacy Act (FERPA) and similar state and federal laws, and you are solely responsible for using the Tailscale Solution only for non-FERPA covered purposes.
 
-Limit one Plan discount per Tailscale account. Void where prohibited. Plan discounts may not be combined with any other offers, promotions or discounts. Tailscale reserves the right to modify any aspect of our Plan discounts, to increase or decrease the discount amount, to add or withdraw features or benefits, or to suspend or discontinue Plan discounts entirely (temporarily or permanently), at any time with or without notice in our sole discretion.
+
+4.	**Miscellaneous Terms.** Limit one Plan discount per Tailscale account. Void where prohibited. Plan discounts may not be combined with any other offers, promotions or discounts. Tailscale reserves the right to modify any aspect of our Plan discounts, to increase or decrease the discount amount, to add or withdraw features or benefits, or to suspend or discontinue Plan discounts entirely (temporarily or permanently), at any time with or without notice in our sole discretion. 
+
+
+## Mullvad VPN Service
+
+Last Updated: 2024-11-29
+
+These terms govern access to and use of the Mullvad back-end VPN network service as the same is further described in our Documentation (the “**Mullvad VPN Service**”). By using the Mullvad VPN Service, you agree to be bound to these terms.
+
+1.	**Third Party Services.** You acknowledge and agree that the Mullvad VPN Service is a Third Party Service under the Agreement. As such, Tailscale is not responsible or liable for the Mullvad VPN Service. If there are changes to the functionality and/or operation of the Mullvad VPN Service and you do not like those changes, you may, as your sole recourse, stop using the Mullvad VPN Service. Similarly, Tailscale is not responsible for any technical or customer support for the Mullvad VPN Service, and our SLA (if and as applicable to you) does not apply to the Mullvad VPN Service.
+
+2.	**Disclaimer. Use of the Mullvad VPN Service is at your sole risk.** The Mullvad VPN Service may not be available in all jurisdictions. Using the Mullvad VPN may not be legal in all jurisdictions, or may be heavily restricted in some jurisdictions. Using the Mullvad VPN to unblock geo-restricted websites or applications may be illegal or violate the terms of service of such websites or applications. **You are solely responsible for ensuring your use of the Mullvad VPN Service does not violate any applicable laws.**
+
+3.	**Indemnification.** For the avoidance of doubt, your indemnification obligations for a “Claim Against Tailscale” include any third party claims arising from your use of the Mullvad VPN Service.

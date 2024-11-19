@@ -35,10 +35,10 @@ These terms apply to all customers claiming eligibility for one of our discount 
 1.	**Plan Discount Eligibility.** Eligibility for a Plan discount is determined by Tailscale in our sole discretion. Applicants may be required to provide proof of eligibility.
 
 
-  1.1	**Not-for-Profit Discount:** Not-for-profit entities or organizations that are designated as  a 501(c)(3) tax-exempt organization in the United States (or international equivalent).
+    1.1	**Not-for-Profit Discount:** Not-for-profit entities or organizations that are designated as  a 501(c)(3) tax-exempt organization in the United States (or international equivalent).
 
 
-  1.2	**Education Discount:** Students and educators at accredited colleges, university, or other secondary schools or educational institutions, including without limitation community colleges, trade schools, professional schools, and post graduate programs. Limited to uses in an academic setting or for academic purposes that are authorized by your school (such as, for example, teaching work, or a student organization). Education technology companies are not eligible. Schools and programs for students who are under 18 years of age are not eligible. 
+    1.2	**Education Discount:** Students and educators at accredited colleges, university, or other secondary schools or educational institutions, including without limitation community colleges, trade schools, professional schools, and post graduate programs. Limited to uses in an academic setting or for academic purposes that are authorized by your school (such as, for example, teaching work, or a student organization). Education technology companies are not eligible. Schools and programs for students who are under 18 years of age are not eligible. 
 
 
 2.	**Representations, Warranties and Covenants.** In addition to the representations, warranties and covenants in the Terms or MSA (as applicable to you), you further represent, warrant and covenant that: (a) you meet the eligibility criteria associated with your Plan discount, and are able to provide proof if asked; and (b) you will promptly notify Tailscale of any material changes to your status that may impact your eligibility for a Plan discount. 

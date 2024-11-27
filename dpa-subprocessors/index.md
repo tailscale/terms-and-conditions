@@ -6,7 +6,7 @@ description: >
   A list of Tailscale's data subprocessors and the kinds of data they handle.
 ---
 
-**Last Updated: 2024-04-12**
+**Last Updated: 2024-10-28**
 | Subprocessor | Purpose of Processing | Data processed | Location |
 | --- | --- | --- | --- |
 | AWS | Cloud hosting provider | Client device and node information; Configuration information | United States, European Economic Area |

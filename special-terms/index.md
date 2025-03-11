@@ -15,6 +15,7 @@ Please click on the following links to navigate to the Special Terms applicable 
 - [Purchases through Resellers](#purchases-through-resellers)
 - [Plan Discounts](#plan-discounts)
 - [Mullvad VPN Services](#mullvad-vpn-service)
+- [Community Projects](#community-projects)
 
 ## Purchases through Resellers
 
@@ -61,3 +62,12 @@ These terms govern access to and use of the Mullvad back-end VPN network service
 2.	**Disclaimer. Use of the Mullvad VPN Service is at your sole risk.** The Mullvad VPN Service may not be available in all jurisdictions. Using the Mullvad VPN may not be legal in all jurisdictions, or may be heavily restricted in some jurisdictions. Using the Mullvad VPN to unblock geo-restricted websites or applications may be illegal or violate the terms of service of such websites or applications. **You are solely responsible for ensuring your use of the Mullvad VPN Service does not violate any applicable laws.**
 
 3.	**Indemnification.** For the avoidance of doubt, your indemnification obligations for a “Claim Against Tailscale” include any third party claims arising from your use of the Mullvad VPN Service.
+
+
+## Community Projects
+
+Last Updated: 2025-03-25
+
+The Tailscale Solution may contain, enable or link to Tailscale-controlled and/or third-party-controlled open source projects built on top of Tailscale networking and identity building blocks (“Community Projects”). By accessing or using any Community Projects, you acknowledge and agree to the following:
+
+**Use of Community Projects is at your sole risk. Notwithstanding anything in our Agreement to the contrary, all Community Projects are provided on an "as is" and "as available" basis, without any representations, warranties, guarantees, indemnities or support of any kind, express or implied, collateral or statutory, including any warranties of merchantability, merchantable quality, compatibility, title, security, reliability, non-infringement, accuracy, quality, completeness, quiet enjoyment, integration or fitness for a particular purpose or use. We further disclaim any and all warranties or conditions arising out of course of dealing or usage of trade.** You are solely responsible for your implementation and use of any Community Projects, including without limitation evaluating, understanding and complying with the applicable open source license(s). We do not guarantee the maintenance or availability or any Community Projects, or that Community Projects will not break. All Community Projects are open source projects with community-level maintenance and support. Tailscale is not responsible for any technical or customer support for Community Projects, and our SLA (if and as applicable to you) does not apply to Community Projects.

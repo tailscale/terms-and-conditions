@@ -40,24 +40,29 @@ NOT USE THE SERVICES.**
 [4. LEGAL BASES FOR USE OF YOUR
 INFORMATION](#legal-bases-for-use-of-your-information)
 
-[5. HOW WE DISCLOSE YOUR INFORMATION](#how-we-disclose-your-information)
+[5. SITE ANALYTICS AND ADVERTISING](#site-analytics-and-advertising)
 
-[6. RETENTION OF YOUR INFORMATION](#retention-of-your-information)
+[6. HOW WE DISCLOSE YOUR INFORMATION](#how-we-disclose-your-information)
 
-[7. YOUR RIGHTS AND YOUR CHOICES](#your-rights-and-your-choices)
+[7. RETENTION OF YOUR INFORMATION](#retention-of-your-information)
 
-[8. THIRD PARTY LINKS AND FEATURES](#third-party-links-and-features)
+[8. YOUR RIGHTS AND YOUR CHOICES](#your-rights-and-your-choices)
 
-[9. INTERNATIONAL USERS](#international-users)
+[9. THIRD PARTY LINKS AND FEATURES](#third-party-links-and-features)
 
-[10. HOW WE PROTECT YOUR INFORMATION](#how-we-protect-your-information)
+[10. LOCATION OF PROCESSING](#location-of-processing)
 
-[11. PRIVACY INFORMATION FOR CERTAIN U.S. STATE
-RESIDENTS](#california-notice)
+[11. HOW WE PROTECT YOUR INFORMATION](#how-we-protect-your-information)
 
-[12. CHANGES TO OUR PRIVACY POLICY](#changes-to-our-privacy-policy)
+[12. CALIFORNIA NOTICE](#california-notice)
 
-[13. CONTACT US](#contact-us)
+[13. CHANGES TO OUR PRIVACY POLICY](#changes-to-our-privacy-policy)
+
+[14. CHILDREN’S PRIVACY](#childrens-privacy)
+
+[15. COMPLAINTS](#complaints)
+
+[16. CONTACT US](#contact-us)
 
 ## 1. SCOPE OF THIS PRIVACY POLICY {id="scope-of-this-privacy-policy"}
 
@@ -470,7 +475,7 @@ collection, use, and disclosure of your information will be subject to
 the privacy policies of the third-party websites, and not this Privacy
 Policy. We urge you to read the privacy policies of these third parties.
 
-## 10. LOCATION OF PROCESSING {id="international-users"}
+## 10. LOCATION OF PROCESSING {id="location-of-processing"}
 
 Your information is maintained and processed by us and our third-party service providers in Canada, Germany, the United States and the United Kingdom, and may also be maintained, processed, and stored in other jurisdictions that may have different data protection laws than those in your country of residence. In the event that your information is transferred in these ways, please note that we comply with applicable legal requirements governing the transfer of information across borders. For example, for transfers from the EU/EEA, UK and Switzerland to the US, we rely on standard contractual clauses as set forth in our [Data Processing Addendum](http://tailscale.com/dpa) with Customers. By using the Services, you agree to and acknowledge these transfers.
 
@@ -528,7 +533,7 @@ be provided with appropriate notice in accordance with legal
 requirements. By continuing to use the Services, you are confirming that
 you have read and understood the latest version of this Privacy Policy.
 
-## 14. CHILDREN’S PRIVACY
+## 14. CHILDREN’S PRIVACY {id="childrens-privacy"}
 The Services are not directed to minors or children. In this context, minors are individuals under the age of 16.  We do not intentionally or knowingly collect information from minors or children or allow them to open and manage accounts. If you have any concerns about your child’s privacy, please contact us at <privacy@tailscale.com>. 
 
 ## 15. COMPLAINTS

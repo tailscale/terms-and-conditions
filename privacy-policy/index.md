@@ -8,9 +8,9 @@ description: >
 
 **Tailscale Privacy Policy**
 
-Effective Date: 2023-07-05
+Effective Date: May 30, 2025
 
-Tailscale, Inc. ("Tailscale", "we", "our" or "us") allows customers and
+Tailscale Inc. and its subsidiaries and affiliates ("Tailscale", "we", "our" or "us") allows customers and
 individuals to directly connect servers, computers, mobile devices, and
 cloud instances in a simple mesh VPN network, in which every connection
 is encrypted. 
@@ -22,7 +22,7 @@ website [www.tailscale.com](https://www.tailscale.com) and any other
 website or mobile application that links to this Privacy Policy (the
 "Site"), mesh VPN services (the "Tailscale Solution"), and any other
 interactions (e.g., customer support, events, our social media pages,
-and other communications) that you may have with us (all of these
+community engagement, and other communications) that you may have with us (all of these
 offerings collectively referred to herein as the "Services").
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY TO UNDERSTAND HOW WE HANDLE
@@ -53,7 +53,7 @@ INFORMATION](#legal-bases-for-use-of-your-information)
 [10. HOW WE PROTECT YOUR INFORMATION](#how-we-protect-your-information)
 
 [11. PRIVACY INFORMATION FOR CERTAIN U.S. STATE
-RESIDENTS](#privacy-information-for-certain-us-state-residents)
+RESIDENTS](#california-notice)
 
 [12. CHANGES TO OUR PRIVACY POLICY](#changes-to-our-privacy-policy)
 
@@ -61,18 +61,14 @@ RESIDENTS](#privacy-information-for-certain-us-state-residents)
 
 ## 1. SCOPE OF THIS PRIVACY POLICY {id="scope-of-this-privacy-policy"}
 
-Please note that this Privacy Policy applies where Tailscale is a "data
-controller" of your information. This includes when we collect
-information from and about visitors to our websites ("Site Visitors"),
-prospective users and customers ("Prospects"), as well as users of the
-Tailscale Solution ("Users"), collectively referred to herein as "you."
+Please note that this Privacy Policy applies where Tailscale is a “data controller” (under GDPR) or “business” (under California law) of your information. This includes when we collect information from and about visitors to our websites (“Site Visitors”), prospective users and customers (“Prospects”), community members who engage with Tailscale on GitHub, Reddit and other similar social media or developer sites or forums (“Community Members”), as well as users of the Tailscale Solution (“Users”), collectively referred to herein as “you.”
 
 In providing our Services, we may process certain information about
 Users on behalf of organizations that have contracted to use the
-Tailscale Solution under a Master Services Agreement or Terms of Service
+Tailscale Solution under a Main Service Agreement or Terms of Service
 ("Customers"). In such circumstances, our Customers are the data
-controllers and we are the "data processor" or "service provider,"
-depending on applicable law. This means that our Customers are
+controllers and we are the "data processor" or "service provider"
+(depending on applicable law) as set forth in our [Data Processing Addendum](http://tailscale.com/dpa) with Customers. This means that our Customers are
 responsible for processing information in accordance with their own
 privacy policies and practices, and otherwise complying with applicable
 data protection laws. When we act as a data processor, we will only
@@ -81,7 +77,7 @@ to the Customers' instructions and the applicable data processing
 agreement we have in place with our Customers, or as otherwise required
 by applicable law. In such circumstances, if you have any questions
 about the processing of your information, or would like to make any
-requests regarding your information, please contact the Customer for
+requests regarding your information, please contact your tailnet owner (the Customer) for
 assistance.
 
 ## 2. THE INFORMATION WE COLLECT {id="the-information-we-collect"}
@@ -117,8 +113,7 @@ example, we collect information from you through:
 
 -   When you sign up for our newsletters
 
--   When you use a blog or forum made available through the Services
-    (for example, if you comment on a post or submit a question)
+-   When you engage with us or other Community members on social media or community developer sites or forums
 
 The types of data we collect directly from you include:
 
@@ -128,41 +123,28 @@ The types of data we collect directly from you include:
 
 -   Postal/billing address
 
--   Telephone number
-
--   Log-in authentication information
-
 -   Your company or organization name
 
--   Your title
+-   Your node information
+
+-   Your tailnet configuration information
 
 -   Any other information you choose to directly provide to us in
     connection with your use of the Services
 
 ### INFORMATION WE COLLECT THROUGH AUTOMATED MEANS
 
-**Tailscale Solution Information.** When you use the Tailscale Solution,
-we collect limited metadata regarding your device used to access the
-Tailscale Solution, such as: the device name; relevant operating system
-type; host name; IP address; cryptographic public key; user agent (where
-applicable); language settings; date and time of access to the Tailscale
-Solution; logs describing connections and containing statistics about
-data sent to an from other devices ("Inter-Node Traffic Logs"); and
-version of Tailscale Solution installed. This information is needed to
-provide the Tailscale Solution to you. **However, please note that
-Tailscale does not process, or have the ability to access, the content
-of User traffic data transmitted through the Tailscale Solution, which
-is fully end-to-end encrypted.**
+**Tailscale Solution Information.** When you use the Tailscale Solution, we collect limited metadata regarding your device used to access the Tailscale Solution, such as: the device name; relevant operating system type; host name; IP address; cryptographic public key; user agent (where applicable); language settings; date and time of access to the Tailscale Solution; logs describing connections and containing statistics about data sent to and from other devices (“Inter-Node Traffic Logs”); and version of the Tailscale Solution installed. This information is needed to provide the Tailscale Solution to you. **However, please note that Tailscale does not process, or have the ability to access, the content of User traffic data transmitted through the Tailscale Solution, which is fully end-to-end encrypted.**
+
 
 Customers have the option, in their discretion, to use certain features
 and functionalities through the Tailscale Solution that may generate
 additional logs and other data that is sent to Tailscale for
 processesing and storage on behalf of our Customers ("Customer Log
-Data"). The Customer, and not Tailscale, has control over the contents
-of Customer Log Data processed through the Tailscale Solution using such
-additional features and functionalities. Tailscale will process Customer
-Log Data in accordance with the applicable data processing agreement
-with the Customer and this Privacy Policy.
+Data"). The Customer, and not Tailscale, is the data controller such
+ Customer Log Data. Tailscale will process Customer
+Log Data in accordance with our [Data Processing Addendum](http://tailscale.com/dpa)
+with the Customer.
 
 As you use the Services, we also collect aggregated usage statistics
 (such as the amount of data transmitted through the Tailscale Solution
@@ -176,9 +158,8 @@ discussed in the "Aggregate/De-Identified" Information section below.
 **Site Information**. When you use our Site, we automatically collect
 certain information about your device and how you use the Site,
 including your IP address, browser type, browser language, operating
-system, the state or country from which you accessed the Services,
-software and hardware attributes (including device IDs), referring and
-exit pages and URLs, platform type, the number of clicks, files you
+system,software and hardware attributes (including device IDs), referring 
+and exit pages and URLs, platform type, the number of clicks, files you
 download, domain names, landing pages, pages viewed and the order of
 those pages, the amount of time spent on particular pages, the date and
 time you used the Services, error logs, and other similar information.
@@ -191,13 +172,14 @@ behaviors and usage patterns of our Site Visitors. Cookies are small
 data files that can be stored on your browser and device so we can
 recognize you when you return. We use cookies for analytics purposes, to
 deliver certain features of the Site, to help us understand how users
-engage with the Site, and to improve your experience with the Site. You
-may set your web browser to notify you when you receive a cookie and to
-accept or refuse certain cookies. However, if you elect not to accept
+engage with the Site, to improve your experience with the Site, and for online 
+advertising purposes. You may set your web browser to notify you when you
+receive a cookie and to accept or refuse certain cookies. However, if you elect not to accept
 cookies, some functionality and areas of the Site may be restricted. To
 learn how to manage your cookies, please follow the instructions from
 your specific browser, or if accessing the Site via a mobile device,
-refer to the manufacturer's instructions.
+refer to the manufacturer's instructions. For more information, please see our Cookie Notice.
+
 
 ### INFORMATION WE COLLECT FROM OTHERS
 
@@ -221,7 +203,7 @@ of the operation of the third party's website, plug-in or application.
 The third-party's privacy policy, and not ours, will govern the
 information disclosed to us through the use of these log-in methods.
 
-When you "like" or "follow" us on Facebook, LinkedIn, Twitter or other
+When you "like", "follow" or engage with us on GitHub, Reddit, LinkedIn, X or other
 social media sites, we may collect some information from you including
 your name, username, email address, and any comments or content you post
 relevant to us.
@@ -231,41 +213,29 @@ relevant to us.
 We use your information for various purposes depending on the types of
 information we have collected from and about you, to:
 
--   **Provide the Tailscale service:** Provide you with access to and to
-    administer our Services
+-   **Provide our Services**: Provide you with access to and use of the Services, and to administer our Services and your account with us
 
 -   **Provide customer support:** Respond to your requests for
     information and provide you with more effective and efficient
     customer support
 
--   **Send marketing communications:** Contact you by email, postal
-    mail, or phone with news, updates, information, promotions, surveys
-    or contests relating to the Services or other services that may be
-    of interest to you, in accordance with applicable legal requirements
-    related to such communications
+-   **Marketing, outreach and online advertising:** Contact you by email, postal mail, or phone with news, updates, information, promotions, surveys or contests relating to the Services or other services that may be of interest to you, and customize the content you see on our Site, in accordance with applicable legal requirements
 
--   Customize the content you see on our Site
+-   **Community management**: Manage our various social media or developer sites or forums  and communicate and engage with Community Members
 
--   **Conduct customer research:** Engage in analysis and research
+
+-   **Analytics and product development:** Engage in analysis and research
     regarding use of the Services, and improve our Services
 
--   Secure our Services and resolve technical issues being reported
+-   **Security and performance**: Secure our Services and resolve technical issues being reported
 
--   **Meet legal requirements:** Comply with any procedures, laws, and
+-   **Legal and compliance:** Comply with any procedures, laws, and
     regulations which apply to us where it is necessary for our
-    legitimate interests or the legitimate interests of others
-
--   Establish, exercise, or defend our legal rights where it is
-    necessary for our legitimate interests or the legitimate interests
+    legitimate interests or the legitimate interests of others; Establish, exercise, or defend our legal rights where it is necessary for our legitimate interests or the legitimate interests
     of others
 
-**Aggregate/De-Identified Information**. We may aggregate and/or
-de-identify any information collected through our Services so that such
-information can no longer be linked to you or your device
-("Aggregate/De-Identified Information"). We may use such information for
-any purpose, including without limitation for research, and may also
-disclose such data with any third parties, including our third-party
-partners.
+**Aggregate/De-Identified Information**. We may aggregate and/or de-identify any information collected through our Services so that such information can no longer be linked to you or your device (“Aggregate/De-Identified Information”). We may use such information for any purpose, including without limitation developing and publishing information statistics, insights, industry trend reporting or thought leadership related to the Tailscale Solution, and may also disclose such data with any third parties, including our third-party partners.
+
 
 ## 4. LEGAL BASES FOR USE OF YOUR INFORMATION {id="legal-bases-for-use-of-your-information"}
 
@@ -273,32 +243,23 @@ The legal bases for using your information as set out in this Privacy
 Policy are as follows:
 
 -   Where we need to perform the contract we are about to enter into or
-    have entered into with you for the Services
+    have entered into with you for the Services (e.g., the Tailscale Terms of Service)
 
 -   Where it is necessary for our legitimate interests (or those of a
     third party) and your interests and fundamental rights do not
-    override those interests
+    override those interests (e.g., using information to secure our services, engage in analytics and product development, and for other internal business operations)
 
--   Where we need to comply with a legal or regulatory obligation
+-   Where we need to comply with a legal or regulatory obligation (e.g., where compelled by legal process to disclose information, or where we need to process information for tax and accounting purposes)
+
 
 -   Where we have your consent to process your information in a certain
-    way
+    way (e.g., when you attend a webinar and agree to receive news, emails or promotions from us)
 
-### SITE ANALYTICS AND ADVERTISING
+## 5. SITE ANALYTICS AND ADVERTISING
 
-**ANALYTICS.** We may use third-party web analytics services (such as
-those of Segment Analytics) on our Site to collect and analyze usage
-information through cookies and similar tools; engage in auditing,
-research, or reporting; assist with fraud prevention; and provide
-certain features to you. To prevent Segment Analytics from using your
-information for analytics, you may use the Segment consent management
-tool by emailing us using the Contact Us information below. If you
-receive email from us, we may use certain analytics tools, such as clear
-GIFs to capture data such as when you open our message or click on any
-links or banners our email contains. This data allows us to gauge the
-effectiveness of our communications and marketing campaigns.
+**ANALYTICS** We may use third-party web analytics service providers on our Site to: collect and analyze usage information through cookies and similar tools; engage in auditing, research, or reporting; assist with fraud prevention; and provide certain features to you. To prevent analytics service providers from using your information for analytics, please see our Cookie Notice for more information about managing cookies. If you receive email from us, we may use certain analytics tools, such as clear GIFs to capture data such as when you open our message or click on any links or banners our email contains. This data allows us to gauge the effectiveness of our communications and marketing campaigns.
 
-**ONLINE ADVERTISING.** In using the Site, we allow select third party
+**ONLINE ADVERTISING** In using the Site, we allow select third party
 advertising technology partners to place cookies or other tracking
 technologies on the browser of your device to collect information about
 you as discussed above. These third parties (e.g., ad networks and ad
@@ -325,23 +286,21 @@ availability or accuracy of these mechanisms. Please note that if you
 use these mechanisms, you may still see advertising on the Internet, but
 it will not be tailored to you based on your online behavior over time.
 
-Do Not Track ("DNT") is a privacy preference that users can set in
+**DO NOT TRACK** Do Not Track ("DNT") is a privacy preference that users can set in
 certain web browsers. We are committed to providing you with meaningful
 choices about the information collected on our Services for third party
 purposes, and that is why we provide the variety of opt-out mechanisms
 listed above. However, we do not currently recognize or respond to
 browser-initiated DNT signals.
 
-## 5. HOW WE DISCLOSE YOUR INFORMATION {id="how-we-disclose-your-information"}
+Please note that Do Not Track is a different privacy mechanism than the user “preference signal” referenced in the “Your Rights and Your Choices” section below, which is a browser-based control that indicates whether you would like to opt out of processing of your information for certain purposes (such as the “sale” of your information or the disclosure of your information for targeted advertising purposes) under applicable law.
+
+
+## 6. HOW WE DISCLOSE YOUR INFORMATION {id="how-we-disclose-your-information"}
 
 We will disclose your information in the following ways:
 
--   **Service Providers.** We provide access to or disclose your
-    information to select third parties who help us deliver our Services
-    or perform services on our behalf, including billing and credit card
-    verification, advertising and marketing, content and features,
-    analytics, research, customer support, data storage, security, web
-    hosting, fraud prevention, and legal services.
+-   **Service Providers.** We provide access to or disclose your information to select third parties who help us deliver our Services or perform services on our behalf, including billing and credit card verification, advertising and marketing (including third-party data lead generation or data enhancement providers that enhance our marketing and sales activities), content and features, analytics, research, customer support, data storage, security, web hosting, fraud prevention, and legal services.
 
 -   **Affiliates and Subsidiaries.** We may disclose the information
     we collect within the Tailscale family of companies.
@@ -403,7 +362,7 @@ We will disclose your information in the following ways:
     Assistance Treaty (MLAT) request or letter rogatory may be required
     to compel the disclosure of User data.
 
-    - **User Notification.** Tailscale’s policy is to notify Users of law
+    - **Notification.** Tailscale’s policy is to notify Customers of law
     enforcement requests for their information, which includes a copy of
     the request, prior to disclosure, so that they may have an opportunity
     to challenge such request unless: (a) we are prohibited from doing so
@@ -432,34 +391,30 @@ We will disclose your information in the following ways:
     information about you with third parties whenever you consent to or
     direct such disclosure.
 
-## 6. RETENTION OF YOUR INFORMATION {id="retention-of-your-information"}
+## 7. RETENTION OF YOUR INFORMATION {id="retention-of-your-information"}
 
 We keep your information for no longer than necessary for the purposes
 for which it is processed. The length of time for which we retain
 information depends on the purposes for which we collected and use it
 and/or as required to comply with applicable laws.
 
-## 7. YOUR RIGHTS AND YOUR CHOICES {id="your-rights-and-your-choices"}
+## 8. YOUR RIGHTS AND YOUR CHOICES {id="your-rights-and-your-choices"}
 
 You have certain rights with respect to your information as further
 described in this section.
 
 ### YOUR LEGAL RIGHTS
 
-If you would like further information in relation to your legal rights
-under applicable law or would like to exercise any of them, please
-contact us using the information in the "Contact Us" section below at
-any time. Your local laws (e.g., if you are a citizen or resident of the
-European Economic Area or California) may permit you to request that we:
+If you would like further information in relation to your legal rights under applicable law or would like to exercise any of them, please contact us using the information in the “Contact Us” section below at any time. Your local laws (e.g., if you are a citizen or resident of the European Economic Area or a U.S. state that has a data privacy law offering consumer rights such as California, Colorado, Connecticut, Delaware, Oregon, Texas, Virginia, etc.) may permit you to request that we:
 
 -   provide access to and/or a copy of certain information we hold about
-    you
+    you (which, if you are in Minnesota or Oregon, includes your right to request the specific third parties to which we have disclosed your information)
 
 -   update information which is out of date or incorrect
 
 -   delete certain information that we are holding about you
 
--   restrict the way that we process and disclose certain of your
+-   restrict the way that we process and disclose your
     information
 
 -   revoke your consent for the processing of your information
@@ -476,6 +431,8 @@ comply with a legal obligation. We may request you provide us with
 information necessary to confirm your identity before responding to your
 request. To submit a request, please contact us using the information in
 the "Contact Us" section below.
+
+If you are located in a U.S. state that has appeals rights and you are not satisfied with our response to your request (Virginia, Minnesota, Montana, Oregon, Tennessee, Texas, Colorado, or Connecticut), you can contact us using the information in the “Contact Us” section below.  Your description must include your full name, along with the copy of the denial you received from us.
 
 As explained at the beginning of this Privacy Policy, if you are using
 the Tailscale Solution as a user of a Customer account, and you would
@@ -497,7 +454,14 @@ applicable law. For example, you may not opt out of certain
 transactional emails from us, such as those confirming your requests or
 providing you with updates regarding our legal terms.
 
-## 8. THIRD PARTY LINKS AND FEATURES {id="third-party-links-and-features"}
+### YOUR PRIVACY CHOICES
+
+As explained above in the “How We Disclose Your Information” section, the disclosure of your information to certain advertising, analytics and enhancement service providers under applicable law may be considered a “sale” of personal information or the “processing”/“sharing” of personal information for online targeted advertising purposes.
+To opt out of any such disclosures made through the use of cookies/pixels, please click on the 'Your Privacy Choices' link on the footer of Site for the particular Services you use. To opt out of any such disclosures made through other means, please email us at <privacy@tailscale.com>.
+Please note that if you have a legally-recognized browser-based opt out preference signal turned on via your device browser (such as a global privacy control) we recognize such preference in accordance with applicable law.
+
+
+## 9. THIRD PARTY LINKS AND FEATURES {id="third-party-links-and-features"}
 
 The Services may contain links to third-party websites and features. If
 you choose to visit these sites and use their services, please note that
@@ -506,18 +470,11 @@ collection, use, and disclosure of your information will be subject to
 the privacy policies of the third-party websites, and not this Privacy
 Policy. We urge you to read the privacy policies of these third parties.
 
-## 9. INTERNATIONAL USERS {id="international-users"}
+## 10. LOCATION OF PROCESSING {id="international-users"}
 
-Your information is maintained and processed by us and our third-party
-service providers in Canada, Germany, and the United States, and may
-also be maintained, processed, and stored in other jurisdictions that
-may have different data protection laws than those in your country of
-residence. In the event that your information is transferred in these
-ways, please note that we comply with applicable legal requirements
-governing the transfer of information across borders. By using the
-Services, you agree to and acknowledge these transfers.
+Your information is maintained and processed by us and our third-party service providers in Canada, Germany, the United States and the United Kingdom, and may also be maintained, processed, and stored in other jurisdictions that may have different data protection laws than those in your country of residence. In the event that your information is transferred in these ways, please note that we comply with applicable legal requirements governing the transfer of information across borders. For example, for transfers from the EU/EEA, UK and Switzerland to the US, we rely on standard contractual clauses as set forth in our [Data Processing Addendum](http://tailscale.com/dpa) with Customers. By using the Services, you agree to and acknowledge these transfers.
 
-## 10. HOW WE PROTECT YOUR INFORMATION {id="how-we-protect-your-information"}
+## 11. HOW WE PROTECT YOUR INFORMATION {id="how-we-protect-your-information"}
 
 Tailscale takes a variety of technical and organizational security
 measures to protect the information provided to us from loss, misuse,
@@ -531,20 +488,25 @@ If you become aware of or suspect any unauthorized use of your Tailscale
 account, please contact us immediately using the information in the
 "Contact Us" section below.
 
-## 11. PRIVACY INFORMATION FOR CERTAIN U.S. STATE RESIDENTS {id="privacy-information-for-certain-us-state-residents"}
+## 12. CALIFORNIA NOTICE {id="california-notice"}
 
-**Do Not Sell Rights.** Please note that certain U.S. state laws set
-forth obligations for businesses that "sell" personal information to
-third parties, as such term is defined under those laws. We do not
-engage in such activity.
+If you are a California resident, California law requires us to provide you with specific information regarding how we collect, use, and disclose your “personal information” (as defined in the California Consumer Privacy Act (“CCPA”)).
 
-**California Notice.** If you are a California resident, California law
-requires us to provide you with specific information regarding how we
-collect, use, and disclose your "personal information" (as defined in
-the California Consumer Privacy Act ("CCPA")). Throughout this Privacy
-Policy, we discuss in detail the specific pieces of personal information
-we collect from and about you. Please see the "Information we Collect"
-and "How We Use Your Information" sections above for more information.
+### NOTICE AT COLLECTION
+
+The CCPA requires us to provide you with certain information about:
+1. The categories of “personal information” (as defined in the CCPA) that we collect;
+2. The purposes for which we use each category of personal information;
+3. The categories of third parties to which we disclose such personal information for a business purpose; and
+4. The categories of third parties to which we disclose such personal information in a way that may constitute “sharing” of information for “cross-context behavioral advertising” and/or “selling” of information (each as defined under CCPA).
+
+Under the CCPA, “sharing” is defined as the targeting of advertising to a consumer based on that consumer’s personal information obtained from the consumer’s activity across websites, and “selling” is defined as the disclosure of personal information to third parties in exchange for monetary or other valuable consideration. Our use of certain third-party providers, which are described more fully in the “Site Analytics and Advertising” section above, may result in the disclosure of online identifiers (ex: cookie data, IP addresses, device identifiers, and usage information) in a way that may be considered a “sale” or "sharing" under the CCPA.
+
+A chart with the information required by CCPA is available [here](https://info.tailscale.com/hubfs/CCPA-Notice-at-Collection-Disclosure.pdf).
+
+In addition, throughout this Privacy Policy, we discuss in detail the specific pieces of personal information we collect from and about you, information about your rights and our retention policies. Please see “The Information we Collect”, “How We Use Your Information,” “Site Analytics and Advertising,” “How We Disclose Your Information,” “Retention of Your Information” and “Your Rights and Your Choices” above for more information.
+
+### SHINE THE LIGHT
 
 The California "Shine the Light" law gives residents of California the
 right under certain circumstances to request information from us
@@ -553,7 +515,7 @@ information (as defined in the Shine the Light law) with third parties
 for their direct marketing purposes. We do not disclose your personal
 information with third parties for their own direct marketing purposes.
 
-## 12. CHANGES TO OUR PRIVACY POLICY {id="changes-to-our-privacy-policy"}
+## 13. CHANGES TO OUR PRIVACY POLICY {id="changes-to-our-privacy-policy"}
 
 We reserve the right to amend this Privacy Policy at any time to reflect
 changes in the law, our data collection and use practices, or advances
@@ -566,18 +528,27 @@ be provided with appropriate notice in accordance with legal
 requirements. By continuing to use the Services, you are confirming that
 you have read and understood the latest version of this Privacy Policy.
 
-## 13. CONTACT US {id="contact-us"}
+## 14. CHILDREN’S PRIVACY
+The Services are not directed to minors or children. In this context, minors are individuals under the age of 16.  We do not intentionally or knowingly collect information from minors or children or allow them to open and manage accounts. If you have any concerns about your child’s privacy, please contact us at <privacy@tailscale.com>. 
+
+## 15. COMPLAINTS
+
+If you have any concerns or complaints about our data processing activities, we urge you to first try to resolve such issues directly with us. We are committed to resolving complaints about your privacy and our collection, use, transfer or disclosure of your information. Any inquiries or complaints regarding this Privacy Policy or our data processing activities should be directed to <privacy@tailscale.com>. 
+
+You may also make a complaint to the data protection supervisory authority in the country where you are based, or seek a remedy through local courts if you believe your rights have been breached.
+
+Tailscale has appointed DataRep as its Data Protection Representative for the purposes of GDPR in the EU/EEA and The Data Protection Act 2018 / UK GDPR (as amended) in the UK. DataRep has locations in each of the 27 EU countries, the UK, and Norway and Iceland in the European Economic Area (EEA), so that our Users can always raise the questions they want with them. If you want to raise a question to Tailscale or otherwise exercise your rights in respect of your personal data, you may do so by:
+
+- sending an email to DataRep at <tailscale@datarep.com>;
+- contacting DataRep on the online webform at [www.datarep.com/data-request](https://www.datarep.com/data-request); or
+- Mailing your inquiry to DataRep at the most convenient of the addresses available here.
+
+Please note that when mailing inquiries, it is essential that you mark your letters for ‘DataRep’ and not Tailscale, or your inquiry may not reach its intended destination. Please refer clearly to Tailscale in your correspondence with DataRep. On receiving your correspondence, they are likely to request evidence of your identity, to ensure your personal data and information connected with it is not provided to anyone other than you.
+
+If you have any concerns over how DataRep will handle the personal data they will require to undertake their services, please refer to their privacy notice at [www.datarep.com/privacy-policy](https://www.datarep.com/privacy-policy).
+
+## 16. CONTACT US {id="contact-us"}
 
 Tailscale welcomes your comments and questions regarding this Privacy
 Policy and the collection and use of your information. If you have
-questions or concerns, please email us at <privacy@tailscale.com> or:
-
-By phone: +1 (415) 886-9844
-
-By mail:
-
-Tailscale Data Privacy Officer  
-125-720 King St. West  
-Suite 585  
-Toronto, ON M5V 3S5  
-Canada
+questions or concerns, please email us at <privacy@tailscale.com>.

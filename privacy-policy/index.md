@@ -18,7 +18,7 @@ is encrypted. 
 Tailscale is committed to transparency in our processing of
 information. This Privacy Policy describes how we collect, use, disclose
 and protect information from and about you through our
-website [www.tailscale.com](https://www.tailscale.com) and any other
+websites [www.tailscale.com](https://www.tailscale.com), [login.tailscale.com](https://login.tailscale.com) and any other
 website or mobile application that links to this Privacy Policy (the
 "Site"), mesh VPN services (the "Tailscale Solution"), and any other
 interactions (e.g., customer support, events, our social media pages,
@@ -183,7 +183,7 @@ receive a cookie and to accept or refuse certain cookies. However, if you elect 
 cookies, some functionality and areas of the Site may be restricted. To
 learn how to manage your cookies, please follow the instructions from
 your specific browser, or if accessing the Site via a mobile device,
-refer to the manufacturer's instructions. For more information, please see our Cookie Notice.
+refer to the manufacturer's instructions. For more information, please see our [Cookie Notice](https://tailscale.com/cookies).
 
 
 ### INFORMATION WE COLLECT FROM OTHERS
@@ -262,7 +262,7 @@ Policy are as follows:
 
 ## 5. SITE ANALYTICS AND ADVERTISING
 
-**ANALYTICS** We may use third-party web analytics service providers on our Site to: collect and analyze usage information through cookies and similar tools; engage in auditing, research, or reporting; assist with fraud prevention; and provide certain features to you. To prevent analytics service providers from using your information for analytics, please see our Cookie Notice for more information about managing cookies. If you receive email from us, we may use certain analytics tools, such as clear GIFs to capture data such as when you open our message or click on any links or banners our email contains. This data allows us to gauge the effectiveness of our communications and marketing campaigns.
+**ANALYTICS** We may use third-party web analytics service providers on our Site to: collect and analyze usage information through cookies and similar tools; engage in auditing, research, or reporting; assist with fraud prevention; and provide certain features to you. To prevent analytics service providers from using your information for analytics, please see our [Cookie Notice](https://tailscale.com/cookies) for more information about managing cookies. If you receive email from us, we may use certain analytics tools, such as clear GIFs to capture data such as when you open our message or click on any links or banners our email contains. This data allows us to gauge the effectiveness of our communications and marketing campaigns.
 
 **ONLINE ADVERTISING** In using the Site, we allow select third party
 advertising technology partners to place cookies or other tracking
@@ -546,7 +546,7 @@ Tailscale has appointed DataRep as its Data Protection Representative for the pu
 
 - sending an email to DataRep at <tailscale@datarep.com>;
 - contacting DataRep on the online webform at [www.datarep.com/data-request](https://www.datarep.com/data-request); or
-- Mailing your inquiry to DataRep at the most convenient of the addresses available here.
+- Mailing your inquiry to DataRep at the most convenient of the addresses available [here](https://info.tailscale.com/hubfs/DataRep-Contact-locations.pdf).
 
 Please note that when mailing inquiries, it is essential that you mark your letters for ‘DataRep’ and not Tailscale, or your inquiry may not reach its intended destination. Please refer clearly to Tailscale in your correspondence with DataRep. On receiving your correspondence, they are likely to request evidence of your identity, to ensure your personal data and information connected with it is not provided to anyone other than you.
 

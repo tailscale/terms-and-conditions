@@ -30,9 +30,9 @@ Please note that opting out of Targeting Cookies does not necessarily mean that 
 For more information about the cookies used in connection with the Site, please click on the Cookies Preference Center button below. While we do our best to keep this information updated, please note that the number and names of cookies and other technologies may change from time to time.
 
 4. How to manage your cookie settings
-We may allow you to opt in or opt out of certain types of cookies by following the instructions on the cookie banner when you first visit our Site. You can also click on the Cookies Preference Center button below (and the “Your Privacy Choices” link on our Site footer) to adjust your cookie settings on tailscale.com at any time. 
+  We may allow you to opt in or opt out of certain types of cookies by following the instructions on the cookie banner when you first visit our Site. You can also click on the Cookies Preference Center button below (and the “Your Privacy Choices” link on our Site footer) to adjust your cookie settings on tailscale.com at any time. 
 
-[Cookies Preference Center](https://tailscale.com/?consent=open)
+  [Cookies Preference Center](https://tailscale.com/?consent=open)
 
-In addition, most browsers have options for blocking, disabling, or turning off some or all cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. To explore what cookie settings are available to you, please consult the documentation provided by your browser application (e.g., Chrome, Safari, Firefox), or look in the "preferences" or "options" section of your browser’s menu.
-Please note that if you disable certain cookies, some parts of the Site may not be available or work properly.
+  In addition, most browsers have options for blocking, disabling, or turning off some or all cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. To explore what cookie settings are available to you, please consult the documentation provided by your browser application (e.g., Chrome, Safari, Firefox), or look in the "preferences" or "options" section of your browser’s menu.
+  Please note that if you disable certain cookies, some parts of the Site may not be available or work properly.

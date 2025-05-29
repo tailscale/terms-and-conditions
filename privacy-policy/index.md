@@ -18,7 +18,7 @@ is encrypted. 
 Tailscale is committed to transparency in our processing of
 information. This Privacy Policy describes how we collect, use, disclose
 and protect information from and about you through our
-websites [www.tailscale.com](https://www.tailscale.com), [login.tailscale.com](https://login.tailscale.com) and any other
+websites [tailscale.com](https://www.tailscale.com), [login.tailscale.com](https://login.tailscale.com) and any other
 website or mobile application that links to this Privacy Policy (the
 "Site"), mesh VPN services (the "Tailscale Solution"), and any other
 interactions (e.g., customer support, events, our social media pages,
@@ -118,7 +118,7 @@ example, we collect information from you through:
 
 -   When you sign up for our newsletters
 
--   When you engage with us or other Community members on social media or community developer sites or forums
+-   When you engage with us or other Community Members on social media or community developer sites or forums
 
 The types of data we collect directly from you include:
 
@@ -145,8 +145,8 @@ The types of data we collect directly from you include:
 Customers have the option, in their discretion, to use certain features
 and functionalities through the Tailscale Solution that may generate
 additional logs and other data that is sent to Tailscale for
-processesing and storage on behalf of our Customers ("Customer Log
-Data"). The Customer, and not Tailscale, is the data controller such
+processing and storage on behalf of our Customers ("Customer Log
+Data"). The Customer, and not Tailscale, is the data controller over such
  Customer Log Data. Tailscale will process Customer
 Log Data in accordance with our [Data Processing Addendum](http://tailscale.com/dpa)
 with the Customer.
@@ -163,7 +163,7 @@ discussed in the "Aggregate/De-Identified" Information section below.
 **Site Information**. When you use our Site, we automatically collect
 certain information about your device and how you use the Site,
 including your IP address, browser type, browser language, operating
-system,software and hardware attributes (including device IDs), referring 
+system, software and hardware attributes (including device IDs), referring 
 and exit pages and URLs, platform type, the number of clicks, files you
 download, domain names, landing pages, pages viewed and the order of
 those pages, the amount of time spent on particular pages, the date and
@@ -239,7 +239,7 @@ information we have collected from and about you, to:
     legitimate interests or the legitimate interests of others; Establish, exercise, or defend our legal rights where it is necessary for our legitimate interests or the legitimate interests
     of others
 
-**Aggregate/De-Identified Information**. We may aggregate and/or de-identify any information collected through our Services so that such information can no longer be linked to you or your device (“Aggregate/De-Identified Information”). We may use such information for any purpose, including without limitation developing and publishing information statistics, insights, industry trend reporting or thought leadership related to the Tailscale Solution, and may also disclose such data with any third parties, including our third-party partners.
+**Aggregate/De-Identified Information**. We may aggregate and/or de-identify any information collected through our Services so that such information can no longer be linked to you or your device (“Aggregate/De-Identified Information”). We may use such information for any purpose, including without limitation developing and publishing information statistics, insights, industry trend reporting or thought leadership related to the Services, and may also disclose such data with any third parties, including our third-party partners.
 
 
 ## 4. LEGAL BASES FOR USE OF YOUR INFORMATION {id="legal-bases-for-use-of-your-information"}

@@ -8,7 +8,7 @@ description: >
 
 Effective Date: May 30, 2025
 
-This Cookie Notice provides information about how and when Tailscale uses cookies in connection with our Site and Services. Any capitalized terms that are not defined in this policy have the meanings assigned to such terms in our Privacy Policy, which also includes additional details about the collection and processing of personal information by Tailscale.
+This Cookie Notice provides information about how and when Tailscale uses cookies in connection with our Site and Services. Any capitalized terms that are not defined in this policy have the meanings assigned to such terms in our [Privacy Policy](http://tailscale.com/privacy-policy), which also includes additional details about the collection and processing of personal information by Tailscale.
 
 1. **What is a cookie?**
 
@@ -24,9 +24,9 @@ This Cookie Notice provides information about how and when Tailscale uses cookie
     **Analytics Cookies**
     Analytics Cookies (a/k/a "statistics cookies" or "performance cookies") collect information about use of our Site and Services, so we can measure and improve their performance and the experience of customers and users. For example, Analytics Cookies show us which are the most frequently visited pages, allow us to see overall patterns of usage, help us record any difficulties users may have with the Site or Services, and allow us to test certain features or pages. 
 
-    **Targeting Cookies**
-    Targeting Cookies (a/k/a "marketing cookies" or "advertising cookies,") remember what you have looked at on our Site and disclose this information with other organizations, such as advertising partners, to help them build a profile of your interests and show you advertisements that are more relevant and engaging for you as you browse the Internet. If you do not allow Targeting Cookies, you will experience less targeted advertising as you surf the Internet.
-    Please note that opting out of Targeting Cookies does not necessarily mean that you will not see Tailscale advertising on third-party services, only that this advertising will not be targeted to you through the use of Targeting Cookies.
+    **Targeted Advertising Cookies**
+    Targeted Advertising Cookies (a/k/a "marketing cookies" or "advertising cookies,") remember what you have looked at on our Site and disclose this information with other organizations, such as advertising partners, to help them build a profile of your interests and show you advertisements that are more relevant and engaging for you as you browse the Internet. If you do not allow Targeted Advertising Cookies, you will experience less targeted advertising as you surf the Internet.
+    Please note that opting out of Targeted Advertising Cookies does not necessarily mean that you will not see Tailscale advertising on third-party services, only that this advertising will not be targeted to you through the use of Targeted Advertising Cookies.
 
 3. **Cookie information**
 

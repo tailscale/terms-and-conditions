@@ -183,7 +183,7 @@ receive a cookie and to accept or refuse certain cookies. However, if you elect 
 cookies, some functionality and areas of the Site may be restricted. To
 learn how to manage your cookies, please follow the instructions from
 your specific browser, or if accessing the Site via a mobile device,
-refer to the manufacturer's instructions. For more information, please see our [Cookie Notice](https://tailscale.com/cookies).
+refer to the manufacturer's instructions. For more information, please see our [Cookie Notice](https://tailscale.com/cookie-notice).
 
 
 ### INFORMATION WE COLLECT FROM OTHERS
@@ -262,7 +262,7 @@ Policy are as follows:
 
 ## 5. SITE ANALYTICS AND ADVERTISING
 
-**ANALYTICS** We may use third-party web analytics service providers on our Site to: collect and analyze usage information through cookies and similar tools; engage in auditing, research, or reporting; assist with fraud prevention; and provide certain features to you. To prevent analytics service providers from using your information for analytics, please see our [Cookie Notice](https://tailscale.com/cookies) for more information about managing cookies. If you receive email from us, we may use certain analytics tools, such as clear GIFs to capture data such as when you open our message or click on any links or banners our email contains. This data allows us to gauge the effectiveness of our communications and marketing campaigns.
+**ANALYTICS** We may use third-party web analytics service providers on our Site to: collect and analyze usage information through cookies and similar tools; engage in auditing, research, or reporting; assist with fraud prevention; and provide certain features to you. To prevent analytics service providers from using your information for analytics, please see our [Cookie Notice](https://tailscale.com/cookie-notice) for more information about managing cookies. If you receive email from us, we may use certain analytics tools, such as clear GIFs to capture data such as when you open our message or click on any links or banners our email contains. This data allows us to gauge the effectiveness of our communications and marketing campaigns.
 
 **ONLINE ADVERTISING** In using the Site, we allow select third party
 advertising technology partners to place cookies or other tracking

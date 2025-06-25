@@ -6,26 +6,15 @@ description: >
   The following are supplemental terms and addenda to the Tailscale Terms of Service and Main Service Agreement and form an integral part of the Agreement between you and Tailscale, but only if and to the extent applicable to your particular purchase, access or use of the Tailscale Solution (collectively the “Special Terms”).
 ---
 
-The following are supplemental terms and addenda to the Tailscale Terms of Service and Main Service Agreement and form an integral part of the Agreement between you and Tailscale, but only if and to the extent applicable to your particular purchase, access or use of the Tailscale Solution (collectively the “**Special Terms**”).
+The following are supplemental terms and addenda to the Tailscale Terms of Service and Main Service Agreement and form an integral part of the Agreement between you and Tailscale, but only if and to the extent applicable to your particular purchase, access or use of the Services (collectively the “**Special Terms**”).
 
 Some capitalized terms are defined contextually in the Special Terms. Any capitalized terms that are not defined in the Special Terms have the meanings assigned to such terms elsewhere in the Agreement.
 
 Please click on the following links to navigate to the Special Terms applicable to you.
 
-- [Purchases through Resellers](#purchases-through-resellers)
 - [Plan Discounts](#plan-discounts)
 - [Mullvad VPN Services](#mullvad-vpn-service)
 - [Community Projects](#community-projects)
-
-## Purchases through Resellers
-
-Effective date: 2024-03-19
-
-These terms apply to any access to the Tailscale Solution purchased by customers through an authorized reseller of the Tailscale Solution, a public or private offer on the AWS Marketplace, or similar (each a “**Reseller**”).
-
-1. **Commercial Terms.** Instead of paying Tailscale directly, Customer will pay applicable amounts to Reseller as agreed between Customer and Reseller. Customer’s order details (such as the services purchased and associated fees) will be as stated in a quote, purchase order or similar document placed by Reseller with Tailscale on Customer’s behalf. Tailscale may suspend or terminate Customer’s rights to use the Tailscale Solution if it does not receive the corresponding payment from Reseller. If Customer is entitled to a refund under the Agreement, Tailscale will refund any applicable fees to Reseller and Reseller will be solely responsible for refunding the appropriate amounts to Customer, unless otherwise specified.
-
-2. **Relationship with Tailscale.** The Agreement is directly between Tailscale and Customer and governs all use of the Tailscale Solution by Customer. Resellers are not authorized to modify the Agreement or make any promises or commitments on Tailscale’s behalf, and Tailscale is not bound by any obligations to Customer other than as set forth in the Agreement. Tailscale is not party to (or responsible under) any separate agreement between Customer and Reseller and is not responsible for the Reseller’s acts, omissions, products or services. The amount paid or payable by the Reseller to Tailscale for Customer’s use of the Tailscale Solution will be deemed the amount paid or payable by Customer to Tailscale under the Agreement for purposes of limitations of liability.
 
 ## Plan Discounts
 

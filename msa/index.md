@@ -10,7 +10,7 @@ description: >
 
 Last Updated: June 30, 2025
 
-This Main Service Agreement (“**MSA**”) between the Tailscale entity identified in [Schedule A](#schedule-a-tailscale-entity) (“**Tailscale**,” “**we**,” “**our**” or “**us**”) and the customer identified in the relevant Order Form (defined below) (“Customer,” “you” or “your”) permits such Customer to purchase the Services (defined below) pursuant to Order Forms referencing this MSA. This MSA together with all Order Forms, addenda or other terms applicable to you are collectively the **“Agreement”**. This MSA shall govern your purchases of our Services from the effective date unless otherwise agreed in the Order Form. Each of Tailscale and Customer may also be referred to in the Agreement as a **“party”** or collectively as the **“parties.”**
+This Main Service Agreement (“**MSA**”) between the Tailscale entity identified in [Schedule A](#schedule-a-tailscale-entity) (“**Tailscale**,” “**we**,” “**our**” or “**us**”) and the customer identified in the relevant Order Form (defined below) (**“Customer,”** **“you”** or **“your”**) permits such Customer to purchase the Services (defined below) pursuant to Order Forms referencing this MSA. This MSA together with all Order Forms, addenda or other terms applicable to you are collectively the **“Agreement”**. This MSA shall govern your purchases of our Services from the effective date unless otherwise agreed in the Order Form. Each of Tailscale and Customer may also be referred to in the Agreement as a **“party”** or collectively as the **“parties.”**
 
 ## 1. Definitions.
 

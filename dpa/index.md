@@ -25,7 +25,7 @@ This Data Processing Addendum (“**DPA**”) is entered into by and between Tai
     
     1.6 “**Subprocessing**” means any sub-contracted Processing that relates directly to the provision of the Services. This does not include ancillary services, such as telecommunication services, postal or transport services, maintenance and user support services or the disposal of data carriers, as well as other measures to ensure the confidentiality, availability, integrity and resilience of the hardware and software of data processing equipment. A **“Subprocessor”** is the person with which Tailscale has sub-contracted such Processing.
     
-    1.7 “**UK SCC’s**” means the International Data Transfer Addendum to the EU Commission Standard Contractual Clauses, as published by the UK Information Commissioner’s Office and in force as of 21 March 2022. [^2]
+    1.7 “**UK SCCs**” means the International Data Transfer Addendum to the EU Commission Standard Contractual Clauses, as published by the UK Information Commissioner’s Office and in force as of 21 March 2022. [^2]
 
 2. **Details of Processing**.
 
@@ -190,7 +190,7 @@ Either party may end the UK SCCs as set out in Section 19 of the UK SCCs.
 | Frequency of the Transfer | Continuous during the term of the Agreement |
 | Nature & Purpose of Processing | <ul><li>Processing necessary to provide the Services to Customer and its Permitted Users.</li><li>Processing necessary for any disclosures of Customer Data in accordance with the Agreement and Tailscale’sPrivacy Statement.</li></ul> |
 | Purpose of Transfer | To provide the Tailscale Solution to Customer |
-| Duration of Processing | The Processing commences upon agreement to the Agreement and will terminate upon termination or expiration of the Agreement |
+| Duration of Processing | The Processing commences upon Customer’s agreement to the Agreement and will terminate upon termination or expiration of the Agreement |
 | Transfers to Subprocessors | Same as above with respect to the subject matter, nature and duration of the Processing |
 
 

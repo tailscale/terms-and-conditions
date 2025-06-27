@@ -31,11 +31,11 @@ Please read these Terms carefully as they affect your legal rights. By creating 
 
     1.7	“**Plan**” means a subscription package for the Services. We offer several Plans for both personal and business use at different price points, including free Plans, each with a slightly different mix of available features, functionality, limits, support and configuration options. For more information on our available Plans, please visit our [Pricing page](http://tailscale.com/pricing). We reserve the right to modify our Plans and any applicable service fees at any time.
 
-    1.8	“**Services**” means the the products, services and materials provided by Tailscale, including the Tailscale Solution, Tailscale Services and Documentation, and all Updates, modifications, or improvements thereto, that Customer purchases pursuant to an Order Form or otherwise uses. “Services” excludes any Third Party Services (as defined below).
+    1.8	“**Services**” means the the products, services and materials provided by Tailscale, including the Tailscale Solution, Tailscale Services and Documentation, and all Updates, modifications, or improvements thereto, that Customer purchases or otherwise uses. “Services” excludes any Third Party Services (as defined below).
 
     1.9	“**Tailscale Services**” means the support, onboarding, training, and other specialized services provided by Tailscale to help customers with implementing, using, and optimizing the Tailscale Solution.
 
-    1.10	“**Tailscale Solution**” means the proprietary software systems and services developed, maintained and provided by Tailscale, including: an Internet-accessible hosted software service, including an admin console and coordination server (the **“Hosted Software”**); application software that is installed or running on Customer or Permitted User devices, services, machines, containers, virtualized environments, web browsers or other **“Client Endpoints”** (the **“Client Software”**); and any other software systems or services provided by Tailscale to Customer as and to the extent stated on an Order Form.
+    1.10	“**Tailscale Solution**” means the proprietary software systems and services developed, maintained and provided by Tailscale, including: an Internet-accessible hosted software service, including an admin console and coordination server (the **“Hosted Software”**); application software that is installed or running on Customer or Permitted User devices, services, machines, containers, virtualized environments, web browsers or other **“Client Endpoints”** (the **“Client Software”**); and any other software systems or services provided by Tailscale to Customer as and to the extent included with your Plan.
 
     1.11	“**Traffic**” means the Customer records, files, communications, and other content and data that are transmitted over customer channels using the Tailscale Solution.
 
@@ -79,7 +79,7 @@ Please read these Terms carefully as they affect your legal rights. By creating 
 
 4. **Term; Termination.**
 
-    4.1	*Term.* These Terms will remain in effect from the day you open your Tailscale account until the earlier of (i) you closing your account or (ii) termination of these Terms by one of the parties as provided herein. The full duration of these Terms is the “**Term**.” 
+    4.1	*Term.* These Terms will remain in effect from the day you open your Tailscale account until the earlier of (i) you closing your account or (ii) termination of these Terms by one of the parties as provided herein. The full duration of these Terms is the “**Term**”. 
 
     4.2	*Closing your account.* You may close your account at any time by following the instructions in our Documentation. Any outstanding invoices will become immediately due and payable in accordance with the payment terms set forth in these Terms or on the applicable invoice. Any prepaid fees are non-refundable. 
 
@@ -140,7 +140,7 @@ Please read these Terms carefully as they affect your legal rights. By creating 
     
     9.3	*Indemnification procedures*. Each party’s respective defense and indemnification obligations are contingent upon: (a) the indemnified party providing the defending party with prompt written notice of an eligible claim (no more than thirty (30) days after receipt of notice of the claim), as well as reasonable cooperation, assistance and information in the defense and settlement of any claim; and (b) the defending party having sole authority to defend or settle such claim (provided that the defending party will not enter into a settlement that is not confidential, requires an admission of fault, or imposes non-monetary relief without the indemnified party’s prior written consent, which shall not be unreasonably withheld). The indemnified party will have the right to participate in the defense with counsel of its own choosing at its own expense, provided that such representation does not interfere with the defending party’s right to control the defense.
     
-    9.4	*Exclusive remedy*. This Section 9 states the indemnifying party’s sole liability to, and the indemnified party’s exclusive remedy against, the other party for any third party claim described in this section notwithstanding anything to the contrary in these Terms
+    9.4	*Exclusive remedy*. This Section 9 states the indemnifying party’s sole liability to, and the indemnified party’s exclusive remedy against, the other party for any third party claim described in this section notwithstanding anything to the contrary in these Terms.
 
 10. **Limitation of Liability.**
 
@@ -225,7 +225,7 @@ The parties understand that, absent this mandatory provision, they would have th
 
 5. *Exception \- Litigation of Intellectual Property and Small Claims Court Claims.* Notwithstanding the parties' decision to resolve all disputes through arbitration, either party may bring an action in state or federal court to protect its intellectual property rights (but not privacy or publicity rights). Either party may also elect to have disputes or claims resolved in a small claims court that are within the scope of that court’s jurisdiction. Either party may also seek a declaratory judgment or other equitable relief in a court of competent jurisdiction regarding whether a party’s claims are time-barred or may be brought in small claims court in your state and county of residence. Seeking such relief shall not waive a party’s right to arbitration under the Agreement.
 
-6. *30-Day Right to Opt Out.* You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth above by sending written notice of your decision to opt-out to the Tailscale Legal team at legal@tailscale.com. The notice must be sent within 30 days of the effective date of the Agreement, otherwise you shall be bound to arbitrate disputes in accordance with the terms of those paragraphs. If you opt-out of these arbitration provisions, Tailscale also will not be bound by them.
+6. *30-Day Right to Opt Out.* You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth above by sending written notice of your decision to opt-out to the address provided for notices below. The notice must be sent within 30 days of the effective date of the Agreement, otherwise you shall be bound to arbitrate disputes in accordance with the terms of those paragraphs. If you opt-out of these arbitration provisions, Tailscale also will not be bound by them.
 
 7. *Changes to this Schedule.* Tailscale will provide 30 days’ notice of any changes to this Schedule B. Changes will become effective on the 30th day. If you continue to use our websites or the Services after the 30th day, you agree that any unfiled claims of which Tailscale does not have actual notice are subject to the revised clause.
 

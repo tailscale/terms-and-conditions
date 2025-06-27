@@ -49,9 +49,9 @@ Keeping our platform and community safe, trustworthy, and vibrant requires balan
 - is false, inaccurate, or intentionally deceptive information;
 constitutes doxxing or posting personally identifiable information without owner consent;
 - impersonates any individual or entity, or otherwise misrepresents your identity as a person or entity through false association;
-harasses or abuses another individual or group, including our employees, officers and agents, or other users;
+- harasses or abuses another individual or group, including our employees, officers and agents, or other users;
 - threatens or incites violence toward any individual or group;
-gratuitously depicts or glorifies violence, including violent images; or
+- gratuitously depicts or glorifies violence, including violent images; or
 - is off-topic, or interacts with platform features in a way that significantly or repeatedly disrupts the experience of other users.
 
 Similarly, when communicating with Tailscale, including with our Customer Service or Support teams, the use of vulgar, offensive, abusive or threatening language, any form of harassment or bullying, impersonating others and providing false information are all strictly prohibited.

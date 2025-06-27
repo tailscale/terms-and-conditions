@@ -3,7 +3,7 @@ title: Special Terms
 slug: special-terms
 layout: legal
 description: >
-  The following are supplemental terms and addenda to the Tailscale Terms of Service and Main Service Agreement and form an integral part of the Agreement between you and Tailscale, but only if and to the extent applicable to your particular purchase, access or use of the Tailscale Solution (collectively the “Special Terms”).
+  The following are supplemental terms and addenda to the Tailscale Terms of Service and Main Service Agreement and form an integral part of the Agreement between you and Tailscale, but only if and to the extent applicable to your particular purchase, access or use of the Services (collectively the “Special Terms”).
 ---
 
 The following are supplemental terms and addenda to the Tailscale Terms of Service and Main Service Agreement and form an integral part of the Agreement between you and Tailscale, but only if and to the extent applicable to your particular purchase, access or use of the Services (collectively the “**Special Terms**”).

@@ -144,7 +144,7 @@ Some capitalized terms are defined in this Section 1 and others are defined cont
 
   11.2	**US Government Customers**. The Tailscale Solution is deemed a “commercial item” or “commercial computer software” according to FAR section 12.212 and DFAR section 227.7202, and the Documentation is “commercial computer software documentation” according to DFAR section 252.227-7014(a)(1) and (5). Any use, modification, reproduction, release, performance, display, or disclosure of the Tailscale Solution by the U.S. government will be governed solely by the terms of this Agreement and all other use is prohibited.
   
-  11.3	**EU Financial Entity Customers**. For Clients who qualify as a Financial Entity within the meaning of article 2(2) of the EU Digital Operational Resilience Act (DORA), the terms outlined in the “[DORA Addendum](http://tailscale.com/dora-addendum)” shall be automatically applicable, as from 17th January 2025 (DORA application date) and are expressly incorporated by reference.
+  11.3	**EU Financial Entity Customers**. For Clients who qualify as a Financial Entity within the meaning of article 2(2) of the EU Digital Operational Resilience Act (DORA), the terms outlined in the [DORA Addendum](http://tailscale.com/dora-addendum) shall be automatically applicable, as from 17th January 2025 (DORA application date) and are expressly incorporated by reference.
 
     
 ## 12. Miscellaneous.

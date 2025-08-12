@@ -6,7 +6,7 @@ description: >
   This page provides information about our EU Digital Services Act (DSA) notice.
 ---
 
-Last Updated: September 3, 2024
+Last Updated: August 14, 2025
 
 The following information is provided pursuant to the EU Digital Services Act (Regulation (EU) 2022/2065) requirements for ‘mere conduit’ ‘intermediary services.’
 
@@ -15,13 +15,13 @@ The following information is provided pursuant to the EU Digital Services Act (R
 Tailscale has appointed DataRep as its Legal Representative for the purposes of the EU Digital Services Act. If you want to raise a question to Tailscale regarding these issues, you may do so by contacting DataRep using one of the following methods:
 
 - **Email**: tailscale@datarep.com.
-- **Online request platform**: www.datarep.com/data-request.
+- **Online request platform**: [www.datarep.com/data-request](www.datarep.com/data-request).
 - **Mail\***: DataRep, The Cube, Monahan Road, Cork, T12 H1XY, Republic of Ireland.
-- **Phone**: +353 (1) 919 8899 (DataRep will ask you to follow up by email to ensure their understanding of your request).
+Phone: +353 (1) 919 8899 (DataRep will ask you to follow up by email to ensure their understanding of your request).
 
 \*Please direct any mail inquiries to DataRep, and ensure to clearly refer to Tailscale Inc. in your correspondence.
 
-If you have any concerns over how DataRep will handle the personal data they will require to undertake services, please refer to their privacy notice at www.datarep.com/privacy-policy.
+If you have any concerns over how DataRep will handle the personal data they will require to undertake services, please refer to their privacy notice at [www.datarep.com/privacy-policy](www.datarep.com/privacy-policy).
 
 ### Tailscale and Your Content
 

@@ -8,9 +8,9 @@ description: >
 
 **Tailscale Privacy Policy**
 
-Effective Date: May 30, 2025
+Effective Date: August 14, 2025
 
-Tailscale Inc. and its subsidiaries and affiliates ("Tailscale", "we", "our" or "us") allows customers and
+Tailscale (as defined in our Terms of Service or MSA, as applicable to you, "Tailscale", "we", "our" or "us") allows customers and
 individuals to directly connect servers, computers, mobile devices, and
 cloud instances in a simple mesh VPN network, in which every connection
 is encrypted. 
@@ -142,14 +142,7 @@ The types of data we collect directly from you include:
 **Tailscale Solution Information.** When you use the Tailscale Solution, we collect limited metadata regarding your device used to access the Tailscale Solution, such as: the device name; relevant operating system type; host name; IP address; cryptographic public key; user agent (where applicable); language settings; date and time of access to the Tailscale Solution; logs describing connections and containing statistics about data sent to and from other devices (“Inter-Node Traffic Logs”); and version of the Tailscale Solution installed. This information is needed to provide the Tailscale Solution to you. **However, please note that Tailscale does not process, or have the ability to access, the content of User traffic data transmitted through the Tailscale Solution, which is fully end-to-end encrypted.**
 
 
-Customers have the option, in their discretion, to use certain features
-and functionalities through the Tailscale Solution that may generate
-additional logs and other data that is sent to Tailscale for
-processing and storage on behalf of our Customers ("Customer Log
-Data"). The Customer, and not Tailscale, is the data controller over such
- Customer Log Data. Tailscale will process Customer
-Log Data in accordance with our [Data Processing Addendum](http://tailscale.com/dpa)
-with the Customer.
+Customers have the option, in their discretion, to use certain features and functionalities through the Tailscale Solution that may generate additional logs and other data that is sent to Tailscale for processing and storage on behalf of our Customers (“Customer Log Data”). The Customer, and not Tailscale, is the data controller over such Customer Log Data. Tailscale will process Customer Log Data in accordance with our [Data Processing Addendum](http://tailscale.com/dpa) with the Customer.
 
 As you use the Services, we also collect aggregated usage statistics
 (such as the amount of data transmitted through the Tailscale Solution
@@ -507,7 +500,7 @@ The CCPA requires us to provide you with certain information about:
 
 Under the CCPA, “sharing” is defined as the targeting of advertising to a consumer based on that consumer’s personal information obtained from the consumer’s activity across websites, and “selling” is defined as the disclosure of personal information to third parties in exchange for monetary or other valuable consideration. Our use of certain third-party providers, which are described more fully in the “Site Analytics and Advertising” section above, may result in the disclosure of online identifiers (ex: cookie data, IP addresses, device identifiers, and usage information) in a way that may be considered a “sale” or "sharing" under the CCPA.
 
-A chart with the information required by CCPA is available [here](https://info.tailscale.com/hubfs/CCPA-Notice-at-Collection-Disclosure.pdf).
+A chart with the information required by CCPA is available [here](https://docs.google.com/document/d/1J-Ng0Ty1BITgxr_fOwEPJIWEab4ZjK-M-XPBbAByEg8/edit?tab=t.0#heading=h.1t3h5sf).
 
 In addition, throughout this Privacy Policy, we discuss in detail the specific pieces of personal information we collect from and about you, information about your rights and our retention policies. Please see “The Information we Collect”, “How We Use Your Information,” “Site Analytics and Advertising,” “How We Disclose Your Information,” “Retention of Your Information” and “Your Rights and Your Choices” above for more information.
 
@@ -542,15 +535,14 @@ If you have any concerns or complaints about our data processing activities, we 
 
 You may also make a complaint to the data protection supervisory authority in the country where you are based, or seek a remedy through local courts if you believe your rights have been breached.
 
-Tailscale has appointed DataRep as its Data Protection Representative for the purposes of GDPR in the EU/EEA and The Data Protection Act 2018 / UK GDPR (as amended) in the UK. DataRep has locations in each of the 27 EU countries, the UK, and Norway and Iceland in the European Economic Area (EEA), so that our Users can always raise the questions they want with them. If you want to raise a question to Tailscale or otherwise exercise your rights in respect of your personal data, you may do so by:
+Pursuant to Article 27 of the General Data Protection Regulation (GDPR), Tailscale has appointed the European Data Protection Office (EDPO) as its GDPR Representative in the EU. You can contact EDPO regarding matters pertaining to the GDPR:
+- by using EDPO’s online request form: https://edpo.com/gdpr-data-request/
+- by writing to EDPO at Ground Floor, 71 Lower Baggot Street, Dublin 2, Co. Dublin, D02 P593, Ireland
 
-- sending an email to DataRep at <tailscale@datarep.com>;
-- contacting DataRep on the online webform at [www.datarep.com/data-request](https://www.datarep.com/data-request); or
-- Mailing your inquiry to DataRep at the most convenient of the addresses available [here](https://info.tailscale.com/hubfs/DataRep-Contact-locations.pdf).
+Pursuant to Article 27 of the UK GDPR, Tailscale has appointed EDPO UK Ltd as its UK GDPR representative in the UK. You can contact EDPO UK regarding matters pertaining to the UK GDPR:
+- by using EDPO’s online request form: https://edpo.com/uk-gdpr-data-request/
+- by writing to EDPO UK at 8 Northumberland Avenue, London WC2N 5BY, United Kingdom
 
-Please note that when mailing inquiries, it is essential that you mark your letters for ‘DataRep’ and not Tailscale, or your inquiry may not reach its intended destination. Please refer clearly to Tailscale in your correspondence with DataRep. On receiving your correspondence, they are likely to request evidence of your identity, to ensure your personal data and information connected with it is not provided to anyone other than you.
-
-If you have any concerns over how DataRep will handle the personal data they will require to undertake their services, please refer to their privacy notice at [www.datarep.com/privacy-policy](https://www.datarep.com/privacy-policy).
 
 ## 16. CONTACT US {id="contact-us"}
 

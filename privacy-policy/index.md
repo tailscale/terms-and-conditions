@@ -500,7 +500,7 @@ The CCPA requires us to provide you with certain information about:
 
 Under the CCPA, “sharing” is defined as the targeting of advertising to a consumer based on that consumer’s personal information obtained from the consumer’s activity across websites, and “selling” is defined as the disclosure of personal information to third parties in exchange for monetary or other valuable consideration. Our use of certain third-party providers, which are described more fully in the “Site Analytics and Advertising” section above, may result in the disclosure of online identifiers (ex: cookie data, IP addresses, device identifiers, and usage information) in a way that may be considered a “sale” or "sharing" under the CCPA.
 
-A chart with the information required by CCPA is available [here](https://docs.google.com/document/d/1J-Ng0Ty1BITgxr_fOwEPJIWEab4ZjK-M-XPBbAByEg8/edit?tab=t.0#heading=h.1t3h5sf).
+A chart with the information required by CCPA is available [here](https://info.tailscale.com/hubfs/CCPA-Notice-at-Collection-Disclosure.pdf).
 
 In addition, throughout this Privacy Policy, we discuss in detail the specific pieces of personal information we collect from and about you, information about your rights and our retention policies. Please see “The Information we Collect”, “How We Use Your Information,” “Site Analytics and Advertising,” “How We Disclose Your Information,” “Retention of Your Information” and “Your Rights and Your Choices” above for more information.
 

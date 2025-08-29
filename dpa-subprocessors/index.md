@@ -6,12 +6,13 @@ description: >
   A list of Tailscale's data subprocessors and the kinds of data they handle.
 ---
 
-**Last Updated: 2024-10-28**
+**Last Updated: 2025-09-02**
 | Subprocessor | Purpose of Processing | Data processed | Location |
 | --- | --- | --- | --- |
 | AWS | Cloud hosting provider | Client device and node information; Configuration information | United States, European Economic Area |
 | DigitalOcean | Cloud hosting provider for DERP servers | Client device and node information; Configuration information | United States, European Economic Area |
 | Hetzner | Cloud hosting provider for DERP servers | Client device and node information; Configuration information | United States, European Economic Area |
+| Linode | Cloud hosting provider for DERP servers | Client device and node information; Configuration information | United States |
 | Snowflake | Cloud-based data warehouse | Client device and node information; Configuration information | United States |
 | Vultr | Cloud hosting provider for DERP servers | Client device and node information; Configuration information | United States, European Economic Area |
 | NetActuate | Cloud hosting provider for DERP servers | Client device and node information; Configuration information | United States |

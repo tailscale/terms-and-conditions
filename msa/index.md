@@ -182,9 +182,10 @@ The following provisions have been negotiated by the parties and reflect a fair 
 
 ---
 
-# SCHEDULE A: Tailscale Entity
+# SCHEDULE A: Choice of Law
 
-|                                                     |                                                                                                                                          |
-| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Existing customer accounts as of September 2, 2024  | Tailscale Inc., a Canadian business corporation with registered address at 100 King Street West, Suite 6200, Toronto, ON M5X 1B8, Canada |
-| New customer accounts on or after September 3, 2024 | Tailscale US Inc., a Delaware corporation with registered address at 447 Sutter St Ste 405 #543, San Francisco, CA 94108, USA            |
+| If the Customer’s address in the Order Form is in:                           | The governing law is that of:                            | The courts or arbitration bodies having exclusive jurisdiction are: |
+| :--------------------------------------------------------------------------- | :------------------------------------------------------- | :------------------------------------------------------------------ |
+| The USA, Mexico, or any country in Central or South America or the Caribbean | New York, USA, and controlling United States federal law | Courts located in New York County, New York, USA                    |
+| Canada                                                                       | Ontario, Canada, and controlling Canadian federal law    | Courts located in Toronto, Ontario, Canada                          |
+| Any country in Europe, the Middle East, Asia or Africa                       | England and Wales                                        | Courts located in London, England                                   |

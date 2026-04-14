@@ -34,21 +34,21 @@ This Service Level Agreement (“**SLA**”) is included for all customers that 
 
     <ins>Table 1: Support Packages</ins>
 
-    |                    | Silver                                                               | Gold                                                                                                                             | Platinum                                     |
-    | ------------------ | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-    | Eligible Plans     | <ul><li>Enterprise</li><li>Premium</li><li>Legacy Business</li></ul> | <ul><li>Enterprise</li></ul>                                                                                                     | <ul><li>Enterprise</li></ul>                 |
-    | Support Hours      | <ul><li>Business hours (9am-6pm ET)</li></ul>                        | <ul><li>24x7x365 for Sev 1 & Sev 2</li></ul>                                                                                     | <ul><li>24x7x365 for Sev 1 & Sev 2</li></ul> |
-    | First Response SLA | See Table 2                                                          | See Table 2                                                                                                                      | See Table 2                                  |
-    | Onboarding         |  Includes 360 Onboarding                                             |  Includes 360 Onboarding                                                                                                         | Includes 360 Onboarding                      |
-    | Other Perks        |                                                                      | <ul><li>Dedicated CSE, Quarterly Roadmap Calls</li><li>Dedicated CSE, Dedicated Slack Channel, Conference Call Support</li></ul> |
+    |                    | Silver                                                               | Gold                                                            | Platinum                                                                                     |
+    | ------------------ | -------------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+    | Eligible Plans     | <ul><li>Enterprise</li><li>Premium</li><li>Legacy Business</li></ul> | <ul><li>Enterprise</li></ul>                                    | <ul><li>Enterprise</li></ul>                                                                 |
+    | Support Hours      | <ul><li>Business hours (9am-6pm ET)</li></ul>                        | <ul><li>24x7x365 for Sev 1 & Sev 2</li></ul>                    | <ul><li>24x7x365 for Sev 1 & Sev 2</li></ul>                                                 |
+    | First Response SLA | See Table 2                                                          | See Table 2                                                     | See Table 2                                                                                  |
+    | Onboarding         |  Includes 360 Onboarding                                             |  Includes 360 Onboarding                                        | Includes 360 Onboarding                                                                      |
+    | Other Perks        |                                                                      | <ul><li>Dedicated CSE</li><li>Quarterly Roadmap Calls</li></ul> | <ul><li>Dedicated CSE</li><li>Dedicated Slack Channel</li>Conference Call Support</li></ul>  |
 
     \*To receive 24x7 support for Severity 1 and Severity 2 incidents, you must first identify no more than three (3) authorized Customer contacts, and the request must come from one of those contacts. If you contact us from an account or email address that is not one of your authorized support contacts, we may not be able to verify and identify your associated account and will only be able to share generalized information. We also recommend that your contacts login to your account and use our [Contact Support form](https://tailscale.com/contact/support/) in order to be identified and routed correctly when submitting support tickets.
 
     <ins>Table 2: Severity Levels and First Response Times</ins>
 
     | Severity Level  | Silver First Response | Gold First Response | Platinum First Response |
-    | --------------- | --------------------- | ------------------- | ----------------------- | ---------- |
-    | Sev 1: Critical |                       | 3 hours             | 1 hour                  | 30 minutes |
+    | --------------- | --------------------- | ------------------- | ----------------------- |
+    | Sev 1: Critical | 3 hours               | 1 hour              | 30 minutes              |
     | Sev 2: High     | 6 business hours      | 2 hours             | 1 hour                  |
     | Sev 3: Normal   | 2 business days       | 1 business day      | 1 business day          |
     | Sev 4: Low      | 2 business days       | 1 business day      | 1 business day          |

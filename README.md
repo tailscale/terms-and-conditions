@@ -11,11 +11,18 @@ This repository includes:
 - [Main Service Agreement](/msa/index.md), published at https://tailscale.com/msa/
 - [Privacy Policy](/privacy-policy/index.md), published at https://tailscale.com/privacy-policy/
 - [Service Level Agreement](/sla/index.md), published at https://tailscale.com/sla/
-- [Data Privacy Addendum](/dpa/index.md), published at https://tailscale.com/dpa/
+- [Data Processing Addendum](/dpa/index.md), published at https://tailscale.com/dpa/
 - [Subprocessors List](/dpa-subprocessors/index.md), published at https://tailscale.com/dpa-subprocessors/
 - [Tailscale Acceptable Use Policy](/tailscale-aup/index.md), published at https://tailscale.com/tailscale-aup/
-- [Reseller Addendum](/reseller-addendum/index.md), published at https://tailscale.com/reseller-addendum/
-- [Education and Not-for-Profit Discount Plan Supplement](/discount-terms/index.md), published at https://tailscale.com/discount-terms/
+- [Special Terms](/special-terms/index.md), published at https://tailscale.com/special-terms/
+- [Channel Partner Agreement](/channel-partner-agreement/index.md), published at https://tailscale.com/channel-partner-agreement/
+- [Code of Conduct](/code-of-conduct/index.md), published at https://tailscale.com/code-of-conduct/
+- [Conference Refund Policy](/conference-refund-policy/index.md), published at https://tailscale.com/conference-refund-policy/
+- [Cookie Notice](/cookie-notice/index.md), published at https://tailscale.com/cookies/
+- [DORA Addendum](/dora-addendum/index.md), published at https://tailscale.com/dora-addendum/
+- [DSA Notice](/dsa-notice/index.md), published at https://tailscale.com/dsa-notice/
+- [Google Workspace Limited Use Disclosure](/google-workspace-limited-use/index.md), published at https://tailscale.com/google-workspace-limited-use/
+- [Patent List](/patents/index.md), published at https://tailscale.com/patents/
 
 ### Why did Tailscale publish these terms and conditions on GitHub?
 

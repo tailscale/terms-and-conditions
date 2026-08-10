@@ -541,7 +541,7 @@ Pursuant to Article 27 of the General Data Protection Regulation (GDPR), Tailsca
 
 Pursuant to Article 27 of the UK GDPR, Tailscale has appointed EDPO UK Ltd as its UK GDPR representative in the UK. You can contact EDPO UK regarding matters pertaining to the UK GDPR:
 - by using EDPO’s online request form: https://edpo.com/uk-gdpr-data-request/
-- by writing to EDPO UK at 8 Northumberland Avenue, London WC2N 5BY, United Kingdom
+- by writing to EDPO UK at Unit 33, Waterside, Schooner Court, 44-48 Wharf Road, London, N1 7UX, United Kingdom
 
 
 ## 16. CONTACT US {id="contact-us"}

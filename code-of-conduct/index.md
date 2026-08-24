@@ -25,7 +25,7 @@ If a participant engages in harassing behavior, whether in person or virtually, 
 If a participant (or individual wishing to participate in a Tailscale event, in-person and/or virtual), through postings on social media or other online publications or another form of electronic communication, engages in conduct that violates this policy, whether before, during or after a Tailscale event, Tailscale may take appropriate corrective action, which could include imposing a temporary or permanent ban on an individual's participation in future Tailscale events.
 
 ## What To Do If You Witness or Are Subject To Unacceptable Behavior
-If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately. You are also encouraged to contact Katie Reese, Senior Events Manager, at katie@tailscale.com.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately. You are also encouraged to contact our Events team at events@tailscale.com.
 
 ## Incident Response
 If a participant engages in harassing behavior, whether in-person or virtually, the conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund, depending on the circumstances. Tailscale reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further Tailscale events, trainings or other activities.

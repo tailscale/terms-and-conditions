@@ -75,7 +75,7 @@ This Data Processing Addendum (“**DPA**”) is entered into by and between Tai
 
     6.4	If the parties have entered into Standard Contractual Clauses (“SCCs”) as described in Section 7 (International Data Transfers): (a) the above authorizations will constitute  your prior written consent to our subcontracting of the Processing of Personal Data if such consent is required under the SCCs; and (b) solely upon your written request, we will make available to you copies of the agreements with authorized Subprocessors pursuant to Clause 9(c) of the SCCs, redacted as necessary to protect commercial information or other Tailscale Confidential Information unrelated to the SCCs. 
 
-7.  **International Data Transfers**.
+7.  **International Personal Data Transfers.**
 
     7.1 We will not engage in any cross-border Processing of Personal Data, or transmit, directly or indirectly, any Personal Data to any country outside of the country from which such Personal Data was collected, without complying with applicable Data Privacy Laws and the provisions in this Section 7. Where we engage in an onward transfer of Personal Data, we will ensure that, where legally required, a lawful data transfer mechanism is in place prior to transferring Personal Data from one country to another. You will ensure that you and your Permitted Users are entitled to transfer the Personal Data to Tailscale so that we may lawfully Process the Personal Data in accordance with this DPA, including without limitation by sub-contracting any Processing to an Affiliate or third party Subprocessor.
     

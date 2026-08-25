@@ -6,7 +6,7 @@ description: >
   These Terms of Service apply for self-serve customers and personal users of Tailscale, and form a binding legal agreement.
 ---
 
-Last updated: August 25, 2025
+Last updated: August 25, 2026
 
 These are the standard Terms of Service (the **“Terms”**) applicable to all customers that purchase the Services through the Hosted Software (both as defined below) or other online purchasing mechanism and not pursuant to an Order Form (collectively **“Self-Serve customers”**), and all customers that use the Services under a free trial or free Plan (defined below) (collectively **“Free customers”**). 
 
@@ -115,12 +115,12 @@ Please read these Terms carefully as they affect your legal rights. By creating 
     5.3	*Usage Data.* Tailscale processes personal data in Usage Data as an independent data controller or business in accordance with its [Privacy Policy](http://tailscale.com/privacy-policy) for limited internal business purposes related to the ongoing operation, development and protection of the Services. Customer acknowledges and agrees that such purposes are compatible with, reasonably necessary, and proportionate to providing the Services to Customer. Tailscale may also process de-identified or aggregated Usage Data (“**De-Identified Data**”) for purposes of improving and marketing the Services, including developing or publishing information, insights or reports related to the Services provided that Customer, Permitted Users, and End Users cannot be identified.
 
     5.4	*Shared Responsibility Model*. You acknowledge and agree that securing the Services requires both parties to share in the burden of responsibility of adopting and maintaining a variety of administrative, technical, physical, and organizational measures designed to protect the Services against accidental or unlawful destruction, loss, alteration, disclosure or access (collectively “**Security Measures**”). Our commitments regarding Security Measures are described in the DPA. We further commit that we will not knowingly introduce into the Services any viruses, worms, time bombs, Trojan horses or other malicious code that might harm, or any “copyleft” open source license that would require the open licensing of, any Customer Data, Traffic or Customer systems. You will adopt appropriate Security Measures to harden and protect your data, systems and tailnet(s), including those identified in Section 2.4 above (Customer Responsibilities).
-
+   
 6. **Artificial Intelligence.**
 
-  6.1 **No Use of AI with Customer Data, Customer AI Content, or PAM Data**. Tailscale will not use, and will not allow third parties to use, Customer Data, Customer AI Content, or PAM Data to train generative artificial intelligence models, large language models, or other foundation models, except where such processing is performed solely for Customer's benefit in connection with the Services and with Customer's prior consent.
-
-  6.2 **Usage Data & De-Identified Data**. Nothing in this section restricts Tailscale's use of Usage Data or De-Identified Data as permitted under Section 5.3, including through machine learning models used to operate and improve the Services.
+   6.1 **No Use of AI with Customer Data, Customer AI Content, or PAM Data**. Tailscale will not use, and will not allow third parties to use, Customer Data, Customer AI Content, or PAM Data to train generative artificial intelligence models, large language models, or other foundation models, except where such processing is performed solely for Customer's benefit in connection with the Services and with Customer's prior consent.
+   
+   6.2 **Usage Data & De-Identified Data**. Nothing in this section restricts Tailscale's use of Usage Data or De-Identified Data as permitted under Section 5.3, including through machine learning models used to operate and improve the Services.
 
 7. **Confidentiality.**
 
@@ -134,7 +134,7 @@ Please read these Terms carefully as they affect your legal rights. By creating 
 
     7.4	*Availability of injunctive relief.* The parties acknowledge that disclosure of any Confidential Information in violation of this Section 7 may give rise to irreparable injury to the owner of such information that is not adequately compensated by damages. Accordingly, each party will be entitled to seek equitable relief, including injunctive relief and specific performance against the breach or threatened breach of the undertakings in this Section 7, in addition to any other legal remedies which may be available.
 
-8. **Warranties & Disclaimers.**
+9. **Warranties & Disclaimers.**
 
     8.1	*Mutual warranties.* Each party represents and warrants that: (a) it is duly organized and validly existing under the laws of its relevant jurisdiction; (b) it has the full right, power and authority to enter into these Terms and perform its obligations hereunder; (c) these Terms are a valid and binding obligation of such party; and (d) it will comply with all applicable laws and regulations with respect to its activities hereunder.
 
@@ -142,7 +142,7 @@ Please read these Terms carefully as they affect your legal rights. By creating 
 
     8.3	*Warranty disclaimer.* **Except as expressly provided for in the Agreement, and to the maximum extent permitted by law, the Services are provided warranty free, on an "as is" and "as available" basis. We make no further representations, warranties, guarantees or conditions of any kind, whether express, implied, collateral or statutory, including any warranties of merchantability, merchantable quality, compatibility, title, security, reliability, non-infringement, accuracy, quality, completeness, quiet enjoyment, integration or fitness for a particular purpose or use. We further disclaim any and all representation, warranties, guarantees or conditions arising out of course of dealing or usage of trade. We further disclaim any and all representations, warranties, guarantees or conditions as to compliance with applicable laws and regulations if such compliance may compromise the security, confidentiality, integrity, availability or reliability of the Services, as determined by us in our sole discretion.** Some jurisdictions, including the Province of Quebec, do not allow the limitation or exclusion of certain warranties, or the exclusion or limitation of certain damages. If you reside in one of those jurisdictions, the above limitations or exclusions may not apply to you.
 
-9. **Disputes; Choice of Law.**
+10. **Disputes; Choice of Law.**
 
     9.1	*Choice of law*. If you are an individual using the Services for personal or household purposes and a resident of Quebec, the Agreement will be governed by and interpreted in accordance with the laws of the Province of Quebec and the laws of Canada applicable therein, and the parties will each attorn to the jurisdiction of the courts of Quebec. Otherwise, to the extent permitted by applicable law, the Agreement will be governed by and interpreted in accordance with the internal laws of the State of New York, USA, without regard to conflicts of laws principles. The United Nations Convention on Contracts for the International Sale of Goods will not apply to the Agreement. 
 
@@ -152,7 +152,7 @@ Please read these Terms carefully as they affect your legal rights. By creating 
 
     9.4	*Statute of limitations*. Regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to the use of the Services or the Agreement must be filed within one (1) year after such claim or cause of action arose or be forever barred.
 
-10. **Indemnification.**
+11. **Indemnification.**
 
     10.1	*Indemnification by Tailscale*. Tailscale will defend Customer and its Affiliates, and each of their respective officers, directors, employees, agents, successors and assigns, against any claim, demand, suit or proceeding made or brought against Customer by a third party (other than a Customer Affiliate) alleging that the Tailscale Solution infringes or misappropriates such third party’s intellectual property rights (a “**Claim Against Customer**”), and will indemnify Customer from any damages, attorney fees and costs finally awarded against Customer as a result of, or for amounts paid by Customer under a settlement approved by Tailscale in writing of, a Claim Against Customer. In the event that our right to provide the Tailscale Solution is threatened or enjoined, we may in our sole discretion either obtain the right to continue providing the Tailscale Solution, or replace or modify the Tailscale Solution so that it becomes non-infringing, or, if such remedies are not reasonably available, terminate these Terms upon thirty (30) days written notice without liability to you and refund any prepaid Fees covering the Tailscale Solution on a pro-rata basis following the effective date of such termination. The above defense and indemnification obligations will not apply to the extent a Claim Against Customer arises from: (i) Customer’s use of the Tailscale Solution in violation of this Agreement or the AUP; (ii) the nature of Customer Traffic, PAM Data, or Customer AI Content; (iii) Customer’s failure to timely install or use Updates when the Tailscale Solution would not infringe had such Updates been so installed or used; (iv) Customer’s instructions, specifications or requirements to Tailscale; (v) Customer’s combination or use of the Tailscale Solution with any other software, system, equipment, component, process or material not provided by Tailscale (including Third Party Services), when the Tailscale Solution would not infringe but for such combination; or (vi) Customer’s use of the Tailscale Solution not in accordance with the Agreement or Documentation.
     
@@ -162,7 +162,7 @@ Please read these Terms carefully as they affect your legal rights. By creating 
     
     10.4	*Exclusive remedy*. This Section 10 states the indemnifying party’s sole liability to, and the indemnified party’s exclusive remedy against, the other party for any third party claim described in this section notwithstanding anything to the contrary in these Terms.
 
-11. **Limitation of Liability.**
+12. **Limitation of Liability.**
 
     11.1 **Except for the Excluded Liabilities (defined below), notwithstanding anything in the Agreement to the contrary and to the maximum extent permitted by law, in no event shall either party be liable to the other party for any indirect, incidental, special, exemplary, consequential, or punitive damages, whether or not such party has been advised of the possibility of such damages, and whether any claim for recovery is based on theories of contract, warranty, tort (including negligence and strict liability), or otherwise. Some jurisdictions, including the Province of Quebec, do not allow the exclusion or limitation of certain damages. If you reside in one of those jurisdictions, the above limitations or exclusions may not apply to you.**
 
@@ -170,7 +170,7 @@ Please read these Terms carefully as they affect your legal rights. By creating 
 
     11.3 For purposes of this Section 11, the “Excluded Liabilities'' are any liabilities arising from: (a) indemnification obligations under Section 10 (Indemnification); (b) breach of Section 7 (Confidentiality); (c) breach of Section 2.3 (Restrictions); (d) Customer’s obligation to pay all outstanding Fees; or (e) a party’s gross negligence, willful misconduct or fraud.
 
-12. **Trade Compliance.**
+13. **Trade Compliance.**
 
     12.1 *Sanctions and Export Controls*. In connection with these Terms, each party agrees to comply with: all relevant export and import laws; and all laws relating to embargoes or sanctions, including the lists of specially designated persons maintained by the United Nations Security Council, the Canadian Government, the United States Government, the European Union or its member states, or other applicable government authority (collectively “**Sanctions**”). By accessing and using the Services, you represent, warrant, and covenant that you, your Permitted Users, and your End Users are not on any Sanctions list or owned or controlled by any such person. Any attempt to access or use the Services in breach of the foregoing is considered a material breach of these Terms. We reserve full rights to change or limit access to the Services to ensure compliance with applicable laws and regulations.
     
@@ -178,7 +178,7 @@ Please read these Terms carefully as they affect your legal rights. By creating 
     
     12.3 *EU Financial Entity Customers*. For Customers who qualify as a Financial Entity within the meaning of article 2(2) of the EU Digital Operational Resilience Act (DORA), the terms outlined in the [DORA Addendum](http://tailscale.com/dora-addendum) shall be automatically applicable, as from 17th January 2025 (DORA application date) and are expressly incorporated by reference
 
-13. **Miscellaneous.**
+14. **Miscellaneous.**
 
     13.1 *Evaluation Periods*. Tailscale may, in its sole discretion, make certain features or services available to you free of charge solely for evaluation, trial, proof of concept or similar purposes for a limited period of time (the “Evaluation Periods”). Notwithstanding anything in these Terms to the contrary: (a) Tailscale reserves the right to terminate Evaluation Periods at any time for any reason; (b) neither the SLA nor any of the representations and warranties set forth in the Agreement apply to or during Evaluation Periods; and (c) Tailscale’s aggregate liability to you in connection with Evaluation Periods shall not exceed $100.
     

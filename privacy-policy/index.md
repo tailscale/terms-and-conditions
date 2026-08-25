@@ -8,22 +8,15 @@ description: >
 
 **Tailscale Privacy Policy**
 
-Effective Date: August 14, 2025
+Effective Date: August 25, 2025
 
 Tailscale (as defined in our Terms of Service or MSA, as applicable to you, "Tailscale", "we", "our" or "us") allows customers and
 individuals to directly connect servers, computers, mobile devices, and
 cloud instances in a simple mesh VPN network, in which every connection
 is encrypted. 
 
-Tailscale is committed to transparency in our processing of
-information. This Privacy Policy describes how we collect, use, disclose
-and protect information from and about you through our
-websites [tailscale.com](https://www.tailscale.com), [login.tailscale.com](https://login.tailscale.com) and any other
-website or mobile application that links to this Privacy Policy (the
-"Site"), mesh VPN services (the "Tailscale Solution"), and any other
-interactions (e.g., customer support, events, our social media pages,
-community engagement, and other communications) that you may have with us (all of these
-offerings collectively referred to herein as the "Services").
+Tailscale is committed to transparency in our processing of information. This Privacy Policy describes how we collect, use, disclose and protect information from and about you through our websites [tailscale.com](https://www.tailscale.com/), [login.tailscale.com](https://login.tailscale.com/) and any other website or mobile application that links to this Privacy Policy (the "Site"), mesh VPN services (the "Tailscale Solution"), AI gateway services (“Aperture”), privileged access management services (“PAM”), and any other interactions (e.g., customer support, events, our social media pages, community engagement, and other communications) that you may have with us (all of these offerings collectively referred to herein as the "Services").
+
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY TO UNDERSTAND HOW WE HANDLE
 YOUR INFORMATION. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO
@@ -56,34 +49,21 @@ INFORMATION](#legal-bases-for-use-of-your-information)
 
 [12. CALIFORNIA NOTICE](#california-notice)
 
-[13. CHANGES TO OUR PRIVACY POLICY](#changes-to-our-privacy-policy)
+[13. INFORMATION FOR NON-USERS](#information-for-non-users)
 
-[14. CHILDREN’S PRIVACY](#childrens-privacy)
+[14. CHANGES TO OUR PRIVACY POLICY](#changes-to-our-privacy-policy)
 
-[15. COMPLAINTS](#complaints)
+[15. CHILDREN’S PRIVACY](#childrens-privacy)
 
-[16. CONTACT US](#contact-us)
+[16. COMPLAINTS](#complaints)
+
+[17. CONTACT US](#contact-us)
 
 ## 1. SCOPE OF THIS PRIVACY POLICY {id="scope-of-this-privacy-policy"}
 
-Please note that this Privacy Policy applies where Tailscale is a “data controller” (under GDPR) or “business” (under California law) of your information. This includes when we collect information from and about visitors to our websites (“Site Visitors”), prospective users and customers (“Prospects”), community members who engage with Tailscale on GitHub, Reddit and other similar social media or developer sites or forums (“Community Members”), as well as users of the Tailscale Solution (“Users”), collectively referred to herein as “you.”
+Please note that this Privacy Policy applies where Tailscale is a “data controller” (under GDPR) or “business” (under California law) of your information. This includes when we collect information from and about visitors to our websites (“Site Visitors”), prospective users and customers (“Prospects”), community members who engage with Tailscale on GitHub, Reddit and other similar social media or developer sites or forums (“Community Members”), as well as users of the Tailscale Solution, PAM, or Aperture (“Users”), collectively referred to herein as “you.”
 
-In providing our Services, we may process certain information about
-Users on behalf of organizations that have contracted to use the
-Tailscale Solution under a Main Service Agreement or Terms of Service
-("Customers"). In such circumstances, our Customers are the data
-controllers and we are the "data processor" or "service provider"
-(depending on applicable law) as set forth in our [Data Processing Addendum](http://tailscale.com/dpa) with Customers. This means that our Customers are
-responsible for processing information in accordance with their own
-privacy policies and practices, and otherwise complying with applicable
-data protection laws. When we act as a data processor, we will only
-process information about Users using our Customers' accounts according
-to the Customers' instructions and the applicable data processing
-agreement we have in place with our Customers, or as otherwise required
-by applicable law. In such circumstances, if you have any questions
-about the processing of your information, or would like to make any
-requests regarding your information, please contact your tailnet owner (the Customer) for
-assistance.
+In providing our Services, we may process certain information on behalf of organizations that have contracted to use the Tailscale Solution, PAM, or Aperture under a Main Service Agreement or Terms of Service ("Customers"). In such circumstances, our Customers are the data controllers and we are the "data processor" or "service provider" (depending on applicable law) as set forth in our [Data Processing Addendum](http://tailscale.com/dpa) with Customers. This means that our Customers are responsible for processing information in accordance with their own privacy policies and practices, and otherwise complying with applicable data protection laws. When we act as a data processor, we process information according to the applicable data processing agreement we have in place with our Customers, or as otherwise required by applicable law. In such circumstances, if you have any questions about the processing of your information, or would like to make any requests regarding your information, please contact your tailnet owner or PAM or Aperture administrator (the Customer) for assistance.
 
 ## 2. THE INFORMATION WE COLLECT {id="the-information-we-collect"}
 
@@ -139,8 +119,7 @@ The types of data we collect directly from you include:
 
 ### INFORMATION WE COLLECT THROUGH AUTOMATED MEANS
 
-**Tailscale Solution Information.** When you use the Tailscale Solution, we collect limited metadata regarding your device used to access the Tailscale Solution, such as: the device name; relevant operating system type; host name; IP address; cryptographic public key; user agent (where applicable); language settings; date and time of access to the Tailscale Solution; logs describing connections and containing statistics about data sent to and from other devices (“Inter-Node Traffic Logs”); and version of the Tailscale Solution installed. This information is needed to provide the Tailscale Solution to you. **However, please note that Tailscale does not process, or have the ability to access, the content of User traffic data transmitted through the Tailscale Solution, which is fully end-to-end encrypted.**
-
+**Tailscale Solution Information.** When you use the Tailscale Solution, we collect limited metadata regarding your device used to access the Tailscale Solution, such as: the device name; relevant operating system type; host name; IP address; cryptographic public key; user agent (where applicable); language settings; date and time of access to the Tailscale Solution; logs describing connections and containing statistics about data sent to and from other devices (“Inter-Node Traffic Logs”); and version of the Tailscale Solution installed. This information is needed to provide the Tailscale Solution to you. However, please note that Tailscale does not process, or have the ability to access, the content of User traffic data transmitted through the Tailscale Solution, which is fully end-to-end encrypted. (This does not apply to content processed by Aperture or PAM, as described below.)
 
 Customers have the option, in their discretion, to use certain features and functionalities through the Tailscale Solution that may generate additional logs and other data that is sent to Tailscale for processing and storage on behalf of our Customers (“Customer Log Data”). The Customer, and not Tailscale, is the data controller over such Customer Log Data. Tailscale will process Customer Log Data in accordance with our [Data Processing Addendum](http://tailscale.com/dpa) with the Customer.
 
@@ -152,6 +131,15 @@ information or the metadata discussed above that we collect through your
 use of the Tailscale Solution cannot be used to identify you or your
 device, we can use and disclose such information in our discretion as
 discussed in the "Aggregate/De-Identified" Information section below.
+
+**Aperture Information.**  When you use Aperture, we collect and process information about the AI requests and responses that are routed through the Aperture gateway, which may include logs and content, specifically, model / inference endpoint session histories and API requests and responses (“Customer AI Content”). Customer AI Content includes headers and message bodies of prompts and model outputs, which may contain your information.  In addition to Customer AI Content, we collect metrics and analytics regarding your use of Aperture, including token counts, model and model provider, and tool call frequencies , which may be associated with your information.   We also collect user and device attribution information, such as the user login name, persistent device identifiers, and tags associated with the device.
+
+**PAM Information.**  When you use PAM, we collect, transport, and store information necessary to authenticate users, authorize access requests, establish connections to protected resources, and provide audit, monitoring, and security functionality. This information may include user identifiers, usernames, email addresses, authentication and identity-provider information, device identifiers, IP addresses, geolocation data derived from IP addresses, access policies, and information regarding the resources to which access is requested or granted.
+
+We also collect information about PAM sessions and access activity  (“PAM Activity Data”), including connection metadata, audit logs, commands executed, database queries, API requests, session events, access decisions, and other activity associated with the use of protected resources. 
+
+If enabled by you or your organization, PAM may collect and store user session artifacts, such as screen and session recordings, transcripts, terminal output, web application activity, and related audit records (“Session Recordings”). Session recordings may contain information displayed, transmitted, or otherwise made available during a session. 
+In addition, we collect operational metrics and analytics regarding use of PAM, including connection counts, authentication events, resource access patterns, session duration, feature utilization, performance data, and security events. 
 
 **Site Information**. When you use our Site, we automatically collect
 certain information about your device and how you use the Site,
@@ -206,6 +194,8 @@ social media sites, we may collect some information from you including
 your name, username, email address, and any comments or content you post
 relevant to us.
 
+**Non-Users (Aperture and PAM).**  If you are not a Customer or User, we may still collect your information if a Customer or User includes that information in AI prompts, if the information is included in model outputs routed through Aperture, or if your information is contained in audit logs, access activity, or session recordings processed by PAM.  For more information, please see the Notice for Non-Users below. 
+
 ## 3. HOW WE USE YOUR INFORMATION {id="how-we-use-your-information"}
 
 We use your information for various purposes depending on the types of
@@ -232,7 +222,7 @@ information we have collected from and about you, to:
     legitimate interests or the legitimate interests of others; Establish, exercise, or defend our legal rights where it is necessary for our legitimate interests or the legitimate interests
     of others
 
-**Aggregate/De-Identified Information**. We may aggregate and/or de-identify any information collected through our Services so that such information can no longer be linked to you or your device (“Aggregate/De-Identified Information”). We may use such information for any purpose, including without limitation developing and publishing information statistics, insights, industry trend reporting or thought leadership related to the Services, and may also disclose such data with any third parties, including our third-party partners.
+Aggregate/De-Identified Information. We may aggregate and/or de-identify any information collected through our Services so that such information can no longer be linked to you or your device (“Aggregate/De-Identified Information”). We may use such information for any purpose, including without limitation developing and publishing information statistics, insights, industry trend reporting or thought leadership related to the Services, and may also disclose such data with any third parties, including our third-party partners.
 
 
 ## 4. LEGAL BASES FOR USE OF YOUR INFORMATION {id="legal-bases-for-use-of-your-information"}
@@ -253,7 +243,7 @@ Policy are as follows:
 -   Where we have your consent to process your information in a certain
     way (e.g., when you attend a webinar and agree to receive news, emails or promotions from us)
 
-## 5. SITE ANALYTICS AND ADVERTISING
+## 5. SITE ANALYTICS AND ADVERTISING {id="site-analytics-and-advertising"}
 
 **ANALYTICS** We may use third-party web analytics service providers on our Site to: collect and analyze usage information through cookies and similar tools; engage in auditing, research, or reporting; assist with fraud prevention; and provide certain features to you. To prevent analytics service providers from using your information for analytics, please see our [Cookie Notice](https://tailscale.com/cookie-notice) for more information about managing cookies. If you receive email from us, we may use certain analytics tools, such as clear GIFs to capture data such as when you open our message or click on any links or banners our email contains. This data allows us to gauge the effectiveness of our communications and marketing campaigns.
 
@@ -293,7 +283,6 @@ browser-initiated DNT signals.
 
 Please note that Do Not Track is a different privacy mechanism than the user “preference signal” referenced in the “Your Rights and Your Choices” section below, which is a browser-based control that indicates whether you would like to opt out of processing of your information for certain purposes (such as the “sale” of your information or the disclosure of your information for targeted advertising purposes) under applicable law.
 
-
 ## 6. HOW WE DISCLOSE YOUR INFORMATION {id="how-we-disclose-your-information"}
 
 We will disclose your information in the following ways:
@@ -303,12 +292,12 @@ We will disclose your information in the following ways:
 -   **Affiliates and Subsidiaries.** We may disclose the information
     we collect within the Tailscale family of companies.
 
--   **Your Organization.** If you are a User using the Tailscale
-    Solution under an organization's account, we may provide your
-    information to the organization you are engaged or employed by in
-    order to fulfill and enforce our services agreement with your
-    organization, and to inform your organization regarding usage,
-    support, or training needs.
+-   **Your Organization.** If you are a User using the Tailscale Solution, PAM, or Aperture under an organization's account, we may   provide your information to the organization you are engaged or employed by in order to fulfill and enforce our services agreement with your organization, and to inform your organization regarding usage, support, or training needs.  For Aperture and PAM, your organization and its authorized administrators may be able to view or export information associated with your use of the Services, including AI/LLM request metadata, Customer AI Content, access logs, audit records, session metadata, access decisions, and, where enabled, session recordings or transcripts.
+
+-   **AI/LLM Providers (Aperture).** When you use Aperture, content that may include your information is forwarded to the third-party AI/LLM providers selected or configured by you or your organization. Those providers process the content you submit under their own terms and privacy practices or as otherwise governed by applicable agreements with your organization. 
+
+-   **Integrations (Aperture and PAM).** Aperture or PAM may integrate with third party services and enable you to export or store Customer AI Content, logs, events, audit records, authentication events, access requests, access decisions, session metadata, PAM Activity Data, session recordings, transcripts, and associated metadata with those services. These services include identity providers, cloud storage providers, and security and monitoring tools.
+
 
 -   **Protection of Tailscale and Others.** By using the Services, you
     acknowledge and agree that we may access, retain, and disclose the
@@ -396,6 +385,8 @@ for which it is processed. The length of time for which we retain
 information depends on the purposes for which we collected and use it
 and/or as required to comply with applicable laws.
 
+For Aperture and PAM, retention periods for Customer Content, logs, audit records, PAM Activity Data, and session recordings may vary depending on the Customer’s configuration, plan, integrations, storage location, and applicable agreement with Tailscale. Customers may be able to configure retention, deletion, export, or storage settings for certain logs, events, and recordings. 
+
 ## 8. YOUR RIGHTS AND YOUR CHOICES {id="your-rights-and-your-choices"}
 
 You have certain rights with respect to your information as further
@@ -432,10 +423,7 @@ the "Contact Us" section below.
 
 If you are located in a U.S. state that has appeals rights and you are not satisfied with our response to your request (Virginia, Minnesota, Montana, Oregon, Tennessee, Texas, Colorado, or Connecticut), you can contact us using the information in the “Contact Us” section below.  Your description must include your full name, along with the copy of the denial you received from us.
 
-As explained at the beginning of this Privacy Policy, if you are using
-the Tailscale Solution as a user of a Customer account, and you would
-like to inquire about any of the rights discussed in this section,
-please contact the Customer for assistance.
+As explained at the beginning of this Privacy Policy, if you are using the Tailscale Solution, PAM, or Aperture as a user of a Customer account, and you would like to inquire about any of the rights discussed in this section, please contact the Customer for assistance.
 
 ### MARKETING COMMUNICATIONS
 
@@ -500,7 +488,7 @@ The CCPA requires us to provide you with certain information about:
 
 Under the CCPA, “sharing” is defined as the targeting of advertising to a consumer based on that consumer’s personal information obtained from the consumer’s activity across websites, and “selling” is defined as the disclosure of personal information to third parties in exchange for monetary or other valuable consideration. Our use of certain third-party providers, which are described more fully in the “Site Analytics and Advertising” section above, may result in the disclosure of online identifiers (ex: cookie data, IP addresses, device identifiers, and usage information) in a way that may be considered a “sale” or "sharing" under the CCPA.
 
-A chart with the information required by CCPA is available [here](https://info.tailscale.com/hubfs/CCPA-Notice-at-Collection-Disclosure.pdf).
+A chart with the information required by the CCPA is available [here](https://info.tailscale.com/hubfs/CCPA-Notice-at-Collection-Disclosure.pdf).
 
 In addition, throughout this Privacy Policy, we discuss in detail the specific pieces of personal information we collect from and about you, information about your rights and our retention policies. Please see “The Information we Collect”, “How We Use Your Information,” “Site Analytics and Advertising,” “How We Disclose Your Information,” “Retention of Your Information” and “Your Rights and Your Choices” above for more information.
 
@@ -513,7 +501,25 @@ information (as defined in the Shine the Light law) with third parties
 for their direct marketing purposes. We do not disclose your personal
 information with third parties for their own direct marketing purposes.
 
-## 13. CHANGES TO OUR PRIVACY POLICY {id="changes-to-our-privacy-policy"}
+## 13. INFORMATION FOR NON-USERS {id="information-for-non-users"}
+
+Certain of our Services allow Users to process content or activity data, including information about people who are not Tailscale Users (“Non-User Information”). For example, Non-User Information may be included in Customer AI Content processed through Aperture or in PAM Activity Data, audit logs, access activity, session recordings, transcripts, or other session artifacts processed through PAM.
+
+If your Non-User Information is included in content processed by these Services:
+
+-   **Our role depends on the account type.** If these Services are used under a Customer (enterprise) account, we process Non-User Information at the direction of our Customers and subject to our agreements with them and their instructions to us, not this Privacy Policy. If you have a question about how your information is processed, please contact the Customer.  If the Services are used by an individual consumer User without a Customer account, we process Non-User Information as described in this Privacy Policy.
+
+-   **How we receive it.** We receive Non-User Information if a User submits or processes content that includes your information through Services like Aperture or PAM.
+
+-   **How we use it.** We process Non-User Information to operate the Services and as otherwise described in this Privacy Policy.
+
+-  **How we disclose it.** The content may be disclosed to third party provider(s) chosen by the User.  Users and Customers may also export logs or events (which can include Non-User Information and associated metadata) to third party services, such as storage or security tooling.   We may also disclose Non-User Information as otherwise described in this Privacy Policy.
+
+- **How long we keep it**.  We keep your information for no longer than necessary for the purposes for which it is processed. The length of time for which we retain information depends on the purposes for which we collected and use it and/or as required to comply with applicable laws.  Retention periods may vary depending on the User’s configuration and plan.
+
+- **Your choices and rights.** If you have questions or want to exercise rights you may have under applicable privacy laws, please see Section 8.
+
+## 14. CHANGES TO OUR PRIVACY POLICY {id="changes-to-our-privacy-policy"}
 
 We reserve the right to amend this Privacy Policy at any time to reflect
 changes in the law, our data collection and use practices, or advances
@@ -526,10 +532,10 @@ be provided with appropriate notice in accordance with legal
 requirements. By continuing to use the Services, you are confirming that
 you have read and understood the latest version of this Privacy Policy.
 
-## 14. CHILDREN’S PRIVACY {id="childrens-privacy"}
+## 15. CHILDREN’S PRIVACY {id="childrens-privacy"}
 The Services are not directed to minors or children. In this context, minors are individuals under the age of 16.  We do not intentionally or knowingly collect information from minors or children or allow them to open and manage accounts. If you have any concerns about your child’s privacy, please contact us at <privacy@tailscale.com>. 
 
-## 15. COMPLAINTS
+## 16. COMPLAINTS {id="complaints"}
 
 If you have any concerns or complaints about our data processing activities, we urge you to first try to resolve such issues directly with us. We are committed to resolving complaints about your privacy and our collection, use, transfer or disclosure of your information. Any inquiries or complaints regarding this Privacy Policy or our data processing activities should be directed to <privacy@tailscale.com>. 
 
@@ -544,7 +550,7 @@ Pursuant to Article 27 of the UK GDPR, Tailscale has appointed EDPO UK Ltd as it
 - by writing to EDPO UK at Unit 33, Waterside, Schooner Court, 44-48 Wharf Road, London, N1 7UX, United Kingdom
 
 
-## 16. CONTACT US {id="contact-us"}
+## 17. CONTACT US {id="contact-us"}
 
 Tailscale welcomes your comments and questions regarding this Privacy
 Policy and the collection and use of your information. If you have

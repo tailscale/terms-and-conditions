@@ -8,7 +8,7 @@ description: >
 
 **Tailscale Privacy Policy**
 
-Effective Date: August 25, 2025
+Effective Date: August 25, 2026
 
 Tailscale (as defined in our Terms of Service or MSA, as applicable to you, "Tailscale", "we", "our" or "us") allows customers and
 individuals to directly connect servers, computers, mobile devices, and

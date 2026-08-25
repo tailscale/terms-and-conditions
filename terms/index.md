@@ -55,7 +55,7 @@ Please read these Terms carefully as they affect your legal rights. By creating 
 
     1.19 “**Updates**” means any version updates, bug fixes, patches, error corrections, and other similar software, content or service updates to the Services.
 
-    1.14 “**Usage Data**” means any machine-generated data or metadata resulting from the ordinary course operation or use of the Tailscale Solution that are created, collected, derived or discovered by the Tailscale Solution, including telemetry and log data. Usage Data includes PAM Metrics and Aperture Metrics, but does not include Traffic.  
+    1.20 “**Usage Data**” means any machine-generated data or metadata resulting from the ordinary course operation or use of the Tailscale Solution that are created, collected, derived or discovered by the Tailscale Solution, including telemetry and log data. Usage Data includes PAM Metrics and Aperture Metrics, but does not include Traffic.  
 
 2. **Service Terms.**
 
@@ -74,7 +74,6 @@ Please read these Terms carefully as they affect your legal rights. By creating 
     2.7 *Feedback.* If you or any of your Permitted Users or End Users choose to provide feedback, suggestions, ideas or recommendations about the Services (“Feedback”), we may freely use Feedback without restriction or obligation. We are not obligated to use Feedback, but if we do then it becomes part of the Services and our property. Unless in the context of Research, all Feedback will be treated as non-confidential and non-proprietary and we will not be liable for any use or disclosure of any Feedback, nor will the submitter be entitled to any compensation for our use of their Feedback.
     
     2.8 *Research.* From time to time you or certain of your Permitted Users may be invited to participate in studies, focus groups, workshops, beta testing, or other research or testing of features, projects, products or services related to the Services, some of which may be experimental or not yet be ready for general release (“**Research**”). Participation is completely voluntary. We are not forming a partnership, joint venture, agency, or employment relationship with you or your Permitted Users just by virtue of participating in Research. We are under no obligation to generally release the feature or functionality subject to Research, or to provide any special maintenance, technical support, or other service or support for Research. **All materials and experiences associated with Research are provided on an "as is" and "as available" basis**.
-
 
 3. **Payment.**
 
@@ -134,7 +133,7 @@ Please read these Terms carefully as they affect your legal rights. By creating 
 
     7.4	*Availability of injunctive relief.* The parties acknowledge that disclosure of any Confidential Information in violation of this Section 7 may give rise to irreparable injury to the owner of such information that is not adequately compensated by damages. Accordingly, each party will be entitled to seek equitable relief, including injunctive relief and specific performance against the breach or threatened breach of the undertakings in this Section 7, in addition to any other legal remedies which may be available.
 
-9. **Warranties & Disclaimers.**
+8. **Warranties & Disclaimers.**
 
     8.1	*Mutual warranties.* Each party represents and warrants that: (a) it is duly organized and validly existing under the laws of its relevant jurisdiction; (b) it has the full right, power and authority to enter into these Terms and perform its obligations hereunder; (c) these Terms are a valid and binding obligation of such party; and (d) it will comply with all applicable laws and regulations with respect to its activities hereunder.
 
@@ -142,7 +141,7 @@ Please read these Terms carefully as they affect your legal rights. By creating 
 
     8.3	*Warranty disclaimer.* **Except as expressly provided for in the Agreement, and to the maximum extent permitted by law, the Services are provided warranty free, on an "as is" and "as available" basis. We make no further representations, warranties, guarantees or conditions of any kind, whether express, implied, collateral or statutory, including any warranties of merchantability, merchantable quality, compatibility, title, security, reliability, non-infringement, accuracy, quality, completeness, quiet enjoyment, integration or fitness for a particular purpose or use. We further disclaim any and all representation, warranties, guarantees or conditions arising out of course of dealing or usage of trade. We further disclaim any and all representations, warranties, guarantees or conditions as to compliance with applicable laws and regulations if such compliance may compromise the security, confidentiality, integrity, availability or reliability of the Services, as determined by us in our sole discretion.** Some jurisdictions, including the Province of Quebec, do not allow the limitation or exclusion of certain warranties, or the exclusion or limitation of certain damages. If you reside in one of those jurisdictions, the above limitations or exclusions may not apply to you.
 
-10. **Disputes; Choice of Law.**
+9. **Disputes; Choice of Law.**
 
     9.1	*Choice of law*. If you are an individual using the Services for personal or household purposes and a resident of Quebec, the Agreement will be governed by and interpreted in accordance with the laws of the Province of Quebec and the laws of Canada applicable therein, and the parties will each attorn to the jurisdiction of the courts of Quebec. Otherwise, to the extent permitted by applicable law, the Agreement will be governed by and interpreted in accordance with the internal laws of the State of New York, USA, without regard to conflicts of laws principles. The United Nations Convention on Contracts for the International Sale of Goods will not apply to the Agreement. 
 
@@ -152,7 +151,7 @@ Please read these Terms carefully as they affect your legal rights. By creating 
 
     9.4	*Statute of limitations*. Regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to the use of the Services or the Agreement must be filed within one (1) year after such claim or cause of action arose or be forever barred.
 
-11. **Indemnification.**
+10. **Indemnification.**
 
     10.1	*Indemnification by Tailscale*. Tailscale will defend Customer and its Affiliates, and each of their respective officers, directors, employees, agents, successors and assigns, against any claim, demand, suit or proceeding made or brought against Customer by a third party (other than a Customer Affiliate) alleging that the Tailscale Solution infringes or misappropriates such third party’s intellectual property rights (a “**Claim Against Customer**”), and will indemnify Customer from any damages, attorney fees and costs finally awarded against Customer as a result of, or for amounts paid by Customer under a settlement approved by Tailscale in writing of, a Claim Against Customer. In the event that our right to provide the Tailscale Solution is threatened or enjoined, we may in our sole discretion either obtain the right to continue providing the Tailscale Solution, or replace or modify the Tailscale Solution so that it becomes non-infringing, or, if such remedies are not reasonably available, terminate these Terms upon thirty (30) days written notice without liability to you and refund any prepaid Fees covering the Tailscale Solution on a pro-rata basis following the effective date of such termination. The above defense and indemnification obligations will not apply to the extent a Claim Against Customer arises from: (i) Customer’s use of the Tailscale Solution in violation of this Agreement or the AUP; (ii) the nature of Customer Traffic, PAM Data, or Customer AI Content; (iii) Customer’s failure to timely install or use Updates when the Tailscale Solution would not infringe had such Updates been so installed or used; (iv) Customer’s instructions, specifications or requirements to Tailscale; (v) Customer’s combination or use of the Tailscale Solution with any other software, system, equipment, component, process or material not provided by Tailscale (including Third Party Services), when the Tailscale Solution would not infringe but for such combination; or (vi) Customer’s use of the Tailscale Solution not in accordance with the Agreement or Documentation.
     
@@ -162,7 +161,7 @@ Please read these Terms carefully as they affect your legal rights. By creating 
     
     10.4	*Exclusive remedy*. This Section 10 states the indemnifying party’s sole liability to, and the indemnified party’s exclusive remedy against, the other party for any third party claim described in this section notwithstanding anything to the contrary in these Terms.
 
-12. **Limitation of Liability.**
+11. **Limitation of Liability.**
 
     11.1 **Except for the Excluded Liabilities (defined below), notwithstanding anything in the Agreement to the contrary and to the maximum extent permitted by law, in no event shall either party be liable to the other party for any indirect, incidental, special, exemplary, consequential, or punitive damages, whether or not such party has been advised of the possibility of such damages, and whether any claim for recovery is based on theories of contract, warranty, tort (including negligence and strict liability), or otherwise. Some jurisdictions, including the Province of Quebec, do not allow the exclusion or limitation of certain damages. If you reside in one of those jurisdictions, the above limitations or exclusions may not apply to you.**
 
@@ -170,7 +169,7 @@ Please read these Terms carefully as they affect your legal rights. By creating 
 
     11.3 For purposes of this Section 11, the “Excluded Liabilities'' are any liabilities arising from: (a) indemnification obligations under Section 10 (Indemnification); (b) breach of Section 7 (Confidentiality); (c) breach of Section 2.3 (Restrictions); (d) Customer’s obligation to pay all outstanding Fees; or (e) a party’s gross negligence, willful misconduct or fraud.
 
-13. **Trade Compliance.**
+12. **Trade Compliance.**
 
     12.1 *Sanctions and Export Controls*. In connection with these Terms, each party agrees to comply with: all relevant export and import laws; and all laws relating to embargoes or sanctions, including the lists of specially designated persons maintained by the United Nations Security Council, the Canadian Government, the United States Government, the European Union or its member states, or other applicable government authority (collectively “**Sanctions**”). By accessing and using the Services, you represent, warrant, and covenant that you, your Permitted Users, and your End Users are not on any Sanctions list or owned or controlled by any such person. Any attempt to access or use the Services in breach of the foregoing is considered a material breach of these Terms. We reserve full rights to change or limit access to the Services to ensure compliance with applicable laws and regulations.
     
@@ -178,7 +177,7 @@ Please read these Terms carefully as they affect your legal rights. By creating 
     
     12.3 *EU Financial Entity Customers*. For Customers who qualify as a Financial Entity within the meaning of article 2(2) of the EU Digital Operational Resilience Act (DORA), the terms outlined in the [DORA Addendum](http://tailscale.com/dora-addendum) shall be automatically applicable, as from 17th January 2025 (DORA application date) and are expressly incorporated by reference
 
-14. **Miscellaneous.**
+13. **Miscellaneous.**
 
     13.1 *Evaluation Periods*. Tailscale may, in its sole discretion, make certain features or services available to you free of charge solely for evaluation, trial, proof of concept or similar purposes for a limited period of time (the “Evaluation Periods”). Notwithstanding anything in these Terms to the contrary: (a) Tailscale reserves the right to terminate Evaluation Periods at any time for any reason; (b) neither the SLA nor any of the representations and warranties set forth in the Agreement apply to or during Evaluation Periods; and (c) Tailscale’s aggregate liability to you in connection with Evaluation Periods shall not exceed $100.
     

@@ -6,14 +6,22 @@ description: >
   A list of Tailscale's data subprocessors and the kinds of data they handle.
 ---
 
-**Last Updated: 2025-09-02**
-| Subprocessor | Purpose of Processing | Data processed | Location |
-| --- | --- | --- | --- |
-| AWS | Cloud hosting provider | Client device and node information; Configuration information | United States, European Economic Area |
-| DigitalOcean | Cloud hosting provider for DERP servers | Client device and node information; Configuration information | United States, European Economic Area |
-| Hetzner | Cloud hosting provider for DERP servers | Client device and node information; Configuration information | United States, European Economic Area |
-| Linode | Cloud hosting provider for DERP servers | Client device and node information; Configuration information | United States |
-| Snowflake | Cloud-based data warehouse | Client device and node information; Configuration information | United States |
-| Vultr | Cloud hosting provider for DERP servers | Client device and node information; Configuration information | United States, European Economic Area |
-| NetActuate | Cloud hosting provider for DERP servers | Client device and node information; Configuration information | United States |
-| Jira Service Management | Troubleshooting | Contact information | United States |
+**Last Updated: 2026-08-25**
+
+| Subprocessor | Applies to | Purpose of Processing | Data processed | Location |
+| --- | --- | --- | --- | --- |
+| Amazon Web Services, Inc. | All products | Cloud hosting provider | Client device and node information; Configuration information; Customer AI Content (1) | United States, European Economic Area |
+| DigitalOcean, LLC | All products | Cloud hosting provider for DERP servers (2) | Client device and node information; Configuration information | United States, European Economic Area |
+| Hetzner Online GmbH | All products | Cloud hosting provider for DERP servers (2) | Client device and node information; Configuration information | United States, European Economic Area |
+| Akamai Technologies, Inc. (Linode) | All products | Cloud hosting provider for DERP servers (2) | Client device and node information; Configuration information | United States |
+| Snowflake Inc. | All products | Cloud-based data warehouse | Client device and node information; Configuration information | United States |
+| The Constant Company, LLC (Vultr) | All products | Cloud hosting provider for DERP servers (2) | Client device and node information; Configuration information | United States, European Economic Area |
+| NetActuate, Inc. | All products | Cloud hosting provider for DERP servers (2) | Client device and node information; Configuration information | United States |
+| Atlassian Corporation (Jira Service Management) | All products | Troubleshooting | Contact information | United States |
+| Vercel Inc. (3) | Aperture only | Cloud hosting provider; AI gateway | Client device and node information; Configuration information; Customer AI Content (1) | United States (requests may transit global edge locations) |
+
+(1) **Customer AI Content** is defined in the [Aperture Terms](https://aperture.tailscale.com/terms).
+
+(2) DERP servers relay end-to-end encrypted traffic when a direct connection between devices is unavailable. The operators listed have no access to the contents of relayed traffic.
+
+(3) Vercel routes requests to third-party model providers acting as Vercel's subprocessors. Vercel maintains its current list at [security.vercel.com](https://security.vercel.com). Those providers are engaged by Vercel under Vercel's data processing terms, not by Tailscale, and changes to Vercel's list are governed by Vercel's notice obligations rather than Section 6.3 of the [Tailscale DPA](https://tailscale.com/dpa). Tailscale remains responsible for its subprocessors' processing of Customer Data.

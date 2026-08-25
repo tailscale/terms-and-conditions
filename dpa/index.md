@@ -131,7 +131,7 @@ By entering into this DPA and Schedule A, the parties are deemed to be signing t
 | ----------- | ------------- | ------------- |
 | Name        | Customer      | Tailscale     |
 | Address | As provided in Customer’s customer account information | As provided in the Terms or MSA (as applicable to you) |
-| Contact Person | As provided in Customer's Tailscale Customer account information | Helen Odom<br>Director of Legal<br>privacy@tailscale.com |
+| Contact Person | As provided in Customer's Tailscale Customer account information | Legal Department<br>privacy@tailscale.com |
 | Activities relevant to the transfer | Processing necessary to provide the Services to Customer and for any disclosures of Personal Data in accordance with the Agreement and the Tailscale Privacy Policy. |
 | Role | Controller or Processor (as applicable) | Processor or Subprocessor (as applicable) |
 
@@ -164,7 +164,7 @@ By entering into this DPA and Schedule B, the parties are deemed to be signing t
 |Trading Name (if different) | Customer’s trading name | Tailscale |
 | Address | As provided in Customer’s Tailscale Customer account information | As provided in the Terms or MSA (as applicable to you) |
 | Official Registration Number | As applicable to Customer | N/A |
-| Key Contact | As provided in Customer’s Tailscale Customer account information | Helen Odom<br>Director of Legal<br>privacy@tailscale.com |
+| Key Contact | As provided in Customer’s Tailscale Customer account information | Legal Department<br>privacy@tailscale.com |
 
 
 ### Table 2: Selected SCCs, Modules and Selected Clauses

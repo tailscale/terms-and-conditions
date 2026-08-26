@@ -23,7 +23,7 @@ This repository includes:
 - [DSA Notice](/dsa-notice/index.md), published at https://tailscale.com/dsa-notice/
 - [Google Workspace Limited Use Disclosure](/google-workspace-limited-use/index.md), published at https://tailscale.com/google-workspace-limited-use/
 - [Patent List](/patents/index.md), published at https://tailscale.com/patents/
-- [Tailscale PAM Terms](/pam/index.md), published at https://tailscale.com/pam/
+- [Tailscale PAM Terms](/pam-terms/index.md), published at https://tailscale.com/pam-terms/
 
 ### Why did Tailscale publish these terms and conditions on GitHub?
 

@@ -8,7 +8,7 @@ description: >
 
 **Tailscale Service Level Agreement**
 
-Last updated date: 2024-04-10
+Last updated date: 2026-06-02
 
 This Service Level Agreement (“**SLA**”) is included for all customers that purchase a Silver or Gold support package pursuant to an Order Form with Tailscale. Any capitalized terms that are not defined in this SLA have the meanings assigned to such terms in the Main Service Agreement between you and Tailscale.
 

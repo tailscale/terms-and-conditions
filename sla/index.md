@@ -16,7 +16,7 @@ This Service Level Agreement (“**SLA**”) is included for all customers that 
 
 2.  **Service Availability**.
 
-    2.1 **Uptime**. For purposes of this SLA, “**Uptime**” is the percentage of total possible minutes that core systems of the Tailscale Solution – namely, the <tailscale.com> website and Documentation, admin console, API, coordination server, DERP relay servers, and package server– are operational and available each calendar month. Tailscale will make commercially reasonable efforts to maintain at least 99.9% Uptime.
+    2.1 **Uptime**. For purposes of this SLA, “**Uptime**” is the percentage of total possible minutes that core systems of the Tailscale Solution – namely, the <tailscale.com> website and Documentation, admin console, API, coordination service, DERP relay servers, and package server– are operational and available each calendar month. Tailscale will make commercially reasonable efforts to maintain at least 99.9% Uptime.
 
          (Total minutes in a month - Downtime minutes) / total minutes in a month > 99.9%
 
@@ -87,7 +87,7 @@ This Service Level Agreement (“**SLA**”) is included for all customers that 
     - Devices behind subnet routers;
     - External network or equipment problems outside of our reasonable control, such as issues with bad routing tables between your Internet service provider (ISP) and our server, Internet service failures or delays, or the unavailability or modification by third parties of telecommunications or hosting infrastructure;
     - Any suspension of Permitted User accounts due to unauthorized access or use in violation of the Agreement;
-    - Self-hosted coordination servers;
+    - Self-hosted coordination services;
     - Self-compiled versions of our open source code;
     - Tailscale Client Software that is used on or in conjunction with hardware or software other than that specified in applicable Documentation;
     - Using the Tailscale Solution not in accordance with the Agreement or Documentation;

@@ -8,7 +8,7 @@ description: >
 
 # Tailscale PAM Terms
 
-Last Updated: August 25, 2026
+Last Updated: October 13, 2026
 
 These PAM Terms govern access to and use of the Tailscale privileged access management services as further described in our Documentation (“**PAM**”). By using PAM, you agree to be bound to these PAM Terms.  In the event of a conflict between Tailscale’s [Terms of Service](https://tailscale.com/terms) or [Main Service Agreement](https://tailscale.com/msa) (as applicable to you) (the “**Agreement**”) and these PAM Terms, these PAM Terms shall supersede and control.
 
@@ -66,7 +66,7 @@ Unless we expressly agree in writing, you will not configure or use PAM to submi
 
 ## 9. Support and Service Levels
 
-Unless expressly agreed in writing, our SLA (if and as applicable to you) does not apply to PAM.
+If and to the extent our [SLA](https://tailscale.com/sla) applies to you, the Priority Support Standards set forth in Section 3 of the SLA will apply to PAM, subject to the applicable terms and exclusions of the SLA. For avoidance of doubt, the Service Availability commitments set forth in Section 2 of the SLA, and any Service Credits relating to Uptime or Downtime under Section 4 of the SLA, will not apply to PAM unless expressly agreed in writing.
 
 ## 10. Confidentiality
 

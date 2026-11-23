@@ -20,6 +20,7 @@ description: >
 | Atlassian Corporation (Jira Service Management) | All products | Troubleshooting | Contact information | United States |
 | Vercel Inc. | Aperture only | Cloud hosting provider; AI gateway | Client device and node information; Configuration information; Customer AI Content (1) | United States (requests may transit global edge locations) |
 | OpenAI | PAM only | AI model provider for certain PAM features | PAM Data(3) | United States |
+| ControlD Inc. (Control D) | Control D DNS filtering add-on only | DNS resolution and filtering; enforcement of DNS security policies; DNS logging and analytics where enabled | DNS queries and associated device/network metadata; configuration information; DNS logs where enabled | Global DNS processing; analytics stored in the United States, European Economic Area (Netherlands), or Singapore, depending on the configured storage region |
 
 (1) **Customer AI Content** is defined in the [Aperture Terms](https://aperture.tailscale.com/terms).
 

@@ -62,6 +62,6 @@ This Acceptable Use Policy (**“AUP”**) is part of the Documentation applicab
 
 We do not have any general obligation to monitor your use of the Tailscale Solution. We do not have, and do not undertake, any obligation to prescreen, monitor, edit, or remove any content or data, or to actively seek facts or circumstances indicating illegal activity.
 
-If you suspect abuse of this AUP, the Services, or any community channels, please contact our support team at [support@tailscale.com](support@tailscale.com). Reports of abuse may be escalated to our Legal team for handling if and as necessary.
+If you suspect abuse of this AUP, the Services, or any community channels, please contact our support team at support@tailscale.com. Reports of abuse may be escalated to our Legal team for handling if and as necessary.
 
 Tailscale retains full discretion to take action (or not) in response to a violation of these policies with or without notice or liability to you, including account suspension, account termination, or removal of content. You will provide reasonable cooperation in any investigation or action regarding suspected or alleged violations. We will interpret our policies and resolve disputes in favor of protecting users, customers, the public, our community and our company, as a whole.
